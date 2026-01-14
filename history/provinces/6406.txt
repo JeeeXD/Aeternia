@@ -1,0 +1,14 @@
+base_tax = 5
+base_manpower = 5
+base_production = 3
+is_city = yes
+add_core = FLA
+owner = FLA
+trade_goods = iron
+religion = catholic
+controller = FLA
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+culture = wallonian

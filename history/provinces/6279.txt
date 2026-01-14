@@ -1,0 +1,14 @@
+base_tax = 2
+base_manpower = 2
+base_production = 2
+is_city = yes
+owner = NOL
+trade_goods = gems
+religion = celtic_pagan
+controller = NOL
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+culture = english
+add_core = NOL

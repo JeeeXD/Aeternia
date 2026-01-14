@@ -1,0 +1,16 @@
+base_tax = 4
+base_manpower = 3
+base_production = 4
+is_city = yes
+add_core = AMG
+owner = AMG
+trade_goods = salt
+religion = catholic
+controller = AMG
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+culture = gascon
+add_core = GUY
+add_core = ENG

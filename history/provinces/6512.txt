@@ -1,0 +1,15 @@
+base_tax = 6
+base_manpower = 5
+base_production = 4
+is_city = yes
+add_core = NEV
+owner = NEV
+trade_goods = cloth
+religion = orthodox
+controller = NEV
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+culture = wallonian
+hre = yes

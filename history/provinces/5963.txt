@@ -1,0 +1,12 @@
+add_core = LNA
+owner = LNA
+base_tax = 1
+base_manpower = 2
+base_production = 2
+religion = sunni
+controller = LNA
+is_city = yes
+culture = central_thai
+trade_goods = incense
+discovered_by = chinese
+discovered_by = indian

@@ -1,0 +1,14 @@
+base_tax = 3
+base_manpower = 2
+base_production = 3
+is_city = yes
+add_core = CAS
+owner = CAS
+trade_goods = cloth
+religion = catholic
+controller = CAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+culture = andalucian

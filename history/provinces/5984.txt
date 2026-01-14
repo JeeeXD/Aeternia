@@ -1,0 +1,12 @@
+add_core = JAR
+owner = JAR
+base_tax = 3
+base_manpower = 2
+base_production = 2
+religion = animism
+controller = JAR
+is_city = yes
+culture = cham
+trade_goods = chinaware
+discovered_by = chinese
+discovered_by = indian

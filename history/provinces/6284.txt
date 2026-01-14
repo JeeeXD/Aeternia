@@ -1,0 +1,14 @@
+base_tax = 2
+base_manpower = 2
+base_production = 2
+is_city = yes
+owner = WLS
+trade_goods = naval_supplies
+religion = celtic_pagan
+controller = WLS
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+culture = welsh
+add_core = WLS

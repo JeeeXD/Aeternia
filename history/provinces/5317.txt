@@ -1,0 +1,14 @@
+base_tax = 1
+base_manpower = 2
+base_production = 3
+add_core = KBO
+owner = KBO
+religion = shamanism
+controller = KBO
+is_city = yes
+trade_goods = slaves
+culture = kanuri
+discovered_by = sub_saharan
+latent_trade_goods = { 
+	coal 
+}

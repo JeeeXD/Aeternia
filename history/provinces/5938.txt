@@ -1,0 +1,9 @@
+base_tax = 1
+base_manpower = 1
+base_production = 1
+trade_goods = unknown
+religion = animism
+culture = papuan
+native_size = 82
+native_ferocity = 6
+native_hostileness = 1

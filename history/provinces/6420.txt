@@ -1,0 +1,15 @@
+base_tax = 3
+base_manpower = 3
+base_production = 2
+is_city = yes
+add_core = SAV
+owner = SAV
+trade_goods = wine
+religion = catholic
+controller = SAV
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+culture = swiss
+hre = yes

@@ -1,0 +1,15 @@
+base_tax = 4
+base_manpower = 4
+base_production = 2
+is_city = yes
+add_core = BRU
+owner = BRU
+trade_goods = iron
+religion = orthodox
+controller = BRU
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+culture = lower_saxon
+hre = yes

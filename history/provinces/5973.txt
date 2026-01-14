@@ -1,0 +1,13 @@
+add_core = LXA
+owner = LXA
+base_tax = 2
+base_manpower = 2
+base_production = 3
+religion = sunni
+controller = LXA
+is_city = yes
+culture = lao
+trade_goods = tropical_wood
+discovered_by = chinese
+discovered_by = indian
+add_core = LUA

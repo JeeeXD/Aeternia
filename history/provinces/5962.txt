@@ -1,0 +1,13 @@
+add_core = SUK
+add_core = AYU
+owner = SUK
+base_tax = 1
+base_manpower = 3
+base_production = 2
+religion = sunni
+controller = SUK
+is_city = yes
+culture = central_thai
+trade_goods = copper
+discovered_by = chinese
+discovered_by = indian

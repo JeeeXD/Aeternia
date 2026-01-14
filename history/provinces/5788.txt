@@ -1,0 +1,14 @@
+base_tax = 2
+base_manpower = 1
+base_production = 2
+is_city = yes
+owner = QOM
+religion = sunni
+controller = QOM
+trade_goods = wine
+discovered_by = muslim
+discovered_by = indian
+discovered_by = ottoman
+discovered_by = nomad_group
+culture = azerbaijani
+add_core = QOM

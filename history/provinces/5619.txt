@@ -1,0 +1,12 @@
+add_core = AVA
+owner = AVA
+base_tax = 1
+base_manpower = 3
+base_production = 3
+culture = burmese
+trade_goods = grain
+religion = sunni
+controller = AVA
+is_city = yes
+discovered_by = indian
+discovered_by = chinese

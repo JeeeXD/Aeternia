@@ -1,0 +1,13 @@
+add_core = AYU
+owner = AYU
+base_tax = 3
+base_manpower = 3
+base_production = 1
+culture = central_thai
+trade_goods = cloth
+religion = buddhism
+controller = AYU
+is_city = yes
+discovered_by = indian
+discovered_by = chinese
+discovered_by = muslim

@@ -1,0 +1,17 @@
+base_tax = 3
+base_manpower = 5
+base_production = 4
+is_city = yes
+owner = AQT
+trade_goods = paper
+religion = catholic
+controller = AQT
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+culture = gascon
+latent_trade_goods = { 
+	coal 
+}
+add_core = AQT

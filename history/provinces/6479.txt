@@ -1,0 +1,12 @@
+base_tax = 1
+base_manpower = 1
+base_production = 1
+is_city = yes
+owner = SMI
+religion = finnish_pagan
+controller = SMI
+discovered_by = western
+discovered_by = eastern
+culture = karelian
+trade_goods = fish
+add_core = SMI

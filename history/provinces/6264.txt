@@ -1,0 +1,15 @@
+base_tax = 1
+base_manpower = 1
+base_production = 1
+is_city = yes
+add_core = SCO
+owner = SCO
+trade_goods = grain
+religion = celtic_pagan
+controller = SCO
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+culture = highland_scottish
+add_core = HSC

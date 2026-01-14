@@ -1,0 +1,12 @@
+add_core = KOR
+discovered_by = chinese
+discovered_by = nomad_group
+owner = KOR
+base_tax = 2
+base_manpower = 1
+base_production = 1
+culture = korean
+trade_goods = grain
+religion = confucianism
+controller = KOR
+is_city = yes

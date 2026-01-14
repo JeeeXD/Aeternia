@@ -1,0 +1,12 @@
+add_core = BPR
+discovered_by = indian
+discovered_by = chinese
+owner = BPR
+base_tax = 3
+base_manpower = 3
+base_production = 3
+culture = burmese
+trade_goods = salt
+religion = sunni
+controller = BPR
+is_city = yes

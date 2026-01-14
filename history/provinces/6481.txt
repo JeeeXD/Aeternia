@@ -1,0 +1,17 @@
+base_tax = 1
+base_manpower = 1
+base_production = 1
+is_city = yes
+add_core = PRM
+owner = PRM
+religion = sunni
+controller = PRM
+discovered_by = western
+discovered_by = eastern
+discovered_by = NOG
+discovered_by = KAZ
+discovered_by = GOL
+discovered_by = CRI
+culture = uralic
+trade_goods = fur
+add_core = NOV

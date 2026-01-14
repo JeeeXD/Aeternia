@@ -1,0 +1,12 @@
+add_core = HSE
+owner = HSE
+base_tax = 1
+base_manpower = 2
+base_production = 2
+religion = sunni
+controller = HSE
+is_city = yes
+culture = shan
+trade_goods = tropical_wood
+discovered_by = chinese
+discovered_by = indian

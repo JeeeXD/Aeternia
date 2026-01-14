@@ -1,0 +1,14 @@
+base_tax = 1
+base_manpower = 3
+base_production = 2
+is_city = yes
+owner = GRA
+trade_goods = livestock
+religion = catholic
+controller = GRA
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+culture = andalucian
+add_core = GRA

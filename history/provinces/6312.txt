@@ -1,0 +1,15 @@
+base_tax = 3
+base_manpower = 2
+base_production = 3
+is_city = yes
+owner = ASU
+trade_goods = grain
+religion = catholic
+controller = ASU
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+culture = leonese
+add_core = LON
+add_core = ASU

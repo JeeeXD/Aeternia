@@ -1,0 +1,14 @@
+base_tax = 2
+base_manpower = 3
+base_production = 1
+is_city = yes
+owner = WLS
+trade_goods = wool
+religion = celtic_pagan
+controller = WLS
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+culture = welsh
+add_core = WLS

@@ -1,0 +1,15 @@
+base_tax = 3
+base_manpower = 3
+base_production = 4
+is_city = yes
+add_core = SHL
+owner = SHL
+trade_goods = paper
+religion = orthodox
+controller = SHL
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+culture = lower_saxon
+hre = yes

@@ -1,0 +1,16 @@
+base_tax = 2
+base_manpower = 2
+base_production = 3
+is_city = yes
+add_core = LIV
+owner = LIV
+trade_goods = naval_supplies
+religion = romuva_pagan
+controller = LIV
+discovered_by = western
+discovered_by = eastern
+culture = estonian
+discovered_by = KAZ
+discovered_by = GOL
+discovered_by = CRI
+add_core = EST

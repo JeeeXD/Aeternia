@@ -1,0 +1,15 @@
+base_tax = 5
+base_manpower = 6
+base_production = 4
+is_city = yes
+add_core = ORL
+owner = ORL
+trade_goods = iron
+religion = orthodox
+controller = ORL
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+culture = cosmopolitan_french
+add_core = PIC

@@ -1,0 +1,14 @@
+base_tax = 4
+base_manpower = 3
+base_production = 1
+is_city = yes
+add_core = SRV
+owner = SRV
+religion = sunni
+controller = SRV
+trade_goods = iron
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = nomad_group
+culture = azerbaijani
+discovered_by = muslim

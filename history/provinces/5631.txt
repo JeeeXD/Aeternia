@@ -1,0 +1,13 @@
+add_core = BEI
+owner = BEI
+base_tax = 2
+base_manpower = 3
+base_production = 1
+culture = bornean
+trade_goods = tropical_wood
+religion = sunni
+controller = BEI
+is_city = yes
+discovered_by = indian
+discovered_by = chinese
+discovered_by = muslim

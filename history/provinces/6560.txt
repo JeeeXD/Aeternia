@@ -1,0 +1,12 @@
+discovered_by = eastern
+discovered_by = western
+owner = SMI
+base_tax = 2
+base_manpower = 1
+base_production = 1
+culture = sapmi
+trade_goods = naval_supplies
+religion = norse_pagan_reformed
+controller = SMI
+is_city = yes
+add_core = SMI

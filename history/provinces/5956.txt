@@ -1,0 +1,14 @@
+add_core = AYU
+owner = AYU
+base_tax = 2
+base_manpower = 2
+base_production = 3
+religion = buddhism
+controller = AYU
+is_city = yes
+culture = mon
+trade_goods = tropical_wood
+discovered_by = chinese
+discovered_by = indian
+discovered_by = ottoman
+discovered_by = muslim

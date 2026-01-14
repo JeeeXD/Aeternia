@@ -1,0 +1,11 @@
+add_core = BTU
+owner = BTU
+base_tax = 1
+base_manpower = 2
+base_production = 1
+culture = filipino
+trade_goods = fish
+religion = animism
+controller = BTU
+is_city = yes
+discovered_by = chinese

@@ -1,0 +1,13 @@
+add_core = KAZ
+discovered_by = eastern
+owner = KAZ
+base_tax = 3
+base_manpower = 1
+base_production = 2
+culture = bashkir
+trade_goods = livestock
+religion = sunni
+controller = KAZ
+is_city = yes
+discovered_by = nomad_group
+add_core = BSH

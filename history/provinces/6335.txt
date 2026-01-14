@@ -1,0 +1,14 @@
+base_tax = 3
+base_manpower = 2
+base_production = 3
+is_city = yes
+add_core = ORL
+owner = ORL
+trade_goods = naval_supplies
+religion = orthodox
+controller = ORL
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+culture = cosmopolitan_french

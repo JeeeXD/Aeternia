@@ -1,0 +1,15 @@
+spriteTypes = {
+	# Subject Icons:
+	spriteType = {
+		name = "GFX_icon_timurid_vassal"
+		texturefile = "gfx/interface/icon_timurid_vassal.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_diplomacy_lead_timurid_vassal"
+		texturefile = "gfx/interface/icon_diplomacy_lead_timurid_vassal.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_diplomacy_am_timurid_vassal"
+		texturefile = "gfx/interface/icon_diplomacy_am_timurid_vassal.dds"
+	}
+}

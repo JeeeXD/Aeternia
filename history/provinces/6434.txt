@@ -1,0 +1,15 @@
+base_tax = 3
+base_manpower = 3
+base_production = 4
+is_city = yes
+owner = POM
+hre = yes
+trade_goods = grain
+religion = orthodox
+controller = POM
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+culture = pommeranian
+add_core = POM

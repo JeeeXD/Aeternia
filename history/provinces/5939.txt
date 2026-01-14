@@ -1,0 +1,11 @@
+base_tax = 2
+base_manpower = 1
+base_production = 1
+trade_goods = unknown
+religion = animism
+culture = papuan
+discovered_by = TER
+discovered_by = TID
+native_size = 73
+native_ferocity = 8
+native_hostileness = 1

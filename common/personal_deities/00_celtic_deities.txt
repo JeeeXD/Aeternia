@@ -1,0 +1,155 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new dieties, make sure they are uniquely named.
+
+brigid = {
+	manpower_recovery_speed = 0.1
+	movement_speed = 0.1
+	
+	potential = { religion = celtic_pagan }
+	trigger = {}
+	sprite = 7
+	
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_diplomat
+		}
+	}
+}
+
+manannan = {
+	naval_morale = 0.1
+	legitimacy = 1
+	
+	potential = { religion = celtic_pagan }
+	trigger = {}
+	sprite = 8
+	
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_colonialist
+		}
+	}
+}
+
+macha = {
+	cavalry_power = 0.15
+	land_forcelimit_modifier = 0.05
+	
+	potential = { religion = celtic_pagan }
+	trigger = {}
+	sprite = 9
+	
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			NOT = { num_of_cities = 5 }
+		}
+		modifier = {
+			factor = 2
+			NOT = { num_of_cities = 10 }
+		}
+		modifier = {
+			factor = 0.5
+			num_of_cities = 30
+		}
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_capitalist
+		}		
+	}
+}
+
+nuada = {
+	global_tax_modifier = 0.25
+	prestige = 0.5
+	
+	potential = { religion = celtic_pagan }
+	trigger = {}
+	sprite = 10
+	
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_colonialist
+		}		
+	}
+}
+
+taranis = {
+	colony_development_boost = 1
+	
+	potential = { religion = celtic_pagan }
+	trigger = {}
+	sprite = 11
+	
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_capitalist
+		}	
+		modifier = {
+			factor = 2
+			personality = ai_colonialist
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_militarist
+		}		
+	}
+}
+
+gobannus = {
+	build_time = -0.2
+	production_efficiency = 0.2
+	
+	potential = { religion = celtic_pagan }
+	trigger = {}
+	sprite = 12
+	
+	effect = {}
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_diplomat
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_militarist
+		}		
+	}
+}

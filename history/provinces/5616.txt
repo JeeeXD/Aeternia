@@ -1,0 +1,11 @@
+add_core = PGS
+owner = PGS
+base_tax = 1
+base_manpower = 3
+base_production = 2
+culture = filipino
+trade_goods = grain
+religion = animism
+controller = PGS
+is_city = yes
+discovered_by = chinese

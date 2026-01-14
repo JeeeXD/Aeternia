@@ -1,0 +1,13 @@
+base_tax = 3
+base_manpower = 1
+base_production = 2
+is_city = yes
+owner = KRL
+religion = finnish_pagan
+controller = KRL
+discovered_by = western
+discovered_by = eastern
+discovered_by = nomad_group
+culture = karelian
+trade_goods = naval_supplies
+add_core = KRL

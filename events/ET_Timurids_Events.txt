@@ -1,0 +1,418 @@
+########################################
+# Flavor Events for Timurid
+########################################
+
+namespace = ET_Timurids
+normal_or_historical_nations = yes
+
+country_event = {
+	id = ET_Timurids.0 # Caucas Independence
+	title = "ET_Timurids.0.t"
+	desc = "ET_Timurids.0.d"
+	picture = OVEREXTENSION_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = TIM
+		NOT = { has_ruler = "Shah Rukh" }
+		OR = {
+			GEO = {  is_subject_of = ROOT }
+			ARM = {  is_subject_of = ROOT }
+			SRV = {  is_subject_of = ROOT }
+		}
+	}
+
+	immediate = {
+		if = {
+			limit = { GEO = { is_subject_of = ROOT } }
+			GEO = {
+			    grant_independence = yes
+		    }
+		}
+		if = {
+			limit = { ARM = { is_subject_of = ROOT } }
+			ARM = {
+			    grant_independence = yes
+		    }
+		}
+		if = {
+			limit = { SRV = { is_subject_of = ROOT } }
+			SRV = {
+			    grant_independence = yes
+		    }
+		}
+		set_country_flag = TIM_caucases_revolted
+	}
+
+	mean_time_to_happen = {
+		months = 6
+	}
+	
+	option = { 
+		name = "ET_Timurids.0.a" #Grant independence
+
+		ai_chance = { factor = 100 }
+
+		trigger = {
+			OR = {
+				exists = GEO
+				exists = SRV
+				exists = ARM
+			}
+		}
+
+		add_prestige = -10
+	}
+	option = { 
+		name = "ET_Timurids.0.b" #Fight them
+
+		ai_chance = { factor = 0 }
+
+		trigger = {
+			OR = {
+				exists = GEO
+				exists = SRV
+				exists = ARM
+			}
+			ai = no
+		}
+
+		declare_war_with_cb = {
+            who = GEO
+            casus_belli = cb_disloyal_vassal
+        }
+		custom_tooltip =  ET_Timurids_tooltip_caucases_all_join
+		add_country_modifier = {
+			name = TIM_attacked_caucases
+			duration = 9125
+		}
+		set_country_flag = TIM_fighting_the_georgians
+		hidden_effect = {
+		ARM = {
+			join_all_defensive_wars_of = GEO
+		}
+		SRV = {
+			join_all_defensive_wars_of = GEO
+		}
+		}
+	}
+}
+
+country_event = {
+	id = ET_Timurids.1 # Caucases back
+	title = "ET_Timurids.1.t"
+	desc = "ET_Timurids.1.d"
+	picture = muslimgfx_BATTLE_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = TIM
+		is_at_war = no 
+		has_country_flag = TIM_fighting_the_georgians
+		OR = {
+			GEO = { is_subject_of = ROOT }
+			ARM = { is_subject_of = ROOT }
+			SRV = { is_subject_of = ROOT }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = { 
+		name = "ET_Timurids.1.a" #Make them timurid vassals
+
+		ai_chance = { factor = 80 }
+
+		trigger = {
+			OR = {
+			GEO = { is_subject_of = ROOT }
+			ARM = { is_subject_of = ROOT }
+			SRV = { is_subject_of = ROOT }
+		}
+		}
+
+		if = {
+			limit = { GEO = { is_subject_of = ROOT } }
+			create_subject = {
+				subject_type = timurid_vassal
+				subject = GEO
+			}
+			GEO = {
+				add_liberty_desire = -50
+			}
+		}
+		if = {
+			limit = { ARM = { is_subject_of = ROOT } }
+			create_subject = {
+				subject_type = timurid_vassal
+				subject = ARM
+			}
+			GEO = {
+				add_liberty_desire = -50
+			}
+		}
+		if = {
+			limit = { SRV = { is_subject_of = ROOT } }
+			create_subject = {
+				subject_type = timurid_vassal
+				subject = SRV
+			}
+			GEO = {
+				add_liberty_desire = -50
+			}
+		}
+
+		add_prestige = 10
+	}
+	option = { 
+		name = "ET_Timurids.1.b" #as they are
+
+		ai_chance = { factor = 20 }
+
+	}
+}
+
+country_event = {
+	id = ET_Timurids.2 # Turkish Revolt
+	title = "ET_Timurids.2.t"
+	desc = "ET_Timurids.2.d"
+	picture = muslimgfx_BATTLE_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = TIM
+		NOT = { has_ruler = "Shah Rukh" }
+		has_country_flag = TIM_caucases_revolted
+	}
+
+	mean_time_to_happen = {
+		months = 6
+	}
+
+	immediate = {
+		hidden_effect = {
+			release = DUL
+		release = RAM
+		2302 = {
+			cede_province = KAR
+		}
+		5726 = {
+			cede_province = KAR
+		}
+		327 = {
+			build_to_forcelimit = {
+				infantry= 0.8
+				cavalry = 0.2
+			}
+		}
+		332 = {
+			build_to_forcelimit = {
+				infantry= 0.8
+				cavalry = 0.2
+			}
+		}
+		}
+		set_country_flag = TIM_turks_revolted
+	}
+	
+	option = { 
+		name = "ET_Timurids.2.a" #Grant independence
+
+		ai_chance = { factor = 90 }
+		add_prestige = -10
+	}
+	option = { 
+		trigger = {
+			KAR = {
+				ai = yes
+			}
+		}
+		name = "ET_Timurids.2.b" #fight them
+		custom_tooltip =  ET_Timurids_tooltip_turks_all_join
+		declare_war_with_cb = {
+            who = DUL
+            casus_belli = cb_disloyal_vassal
+        }
+		hidden_effect = {
+			KAR = {
+				join_all_defensive_wars_of = DUL
+			}
+			RAM = {
+				join_all_defensive_wars_of = DUL
+			}
+		}
+		ai_chance = { factor = 10 }
+
+	}
+}
+
+country_event = {
+	id = ET_Timurids.3 #Independence of mashriq
+	title = "ET_Timurids.3.t"
+	desc = "ET_Timurids.3.d"
+	picture = muslimgfx_BATTLE_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = TIM
+		NOT = { has_ruler = "Shah Rukh" }
+		has_country_flag = TIM_turks_revolted
+	}
+
+	mean_time_to_happen = {
+		months = 6
+	}
+
+	immediate = {
+		hidden_effect = {
+			release = BTL
+		release = BSR
+		release = MSY
+		release = IRQ
+		release = HSN
+		4304 = {
+			add_core = QAR
+		}
+		2206 = {
+			add_core = QAR
+		}
+		5670 = {
+			add_core = QAR
+		}
+		2207 = {
+			add_core = QAR
+		}
+		4293 = {
+			add_core = QAR
+		}
+		4294 = {
+			add_core = QAR
+		}
+		411 = {
+			add_core = QAR
+		}
+		415 = {
+			add_core = QAR
+		}
+		416 = {
+			add_core = QAR
+		}
+		2305 = {
+			add_core = AKK
+		}
+		331 = {
+			add_core = AKK
+		}
+		2306 = {
+			add_core = AKK
+		}
+		5715 = {
+			add_core = AKK
+		}
+		418 = {
+			add_core = AKK
+		}
+		407 = {
+			add_core = AKK
+		}
+		4292 = {
+			add_core = AKK
+		}
+		2308 = {
+			add_core = AKK
+		}
+		release = AKK
+		release = QAR
+		408 = {
+			build_to_forcelimit = {
+				infantry= 0.8
+				cavalry = 0.2
+			}
+		}
+		4290 = {
+			build_to_forcelimit = {
+				infantry= 0.8
+				cavalry = 0.2
+			}
+		}
+		410 = {
+			build_to_forcelimit = {
+				infantry= 0.8
+				cavalry = 0.2
+			}
+		}
+		4295 = {
+			build_to_forcelimit = {
+				infantry= 0.8
+				cavalry = 0.2
+			}
+		}
+		2207 = {
+			build_to_forcelimit = {
+				infantry= 0.6
+				cavalry = 0.4
+			}
+		}
+		418 = {
+			build_to_forcelimit = {
+				infantry= 0.6
+				cavalry = 0.4
+			}
+		}
+		4296 = {
+			build_to_forcelimit = {
+				infantry= 0.8
+				cavalry = 0.2
+			}
+		}
+		}
+	}
+	
+	option = { 
+		name = "ET_Timurids.3.a" #Grant independence
+
+		ai_chance = { factor = 90 }
+		add_prestige = -10
+	}
+	option = { 
+		trigger = {
+			ai = no
+		}
+		name = "ET_Timurids.3.b" #fight them
+		custom_tooltip =  ET_Timurids_tooltip_middle_easterns_all_join
+		declare_war_with_cb = {
+            who = QAR
+        }
+		hidden_effect = {
+			MSY = {
+				join_all_defensive_wars_of = QAR
+			}
+			BSR = {
+				join_all_defensive_wars_of = QAR
+			}
+			BTL = {
+				join_all_defensive_wars_of = QAR
+			}
+			IRQ = {
+				join_all_defensive_wars_of = QAR
+			}
+			AKK = {
+				join_all_defensive_wars_of = QAR
+			}
+			BTL = {
+				join_all_defensive_wars_of = QAR
+			}
+			HSN = {
+				join_all_defensive_wars_of = QAR
+			}
+		}
+		ai_chance = { factor = 10 }
+
+	}
+}

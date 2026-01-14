@@ -1,0 +1,12 @@
+base_tax = 1
+base_manpower = 1
+base_production = 1
+is_city = yes
+owner = FIN
+religion = finnish_pagan
+controller = FIN
+discovered_by = western
+discovered_by = eastern
+culture = finnish
+trade_goods = wool
+add_core = FIN

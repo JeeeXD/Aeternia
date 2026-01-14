@@ -1,0 +1,14 @@
+base_tax = 1
+base_manpower = 2
+base_production = 1
+is_city = yes
+add_core = LEI
+owner = LEI
+trade_goods = fish
+religion = celtic_pagan
+controller = LEI
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+culture = irish

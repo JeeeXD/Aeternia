@@ -1,0 +1,12 @@
+base_tax = 1
+base_manpower = 1
+base_production = 1
+culture = bornean
+trade_goods = unknown
+religion = hinduism
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+native_size = 19
+native_ferocity = 7
+native_hostileness = 1

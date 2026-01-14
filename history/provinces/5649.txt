@@ -1,0 +1,16 @@
+discovered_by = muslim
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = ottoman
+discovered_by = east_african
+owner = NJR
+base_tax = 1
+base_manpower = 1
+base_production = 1
+culture = yemeni_culture
+trade_goods = naval_supplies
+religion = shiite
+controller = NJR
+is_city = yes
+add_core = YEM
+add_core = NJR

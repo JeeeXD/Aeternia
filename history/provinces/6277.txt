@@ -1,0 +1,14 @@
+base_tax = 3
+base_manpower = 3
+base_production = 1
+is_city = yes
+add_core = ULS
+owner = ULS
+trade_goods = wool
+religion = celtic_pagan
+controller = ULS
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+culture = irish

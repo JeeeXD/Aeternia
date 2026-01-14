@@ -1,0 +1,15 @@
+base_tax = 3
+base_manpower = 5
+base_production = 5
+is_city = yes
+owner = LUX
+trade_goods = naval_supplies
+religion = orthodox
+controller = LUX
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+culture = wallonian
+hre = yes
+add_core = LUX

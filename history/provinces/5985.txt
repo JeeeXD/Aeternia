@@ -1,0 +1,15 @@
+add_core = DAI
+owner = DAI
+base_tax = 2
+base_manpower = 1
+base_production = 1
+religion = mahayana
+controller = DAI
+is_city = yes
+culture = vietnamese
+trade_goods = tea
+discovered_by = chinese
+discovered_by = indian
+discovered_by = ottoman
+discovered_by = muslim
+add_core = ANN

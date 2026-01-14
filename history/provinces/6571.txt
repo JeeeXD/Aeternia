@@ -1,0 +1,14 @@
+owner = QOM
+base_tax = 4
+base_manpower = 2
+base_production = 3
+culture = persian
+trade_goods = livestock
+religion = shiite
+controller = QOM
+is_city = yes
+discovered_by = nomad_group
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = muslim
+add_core = QOM

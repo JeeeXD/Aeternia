@@ -1,0 +1,13 @@
+base_tax = 3
+base_manpower = 1
+base_production = 1
+is_city = yes
+add_core = NOV
+owner = NOV
+religion = finnish_pagan
+controller = NOV
+discovered_by = western
+discovered_by = eastern
+discovered_by = nomad_group
+culture = novgorodian
+trade_goods = wool

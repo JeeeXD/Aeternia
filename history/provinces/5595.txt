@@ -1,0 +1,12 @@
+add_core = MNG
+owner = MNG
+base_tax = 2
+base_manpower = 3
+base_production = 1
+culture = hakka
+trade_goods = livestock
+religion = confucianism
+controller = MNG
+is_city = yes
+discovered_by = chinese
+discovered_by = nomad_group

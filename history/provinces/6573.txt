@@ -1,0 +1,12 @@
+add_core = JMB
+owner = JMB
+base_tax = 2
+base_manpower = 1
+base_production = 1
+culture = sumatran
+trade_goods = tropical_wood
+religion = sunni
+controller = JMB
+is_city = yes
+discovered_by = chinese
+discovered_by = indian

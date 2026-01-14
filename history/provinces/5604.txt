@@ -1,0 +1,11 @@
+add_core = SMZ
+owner = SMZ
+base_tax = 2
+base_manpower = 1
+base_production = 1
+culture = kyushuan
+trade_goods = naval_supplies
+religion = shinto
+controller = SMZ
+is_city = yes
+discovered_by = chinese

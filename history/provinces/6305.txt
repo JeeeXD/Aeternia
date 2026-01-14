@@ -1,0 +1,14 @@
+base_tax = 4
+base_manpower = 3
+base_production = 5
+is_city = yes
+owner = CAT
+trade_goods = livestock
+religion = catholic
+controller = CAT
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+culture = catalan
+add_core = CAT

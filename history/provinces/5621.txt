@@ -1,0 +1,12 @@
+add_core = HSI
+owner = HSI
+base_tax = 1
+base_manpower = 2
+base_production = 2
+culture = shan
+trade_goods = grain
+religion = sunni
+controller = HSI
+is_city = yes
+discovered_by = indian
+discovered_by = chinese

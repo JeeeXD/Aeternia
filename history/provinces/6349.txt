@@ -1,0 +1,15 @@
+base_tax = 5
+base_manpower = 5
+base_production = 4
+is_city = yes
+add_core = LUC
+owner = LUC
+trade_goods = livestock
+religion = catholic
+controller = LUC
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+culture = ligurian
+hre = yes

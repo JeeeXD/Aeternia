@@ -1,0 +1,14 @@
+base_tax = 1
+base_manpower = 2
+base_production = 1
+is_city = yes
+add_core = KAZ
+owner = KAZ
+religion = sunni
+controller = KAZ
+trade_goods = livestock
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = nomad_group
+discovered_by = western
+culture = kazani

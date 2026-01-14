@@ -1,0 +1,14 @@
+base_tax = 3
+base_manpower = 4
+base_production = 2
+is_city = yes
+add_core = SCO
+owner = SCO
+trade_goods = naval_supplies
+religion = celtic_pagan
+controller = SCO
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+culture = scottish

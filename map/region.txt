@@ -47,8 +47,6 @@ scandinavia_region = {
 		laponia_area
 		vastra_gotaland_area
 		ostra_svealand_area
-		west_iceland_area
-		east_iceland_area
 	}
 }
 
@@ -82,7 +80,6 @@ italy_region = {
 		lazio_area
 		po_valley_area
 		western_sicily_area
-		corsica_area
 	}
 }
 
@@ -190,8 +187,6 @@ iberia_region = {
 		galicia_area
 		baleares_area
 		extremadura_area
-		lisboa_area
-		braganca_area
 	}
 }
 
@@ -214,9 +209,6 @@ british_isles_region = {
 		connacht_area
 		leinster_area
 		ulster_area
-		glamorgan_area
-		thomond_area
-		dundalk_area
 	}
 }
 
@@ -312,7 +304,7 @@ egypt_region = {
 		bahari_area
 		vostani_area
 		said_area
-		sahara_gharbiya_area
+		Libyan_Desert_area
 	}
 }
 
@@ -336,6 +328,8 @@ maghreb_region = {
 		tripolitania_area
 		barbary_coast_area
 		macaronesia_area
+		Grand_Erg_Oriental_area
+		Ahaggar_area
 	}
 }
 
@@ -366,7 +360,6 @@ anatolia_region = {
 		ankara_area
 		aegean_archipelago_area
 		germiyan_area
-		cyprus_area
 	}
 }
 
@@ -450,8 +443,10 @@ niger_region = {
 		kong_area
 		massina_area
 		manding_area
-		tekrur_area
+
 		jenne_area
+		Guinean_Rise_area
+		Mambila_area
 	}
 	monsoon = {
 		00.06.01
@@ -469,6 +464,7 @@ guinea_region = {
 		west_africa_coast_area
 		jolof_area
 		sao_tome_area
+		Gabon_area
 	}
 	monsoon = {
 		00.06.01
@@ -489,6 +485,10 @@ sahel_region = {
 		baghena_area
 		niger_bend_area
 		east_azbin_area
+		Salamat_Wadi_Area
+		West_Kurdufan_area
+		Logone_area
+		tekrur_area
 	}
 	monsoon = {
 		00.06.01
@@ -536,6 +536,7 @@ east_africa_region = {
 		jubba_area
 		shire_area
 		mombasa_area
+		zambia_area
 	}
 	monsoon = {
 		00.11.01
@@ -550,17 +551,20 @@ east_africa_region = {
 central_africa_region = {
 	areas = {
 		buha_area
-		katanga_area
-		zambia_area
-		luba_area
-		sankuru_area
 		tanzania_area
 		kenya_area
 		buzinza_area
 		uganda_area
 		rwanda_area
-		chokwe_area
 		bunyoro_area
+		Great_Rift_Valley_area
+		South_Sudan_area
+		Azande_area
+		North_Kongo_Basin_area
+		Bangui_area
+		Cuvette_area
+		Brazzaville_area
+		Inner_Cameroon_area
 	}
 	monsoon = {
 		00.10.01
@@ -580,6 +584,14 @@ kongo_region = {
 		matamba_area
 		lower_kasai
 		kasai_area
+		sankuru_area
+		chokwe_area
+		Katanga_plateau_area
+		luba_area
+		katanga_area
+		Upper_Bie_plateau_area
+		Lower_Bie_plateau_area
+		Kavango_area
 	}
 	monsoon = {
 		00.02.01
@@ -605,6 +617,11 @@ central_asia_region = {
 		shanshan_area
 		kyzylkum_area
 		termez_area
+		zungaria_area
+		north_zungaria
+		turpan_kumul_area
+		Aral_sea
+		Almaty_area
 	}
 }
 
@@ -617,6 +634,13 @@ south_africa_region = {
 		butua_area
 		limpopo_area
 		transvaal_area
+		Kwazulu_Natal_area
+		Eastern_Cape_area
+		Namakwa_area
+		Nambia_area
+		Otjozondjupa_area
+		Botswana_area
+		Cubango_area
 	}
 	monsoon = {
 		00.11.01
@@ -638,6 +662,9 @@ west_siberia_region = {
 		ishim_area
 		kara_area
 		aqmola_area
+		West_Tunguska
+		Yenisei_River
+		Khanty_Mansy_area
 	}
 }
 
@@ -647,8 +674,9 @@ east_siberia_region = {
 		sakha_area
 		okhotsk_area
 		kamchatka_area
-		buryatia_area
+
 		kolyma_area
+		
 	}
 }
 
@@ -657,17 +685,16 @@ mongolia_region = {
 		outer_mongolia_area
 		inner_mongolia_area
 		ordos_area
-		zungaria_area
-		north_zungaria
 		altai_sayan_area
-		eastern_mongolia
 		central_mongolia_area
 		uliastai_area
-		turpan_kumul_area
 		tannu_uriankhai_area
 		xilin_gol_area
-		chahar_area
-		cicigar_area
+		MoNan_area
+		Govi_Altay_area
+		Arkhangai_area
+		Oronco_area
+		buryatia_area
 	}
 }
 
@@ -676,13 +703,17 @@ manchuria_region = {
 		heilongjiang_area
 		east_heilongjiang_area
 		jilin_area
-		central_jilin_area
 		ilan_hala_area
-		liaoning_area
 		ningguta_area
 		central_heilongjiang_area
 		sakhalin_area
 		furdan_area
+		chahar_area
+		eastern_mongolia
+		South_HeiLongJiang_Area
+		central_jilin_area
+		cicigar_area
+		Outer_Hinggan_Mountains
 	}
 }
 
@@ -693,6 +724,9 @@ korea_region = {
 		western_korea_area
 		eastern_korea_area
 		south_korea_area
+		Hwanghae_do
+		Gangwon_do
+		Chungcheong_do
 	}
 	monsoon = {
 		00.06.01
@@ -708,6 +742,7 @@ tibet_region = {
 		kham_area
 		bhutan_area
 		ngari_area
+		HeHuang_Valley
 	}
 }
 
@@ -851,6 +886,7 @@ japan_region = {
 		sanindo_area
 		shikoku_area
 		northern_kyushu
+		Ryukyu_island
 	}
 	monsoon = {
 		00.06.01
@@ -871,6 +907,17 @@ australia_region = {
 		south_queensland_area
 		pilbara_area
 		tasmania_area
+		Mount_Isa_area
+		Kakadu_area	
+		Toolonga_area
+		Great_Australian_Bay
+		Australian_desert
+		Eyre_area
+		New_Southern_Wales
+		Gamilaraay_area
+		Inner_Queensland_area
+		Uluru_Kata_Tjuta
+		Kulin_area
 	}
 	monsoon = {
 		00.10.01
@@ -885,17 +932,50 @@ australia_region = {
 
 south_china_region = {
 	areas = {
+		
+		#ZHEJIANG
+		KuaiJi_area 
+		OuYue_area 
+		zhejiang_area
+		
+		#HUBEI
+		huguang_area
+		JiangLing_area 
+		BaDong_area 
+		
+		#ANHUI+JIANGSU
+		
+		south_jiangsu_area
+
+		YingTian_area 
+		south_anhui_area
+
+		#GUANGDONG
 		guangdong_area
 		west_guangdong_area
+		ChiuSan_area
+		HoiNam_area 
+		
+		#FUJIAN+TAIWAN
 		fujian_area
-		jiangxi_area
-		huguang_area
-		zhejiang_area
-		south_anhui_area
+		MinNan_area  
 		taiwan_area
-		south_jiangsu_area
-		hunan_area
+		Taiwan_Strait_Island 
+		
+		#GUANGXI
 		guangxi_area
+		ChongNg_area	
+		West_GuangXi
+		
+		#JIANGXI
+		YuZhang_area 
+		jiangxi_area
+		LuLing_area 
+		
+		#HUNAN
+		hunan_area 
+		XiaoXiang_area 
+		XiangXi_area 
 	}
 	monsoon = {
 		00.05.01
@@ -903,30 +983,70 @@ south_china_region = {
 	}
 }
 
+
 xinan_region = {
 	areas = {
-		sichuan_area
+		#云南
 		yun_gui_area
-		chuannan_area
 		yun_gui_borderland_area
+		HengDuan_Mountains
+		
+		#贵州
+		YeLang_area
+		East_GuiZhou
+		#四川
+		ChongQing_area
+		chuannan_area
 		chuanbei_area
+		sichuan_area
 	}
 }
+
 
 north_china_region = {
 	
 	areas = {
-		hebei_area
-		south_hebei_area
-		shandong_area
-		henan_area
-		shanxi_area
-		gansu_area
-		shaanxi_area
+		#HENAN
 		north_henan_area
-		west_gansu_area
-		jiangsu_area
+		HuaiShang_area
+ 		henan_area
+			
+		#SHANDONG
+		South_Shandong 
+		JiaoDong_Peninsula 
+		shandong_area 
+		
+		#HEBEI
+		south_hebei_area
+		hebei_area 
+		South_YanShan 
+		ZhiLi_area
+		
+		#SHANXI
+		shanxi_area 
+		HeDong_area 
+		ShangDang_area
+
+		#JIANGSU+ANHUI
+		jiangsu_area	
+		HuaiNan_area 
 		anhui_area
+		
+		#SHAANXI
+		shaanxi_area
+		GuanZhong_Plains 
+		Qin_Ba_Mountains
+	
+		#NINGXIA+GANSU
+		LongXi_area 
+		gansu_area 
+		HeTao_Plains 
+		west_gansu_area
+	
+		# liaoning
+		liaoning_area
+		LiaoDong_Peninsula
+		
 	}
 }
 
@@ -1052,6 +1172,7 @@ malaya_region = {	#Western Indonesia Malaya.
 		batak_area
 		minangkabau_area
 		indian_ocean_islands_area
+		Johor_islands
 	}
 	monsoon = {
 		00.10.01
@@ -1080,6 +1201,9 @@ moluccas_region = {
 		south_sulawesi_area
 		makassar_area
 		spice_islands_area
+		Biak_Japen_island
+		Arafura_area
+		North_Papua_area
 	}
 	monsoon = {
 		00.10.01
@@ -1130,6 +1254,7 @@ oceanea_region = {
 		te_waipounamu_area
 		northern_polynesia_area
 		eastern_polynesia_area
+		Aoraki_area
 	}
 	monsoon = {
 		00.07.01
@@ -1177,8 +1302,6 @@ canada_region = {
 		st_john_valley_area
 		trois_rivieres_area
 		ottawa_valley_area
-		north_greenland_area
-		east_greenland_area
 	}
 }
 

@@ -1,0 +1,10 @@
+base_tax = 1
+base_manpower = 1
+base_production = 1
+trade_goods = unknown
+religion = dreamtime
+culture = kulin
+discovered_by = aboriginal_tech
+native_size = 89
+native_ferocity = 2
+native_hostileness = 1

@@ -1,0 +1,11 @@
+add_core = TDO
+owner = TDO
+base_tax = 2
+base_manpower = 2
+base_production = 2
+culture = filipino
+trade_goods = grain
+religion = animism
+controller = TDO
+is_city = yes
+discovered_by = chinese

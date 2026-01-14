@@ -1,0 +1,11 @@
+add_core = ANU
+discovered_by = chinese
+owner = ANU
+base_tax = 1
+base_manpower = 1
+base_production = 1
+culture = ainu
+trade_goods = livestock
+religion = animism
+controller = ANU
+is_city = yes

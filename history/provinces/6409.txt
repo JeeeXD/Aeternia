@@ -1,0 +1,18 @@
+base_tax = 6
+base_manpower = 6
+base_production = 4
+is_city = yes
+add_core = HOL
+owner = HOL
+trade_goods = iron
+religion = catholic
+controller = HOL
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+culture = dutch
+latent_trade_goods = { 
+	coal 
+}
+hre = yes

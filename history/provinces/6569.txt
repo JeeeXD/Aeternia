@@ -1,0 +1,14 @@
+owner = ISF
+base_tax = 2
+base_manpower = 4
+base_production = 2
+culture = persian
+trade_goods = grain
+religion = sunni
+controller = ISF
+is_city = yes
+discovered_by = nomad_group
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = muslim
+add_core = ISF

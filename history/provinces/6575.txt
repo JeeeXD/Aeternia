@@ -1,0 +1,12 @@
+add_core = OIR
+owner = OIR
+base_tax = 2
+base_manpower = 1
+base_production = 1
+culture = mongol
+trade_goods = naval_supplies
+religion = vajrayana
+controller = OIR
+is_city = yes
+discovered_by = chinese
+discovered_by = nomad_group

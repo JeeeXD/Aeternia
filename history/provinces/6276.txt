@@ -1,0 +1,17 @@
+base_tax = 1
+base_manpower = 2
+base_production = 2
+is_city = yes
+add_core = FLY
+owner = FLY
+trade_goods = wool
+religion = celtic_pagan
+controller = FLY
+discovered_by = western
+discovered_by = eastern
+discovered_by = ottoman
+discovered_by = muslim
+culture = irish
+latent_trade_goods = { 
+	coal 
+}

@@ -1,0 +1,10 @@
+discovered_by = central_african
+base_tax = 2
+base_manpower = 3
+base_production = 4
+culture = masaba
+trade_goods = unknown
+religion = shamanism
+native_size = 45
+native_ferocity = 7
+native_hostileness = 3

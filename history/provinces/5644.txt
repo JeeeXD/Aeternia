@@ -1,0 +1,11 @@
+base_tax = 2
+base_manpower = 2
+base_production = 1
+culture = aboriginal
+trade_goods = unknown
+religion = dreamtime
+discovered_by = aboriginal_tech
+
+native_size = 28
+native_ferocity = 8
+native_hostileness = 9

@@ -1,0 +1,12 @@
+base_tax = 2
+base_manpower = 1
+base_production = 2
+is_city = yes
+owner = KRL
+religion = finnish_pagan
+controller = KRL
+discovered_by = western
+discovered_by = eastern
+culture = karelian
+trade_goods = fur
+add_core = KRL

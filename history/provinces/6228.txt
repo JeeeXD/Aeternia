@@ -1,0 +1,12 @@
+discovered_by = nomad_group
+discovered_by = chinese
+base_tax = 1
+base_manpower = 1
+base_production = 3
+is_city = yes
+add_core = NVK
+owner = NVK
+culture = nivkh
+trade_goods = fish
+religion = tengri_pagan_reformed
+controller = NVK

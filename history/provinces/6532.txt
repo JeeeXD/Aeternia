@@ -1,0 +1,16 @@
+base_tax = 3
+base_manpower = 4
+base_production = 1
+is_city = yes
+add_core = LIV
+owner = LIV
+religion = romuva_pagan
+controller = LIV
+discovered_by = western
+discovered_by = eastern
+culture = latvian
+trade_goods = wool
+discovered_by = KAZ
+discovered_by = GOL
+discovered_by = CRI
+add_core = LTG
