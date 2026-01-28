@@ -1,6 +1,6 @@
-base_tax = 1
-base_manpower = 3
-base_production = 2
+base_tax = 4
+base_manpower = 6
+base_production = 3
 add_core = MRE
 owner = MRE
 religion = sunni

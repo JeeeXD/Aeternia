@@ -1,2 +1,5 @@
 #4940 - Lake Tulare
 discovered_by = north_american
+base_tax = 6
+base_manpower = 1
+base_production = 1

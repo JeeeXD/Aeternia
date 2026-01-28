@@ -1,1 +1,4 @@
-1465.1.1 = { discovered_by = POR } 
+1465.1.1 = { discovered_by = POR }
+base_tax = 3
+base_manpower = 3
+base_production = 4

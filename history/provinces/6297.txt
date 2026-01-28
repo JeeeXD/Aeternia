@@ -1,6 +1,6 @@
 base_tax = 3
-base_manpower = 3
-base_production = 3
+base_manpower = 4
+base_production = 2
 is_city = yes
 add_core = GRA
 owner = GRA
@@ -15,3 +15,4 @@ culture = andalucian
 latent_trade_goods = { 
 	coal 
 }
+hre = yes

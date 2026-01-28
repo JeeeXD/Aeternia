@@ -5,9 +5,9 @@ culture = moroccan
 religion = catholic
 capital = "Tagmadert"
 trade_goods = spices#Dates
-base_tax = 4
-base_production = 4
-base_manpower = 2
+base_tax = 3
+base_production = 6
+base_manpower = 4
 is_city = yes
 add_core = MOR
 add_core = TFL
@@ -18,20 +18,3 @@ discovered_by = ottoman
 discovered_by = sub_saharan
 extra_cost = 8
 center_of_trade = 1
-1444.1.1 = { 
-	owner = TFL
-	controller = TFL
-}
-1472.1.1 = { controller = TFL }
-1549.1.1 = { 
-	controller = MOR
-}
-1629.1.1 = { 
-	controller = SOS
-}
-1631.1.1 = { 
-	controller = TFL
-}
-1668.9.7 = { 
-	controller = MOR
-}

@@ -1,6 +1,6 @@
 base_tax = 5
-base_manpower = 5
-base_production = 4
+base_manpower = 3
+base_production = 1
 is_city = yes
 owner = RMA
 trade_goods = wool
@@ -12,3 +12,4 @@ discovered_by = muslim
 discovered_by = ottoman
 culture = tuscan
 add_core = RMA
+hre = yes

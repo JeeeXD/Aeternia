@@ -1,6 +1,6 @@
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 5
+base_manpower = 4
+base_production = 3
 religion = dreamtime
 culture = gamilaraay
 trade_goods = unknown
@@ -8,3 +8,4 @@ discovered_by = aboriginal_tech
 native_size = 45
 native_ferocity = 8
 native_hostileness = 6
+is_city = no

@@ -1,7 +1,6 @@
 discovered_by = south_american
 discovered_by = andean
-
-
-
-
-1533.8.29 = { discovered_by = SPA }
+is_city = no
+base_tax = 4
+base_manpower = 4
+base_production = 3

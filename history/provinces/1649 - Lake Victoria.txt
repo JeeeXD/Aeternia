@@ -1,4 +1,5 @@
 #1649 - Lake Victoria
-
-
 discovered_by = central_african
+base_tax = 3
+base_manpower = 5
+base_production = 1

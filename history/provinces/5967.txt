@@ -1,13 +1,4 @@
-add_core = LXA
-owner = LXA
-base_tax = 2
-base_manpower = 2
-base_production = 3
-religion = sunni
-controller = LXA
+base_tax = 1
+base_manpower = 1
+base_production = 1
 is_city = yes
-culture = lao
-trade_goods = ivory
-discovered_by = chinese
-discovered_by = indian
-add_core = VIE

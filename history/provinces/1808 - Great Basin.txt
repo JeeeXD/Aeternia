@@ -1,1 +1,5 @@
 discovered_by = north_american
+is_city = no
+base_tax = 4
+base_manpower = 3
+base_production = 6

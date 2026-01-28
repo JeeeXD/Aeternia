@@ -1,7 +1,7 @@
 owner = QOM
-base_tax = 4
-base_manpower = 2
-base_production = 3
+base_tax = 5
+base_manpower = 3
+base_production = 5
 culture = persian
 trade_goods = livestock
 religion = shiite

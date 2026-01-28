@@ -1,9 +1,9 @@
 add_core = TRS
 add_core = TIM
 owner = TRS
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 3
+base_manpower = 6
+base_production = 6
 trade_goods = naval_supplies
 religion = sunni
 controller = TRS

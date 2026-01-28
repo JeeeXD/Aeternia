@@ -20,3 +20,11 @@ graphical_culture = westerngfx
 color = { 
 	255 255 255 
 }
+graphical_culture = westerngfx
+color = { 
+	255 255 255 
+}
+graphical_culture = westerngfx
+color = { 
+	255 255 255 
+}

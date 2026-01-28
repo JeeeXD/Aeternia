@@ -5,14 +5,13 @@ culture = portugese
 religion = jewish
 capital = "Faro"
 trade_goods = salt
-base_tax = 3
+base_tax = 4
 base_production = 3
-base_manpower = 2
+base_manpower = 3
 is_city = yes
 add_core = POR
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-1807.11.30 = { controller = FRA }
-1808.6.18 = { controller = POR }
+hre = yes

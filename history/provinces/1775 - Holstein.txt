@@ -1,14 +1,12 @@
 #1775 - Holstein
-owner = SHL
-controller = SHL
-add_core = SHL
+owner = DAN
+controller = DAN
 culture = lower_saxon
 religion = orthodox
-hre = yes
-base_tax = 4
-base_production = 4
+base_tax = 1
+base_production = 5
 trade_goods = livestock
-base_manpower = 2
+base_manpower = 4
 capital = "Kiel"
 is_city = yes
 discovered_by = eastern
@@ -17,21 +15,6 @@ discovered_by = muslim
 discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
-1460.3.5 = { controller = DAN add_core = DAN }
-1529.1.1 = { religion = Protestant }
-1544.1.1 = { controller = SHL }
-1550.1.1 = { 
-	base_tax = 5
-	base_production = 5
-}
-1627.5.1 = { controller = HAB }
-1629.5.22 = { controller = SHL }
-1773.1.1 = { controller = DAN }
-1806.7.12 = { hre = no }
-1810.12.13 = { 
-	controller = FRA
-	add_core = FRA
-}
-1814.4.11 = { 
-	controller = DAN
-}
+add_core = DAN
+add_core = DGB
+add_core = DEC

@@ -1,6 +1,6 @@
-base_tax = 2
-base_manpower = 2
-base_production = 1
+base_tax = 5
+base_manpower = 6
+base_production = 3
 add_core = TLC
 owner = TLC
 religion = catholic

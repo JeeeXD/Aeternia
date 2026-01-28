@@ -1,7 +1,7 @@
 add_core = MGD
 owner = MGD
-base_tax = 2
-base_manpower = 2
+base_tax = 6
+base_manpower = 4
 base_production = 3
 culture = filipino
 trade_goods = fish

@@ -1,7 +1,5 @@
 discovered_by = chinese
-
-
-
-
 1512.1.1 = { discovered_by = POR }
-
+base_tax = 2
+base_manpower = 3
+base_production = 3

@@ -1,5 +1,5 @@
-base_tax = 2
-base_manpower = 2
+base_tax = 5
+base_manpower = 5
 base_production = 3
 add_core = MOR
 owner = MOR

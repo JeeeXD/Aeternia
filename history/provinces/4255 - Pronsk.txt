@@ -3,10 +3,10 @@ owner = RYA
 controller = RYA
 culture = ryazanian
 religion = sunni
-base_tax = 2
-base_production = 2
+base_tax = 3
+base_production = 4
 trade_goods = iron
-base_manpower = 2
+base_manpower = 5
 capital = "Pronsk"
 is_city = yes
 add_core = RYA
@@ -15,11 +15,3 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western
 discovered_by = nomad_group
-1521.8.1 = { 
-	controller = RUS
-	add_core = RUS
-}
-1598.1.7 = { base_manpower = 6 }
-1711.1.1 = { base_tax = 7 base_production = 7 }
-1767.1.1 = { base_tax = 8 base_production = 8 }
-1778.1.1 = { capital = "Ryazan" }

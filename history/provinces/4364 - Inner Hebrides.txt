@@ -3,10 +3,10 @@ owner = LOI
 controller = LOI
 culture = highland_scottish
 religion = celtic_pagan
-base_tax = 1
+base_tax = 4
 base_production = 1
 trade_goods = grain
-base_manpower = 1
+base_manpower = 4
 capital = "Skye"
 is_city = yes
 add_core = SCO
@@ -15,11 +15,3 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-1493.1.1 = { 
-	controller = SCO
-}
-1560.8.1 = { religion = Reformed }
-1707.5.12 = { 
-	controller = GBR
-	add_core = GBR
-}

@@ -1,15 +1,13 @@
 # No previous file for Bilanga
-
 owner = WGD
 controller = WGD
 add_core = WGD
 is_city = yes
-culture = mossi 
-religion = shamanism #Fetishism
+culture = mossi
+religion = shamanism#Fetishism
 capital = "Bilanga"
 trade_goods = grain
-hre = no
-base_tax = 1 
-base_production = 1
-base_manpower = 1
+base_tax = 6
+base_production = 4
+base_manpower = 3
 discovered_by = sub_saharan

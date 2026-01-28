@@ -1,6 +1,6 @@
-base_tax = 3
-base_manpower = 2
-base_production = 3
+base_tax = 5
+base_manpower = 3
+base_production = 4
 is_city = yes
 add_core = SIE
 owner = SIE
@@ -15,3 +15,4 @@ culture = tuscan
 latent_trade_goods = { 
 	coal 
 }
+hre = yes

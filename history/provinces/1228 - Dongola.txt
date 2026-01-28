@@ -8,11 +8,9 @@ add_core = ABB
 add_core = MAK
 is_city = yes
 trade_goods = grain
-base_manpower = 2
-base_tax = 2
+base_manpower = 6
+base_tax = 5
 base_production = 1
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman
-1530.1.1 = { religion = Sunni }
-1550.1.1 = { discovered_by = TUR }

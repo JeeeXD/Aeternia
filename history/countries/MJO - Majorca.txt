@@ -1,0 +1,8 @@
+government = monarchy
+
+add_government_reform = free_city
+
+religion = catholic
+primary_culture = catalan
+technology_group = western
+capital = 333	# Majorca

@@ -6,12 +6,8 @@ culture = hausa
 religion = shamanism
 capital = "Biram"
 trade_goods = dyes
-base_tax = 2
-base_production = 2
-base_manpower = 1
+base_tax = 4
+base_production = 4
+base_manpower = 4
 is_city = yes
 discovered_by = sub_saharan
-1806.1.1 = { 
-	controller = SOK
-	add_core = SOK
-}

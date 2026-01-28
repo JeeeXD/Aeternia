@@ -1,6 +1,6 @@
 base_tax = 4
-base_manpower = 3
-base_production = 5
+base_manpower = 4
+base_production = 2
 is_city = yes
 owner = CAT
 trade_goods = livestock
@@ -12,3 +12,4 @@ discovered_by = ottoman
 discovered_by = muslim
 culture = catalan
 add_core = CAT
+hre = yes

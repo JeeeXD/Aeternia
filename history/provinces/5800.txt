@@ -1,7 +1,7 @@
 owner = AFG
-base_tax = 2
-base_manpower = 1
-base_production = 2
+base_tax = 4
+base_manpower = 3
+base_production = 4
 controller = AFG
 is_city = yes
 religion = sunni

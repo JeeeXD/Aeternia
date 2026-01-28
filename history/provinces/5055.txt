@@ -1,8 +1,8 @@
 add_core = SON
 owner = SON
-base_tax = 1
+base_tax = 4
 base_manpower = 3
-base_production = 3
+base_production = 4
 culture = songhai
 trade_goods = copper
 religion = shamanism

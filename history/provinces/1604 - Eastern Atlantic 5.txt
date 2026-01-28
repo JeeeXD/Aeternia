@@ -1,1 +1,4 @@
 1675.1.1 = { discovered_by = ENG }
+base_tax = 3
+base_manpower = 4
+base_production = 3

@@ -6,8 +6,8 @@ religion = catholic
 capital = "Ben Jawad"
 trade_goods = fish
 base_tax = 1
-base_production = 1
-base_manpower = 1
+base_production = 5
+base_manpower = 2
 is_city = yes
 add_core = FZA
 add_core = TRP
@@ -16,6 +16,3 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-1558.1.1 = { 
-	controller = TRP
-}

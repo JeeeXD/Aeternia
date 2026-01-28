@@ -1,0 +1,14 @@
+# Naples and Provence
+union = {
+	first = NAP
+	second = PRO
+	start_date = 1389.11.1
+	end_date = 1399.11.1
+}
+# Naples and Provence
+alliance = {
+	first = NAP
+	second = PRO
+	start_date = 1389.11.1
+	end_date = 1399.11.1
+}

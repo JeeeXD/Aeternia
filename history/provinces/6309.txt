@@ -1,6 +1,6 @@
-base_tax = 1
-base_manpower = 2
-base_production = 2
+base_tax = 2
+base_manpower = 4
+base_production = 1
 is_city = yes
 owner = ASU
 trade_goods = grain
@@ -12,3 +12,4 @@ discovered_by = ottoman
 discovered_by = muslim
 culture = basque
 add_core = ASU
+hre = yes

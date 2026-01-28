@@ -1,12 +1,4 @@
-add_core = KHA
-discovered_by = nomad_group
-discovered_by = chinese
-owner = KHA
 base_tax = 1
 base_manpower = 1
 base_production = 1
-controller = KHA
 is_city = yes
-culture = buryat
-trade_goods = wool
-religion = tengri_pagan_reformed

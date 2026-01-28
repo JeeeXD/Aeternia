@@ -1,10 +1,9 @@
-base_tax = 2
-base_manpower = 1
-base_production = 2
-add_core = TFL
-owner = TFL
+base_tax = 5
+base_manpower = 3
+base_production = 5
+owner = MOR
 religion = catholic
-controller = TFL
+controller = MOR
 is_city = yes
 trade_goods = grain
 culture = berber

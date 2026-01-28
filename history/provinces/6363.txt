@@ -1,6 +1,6 @@
-base_tax = 2
+base_tax = 4
 base_manpower = 3
-base_production = 1
+base_production = 6
 is_city = yes
 owner = SAR
 trade_goods = iron
@@ -12,3 +12,4 @@ discovered_by = muslim
 discovered_by = ottoman
 culture = sardinian
 add_core = SAR
+hre = yes

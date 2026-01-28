@@ -1,12 +1,4 @@
-add_core = UES
-discovered_by = chinese
-owner = UES
-base_tax = 2
-base_manpower = 2
-base_production = 2
-culture = togoku
-trade_goods = grain
-religion = shinto
-controller = UES
+base_tax = 1
+base_manpower = 1
+base_production = 1
 is_city = yes
-discovered_by = nomad_group

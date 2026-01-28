@@ -1,1 +1,4 @@
 1505.1.1 = { discovered_by = POR }
+base_tax = 5
+base_manpower = 2
+base_production = 5

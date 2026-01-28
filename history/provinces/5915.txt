@@ -1,6 +1,6 @@
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 5
+base_manpower = 3
+base_production = 2
 trade_goods = unknown
 religion = dreamtime
 culture = gunwinyguan
@@ -10,3 +10,4 @@ discovered_by = TID
 native_size = 98
 native_ferocity = 2
 native_hostileness = 2
+is_city = no

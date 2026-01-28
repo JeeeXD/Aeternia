@@ -6,12 +6,10 @@ culture = karelian
 religion = finnish_pagan
 add_core = KRL
 is_city = yes
-base_tax = 1
-base_production = 1
+base_tax = 5
+base_production = 6
 trade_goods = salt
-base_manpower = 1
+base_manpower = 3
 discovered_by = western
 discovered_by = eastern
 add_local_autonomy = 25
-1478.1.15 = { controller = MOS add_core = MOS }
-1503.4.1 = { controller = RUS add_core = RUS }

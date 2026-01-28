@@ -1,6 +1,6 @@
-base_tax = 2
+base_tax = 3
 base_manpower = 1
-base_production = 2
+base_production = 6
 is_city = yes
 owner = TRA
 religion = shiite

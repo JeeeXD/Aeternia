@@ -1,3 +1,5 @@
 discovered_by = north_american
-
-1497.6.24 = { discovered_by = ENG } # John Cabbot
+1497.6.24 = { discovered_by = ENG }
+base_tax = 5
+base_manpower = 1
+base_production = 5

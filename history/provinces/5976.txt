@@ -1,13 +1,4 @@
-add_core = LXA
-owner = LXA
-base_tax = 2
+base_tax = 1
 base_manpower = 1
 base_production = 1
-religion = sunni
-controller = LXA
 is_city = yes
-culture = lao
-trade_goods = incense
-discovered_by = chinese
-discovered_by = indian
-add_core = CHK

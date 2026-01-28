@@ -1,0 +1,27 @@
+
+#Atabegs of Samtskhe under Georgia
+vassal = {
+	first = GEO
+	second = SME
+	start_date = 1444.1.1
+	end_date = 1446.12.1
+}
+
+#Biapis
+
+alliance = {
+	first = ARL
+	second = KRY
+	start_date = 1440.1.1
+	end_date = 1504.1.1
+}
+
+#Avar Khanate under the Shamkals
+vassal = {
+	first = GAZ
+	second = AVR
+	start_date = 1435.1.1
+	end_date = 1770.1.1
+}
+
+

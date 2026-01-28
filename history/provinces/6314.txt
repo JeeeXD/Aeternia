@@ -1,6 +1,6 @@
 base_tax = 2
-base_manpower = 2
-base_production = 1
+base_manpower = 4
+base_production = 6
 is_city = yes
 owner = GAL
 trade_goods = naval_supplies
@@ -12,3 +12,4 @@ discovered_by = ottoman
 discovered_by = muslim
 culture = galician
 add_core = GAL
+hre = yes

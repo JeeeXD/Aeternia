@@ -1,11 +1,4 @@
-add_core = OIR
-owner = OIR
 base_tax = 1
 base_manpower = 1
 base_production = 1
-trade_goods = fur
-religion = tengri_pagan_reformed
-controller = OIR
 is_city = yes
-culture = kirgiz
-discovered_by = nomad_group

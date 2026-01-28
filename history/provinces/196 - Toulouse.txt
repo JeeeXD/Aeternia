@@ -5,15 +5,14 @@ capital = "Toulouse"
 is_city = yes
 culture = occitain
 religion = catholic
-base_tax = 5
-base_production = 5
+base_tax = 4
+base_production = 3
 trade_goods = wine
-base_manpower = 5
+base_manpower = 6
 add_core = TOU
 add_core = GUY
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-1560.1.1 = { religion = Reformed }
-1686.1.17 = { religion = Catholic }
+hre = yes

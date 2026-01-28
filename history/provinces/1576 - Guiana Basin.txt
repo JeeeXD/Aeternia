@@ -1,2 +1,5 @@
 1498.1.1 = { discovered_by = CAS }
 1516.1.23 = { discovered_by = SPA }
+base_tax = 1
+base_manpower = 2
+base_production = 1

@@ -1,15 +1,7 @@
-add_core = MNI
-owner = MNI
 base_tax = 1
-base_manpower = 2
-base_production = 2
-religion = sunni
-controller = MNI
+base_manpower = 1
+base_production = 4
 is_city = yes
-culture = shan
-trade_goods = copper
 latent_trade_goods = { 
 	coal 
 }
-discovered_by = chinese
-discovered_by = indian

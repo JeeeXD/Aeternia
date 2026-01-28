@@ -1,6 +1,6 @@
-base_tax = 3
-base_manpower = 1
-base_production = 3
+base_tax = 1
+base_manpower = 4
+base_production = 4
 is_city = yes
 add_core = OPL
 owner = OPL
@@ -12,7 +12,6 @@ discovered_by = muslim
 discovered_by = ottoman
 culture = schlesian
 trade_goods = naval_supplies
-hre = yes
 discovered_by = KAZ
 discovered_by = GOL
 discovered_by = CRI

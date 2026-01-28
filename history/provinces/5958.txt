@@ -1,8 +1,8 @@
 add_core = LIG
 owner = LIG
-base_tax = 2
-base_manpower = 1
-base_production = 1
+base_tax = 5
+base_manpower = 2
+base_production = 4
 religion = sunni
 controller = LIG
 is_city = yes

@@ -1,12 +1,4 @@
-add_core = MNG
-owner = MNG
-base_tax = 2
-base_manpower = 2
-base_production = 2
-culture = jin
-trade_goods = wool
-religion = confucianism
-controller = MNG
+base_tax = 1
+base_manpower = 1
+base_production = 1
 is_city = yes
-discovered_by = chinese
-discovered_by = nomad_group

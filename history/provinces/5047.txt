@@ -1,8 +1,8 @@
 add_core = ZIM
 owner = ZIM
-base_tax = 2
-base_manpower = 3
-base_production = 3
+base_tax = 3
+base_manpower = 5
+base_production = 5
 culture = shona
 trade_goods = grain
 religion = shamanism

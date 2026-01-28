@@ -1,14 +1,4 @@
-add_core = PEG
-owner = PEG
-base_tax = 2
-base_manpower = 2
-base_production = 2
-religion = buddhism
-controller = PEG
+base_tax = 1
+base_manpower = 1
+base_production = 4
 is_city = yes
-culture = mon
-trade_goods = chinaware
-discovered_by = chinese
-discovered_by = indian
-discovered_by = ottoman
-discovered_by = muslim

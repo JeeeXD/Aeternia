@@ -1,11 +1,10 @@
-base_tax = 3
-base_manpower = 1
-base_production = 2
+base_tax = 4
+base_manpower = 6
+base_production = 5
 is_city = yes
-add_core = LIV
-owner = LIV
+owner = EST
 religion = romuva_pagan
-controller = LIV
+controller = EST
 discovered_by = western
 discovered_by = eastern
 culture = estonian

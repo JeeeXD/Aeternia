@@ -1,18 +1,4 @@
-owner = ASK
-controller = ASK
-culture = japanese
-religion = shinto
-
-trade_goods = grain
-hre = no
-base_tax = 2
-base_production = 3
-base_manpower = 3
+base_tax = 1
+base_production = 1
+base_manpower = 1
 is_city = yes
-add_core = ASK
-discovered_by = chinese
-discovered_by = MCH
-discovered_by = KHA
-discovered_by = OIR
-discovered_by = QNG
-discovered_by = ANU

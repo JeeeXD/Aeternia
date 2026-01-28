@@ -1,6 +1,6 @@
-base_tax = 1
-base_manpower = 3
-base_production = 2
+base_tax = 5
+base_manpower = 6
+base_production = 6
 add_core = KUB
 owner = KUB
 religion = shamanism

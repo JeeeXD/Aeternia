@@ -5,9 +5,9 @@ culture = pontic_greek
 religion = ibadi
 capital = "Trapezous"
 trade_goods = naval_supplies
-base_tax = 4
-base_production = 4
-base_manpower = 4
+base_tax = 5
+base_production = 2
+base_manpower = 5
 is_city = yes
 add_core = TRE
 discovered_by = western
@@ -17,15 +17,4 @@ discovered_by = ottoman
 discovered_by = nomad_group
 extra_cost = 8
 center_of_trade = 1
-1461.1.1 = { 
-	controller = TUR
-	add_core = TUR
-}
-1481.6.1 = { controller = REB revolt = { type = pretender_rebels size = 0 } }
-1482.1.1 = { culture = turkish religion = Sunni }
-1482.7.26 = { controller = TUR revolt = { size = 1 } }
-1509.1.1 = { controller = REB revolt = { type = revolutionary_rebels size = 0 } }
-1513.1.1 = { controller = TUR revolt = { size = 1 } }
-1658.1.1 = { controller = REB revolt = { type = revolutionary_rebels size = 0 } }
-1659.1.1 = { controller = TUR revolt = { size = 1 } }
 fort_15th = yes

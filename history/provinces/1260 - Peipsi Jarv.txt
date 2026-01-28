@@ -5,3 +5,6 @@ discovered_by = CRI
 discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
+base_tax = 4
+base_manpower = 4
+base_production = 4

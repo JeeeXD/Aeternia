@@ -1,15 +1,13 @@
 #Rwanda
-
 owner = RWA
 controller = RWA
 add_core = RWA
 culture = rwandan
-religion = shamanism #Fetishism
+religion = shamanism#Fetishism
 capital = "Nduga"
 trade_goods = iron
-hre = no
 base_tax = 4
 base_production = 4
-base_manpower = 3
+base_manpower = 2
 is_city = yes
 discovered_by = central_african

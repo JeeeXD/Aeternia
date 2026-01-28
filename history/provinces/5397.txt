@@ -1,12 +1,10 @@
-base_tax = 2
+base_tax = 3
 base_manpower = 1
-base_production = 1
+base_production = 3
 religion = shamanism
-
 trade_goods = unknown
 culture = khoisan
-
 native_size = 47
 native_hostileness = 4
 native_ferocity = 6
-
+is_city = no

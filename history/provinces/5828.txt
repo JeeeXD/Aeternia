@@ -1,8 +1,8 @@
 add_core = TRS
 owner = TRS
-base_tax = 2
-base_manpower = 1
-base_production = 1
+base_tax = 6
+base_manpower = 3
+base_production = 5
 religion = sunni
 controller = TRS
 is_city = yes

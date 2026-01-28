@@ -1,11 +1,4 @@
-add_core = RFR
-owner = RFR
 base_tax = 1
-base_manpower = 3
+base_manpower = 1
 base_production = 1
-culture = togoku
-trade_goods = fur
-religion = shinto
-controller = RFR
 is_city = yes
-discovered_by = chinese

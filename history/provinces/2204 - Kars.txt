@@ -5,9 +5,9 @@ culture = georgian
 religion = ibadi
 capital = "Akhaltsikhe"
 trade_goods = wine
-base_tax = 3
-base_production = 3
-base_manpower = 2
+base_tax = 6
+base_production = 5
+base_manpower = 5
 is_city = yes
 add_core = GEO
 add_core = SME
@@ -17,14 +17,4 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
-1569.1.1 = { 
-	controller = PER
-	add_core = PER
-	capital = "Kars"
-}
-1578.9.9 = { controller = TUR }
-1590.3.21 = { add_core = TUR }
-1607.1.1 = { controller = PER }
-1625.1.1 = { controller = PER }
-1632.1.1 = { controller = TUR }
 fort_15th = yes

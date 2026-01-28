@@ -1,6 +1,6 @@
 base_tax = 3
-base_manpower = 3
-base_production = 4
+base_manpower = 5
+base_production = 1
 is_city = yes
 owner = BAV
 trade_goods = paper
@@ -11,5 +11,4 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 culture = bavarian
-hre = yes
 add_core = BAV

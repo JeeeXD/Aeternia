@@ -121,4 +121,36 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 6248;5604;sea;1390;-1;-1;-1;-1;osumi-osumi archipelago
 3;6451;sea;1255;-1;-1;-1;-1;Kalmar-Oland
 1984;6447;sea;1259;-1;-1;-1;-1;Nordjylland-Norrejyske O
+
+
+115;6364;sea;1298;-1;-1;-1;-1;Pisa-Corsica del Nord MEDITERRANEAN
+1750;4560;sea;1295;-1;-1;-1;-1;Alacant-Elvissa MEDITERRANEAN
+6360;143;sea;1310;-1;-1;-1;-1;Lecce-Vlore MEDITERRANEAN
+2982;126;sea;1305;-1;-1;-1;-1;Siracusa-Malta MEDITERRANEAN
+321;5726;sea;1317;-1;-1;-1;-1;Cyprus-Alanya MEDITERRANEAN
+5704;2313;sea;1317;-1;-1;-1;-1;Famagusta-Antakiya MEDITERRANEAN
+320;319;sea;1319;-1;-1;-1;-1;Rhodes-Mentesha MEDITERRANEAN
+2536;4622;sea;1505;-1;-1;-1;-1;Mayaimi-Canimar CARIBBEANS
+4624;2652;sea;1512;-1;-1;-1;-1;Guane-Ecab CARIBBEANS
+493;1881;sea;1523;-1;-1;-1;-1;St. Martin-St. Thomas CARIBBEANS
+496;497;sea;1523;-1;-1;-1;-1;Guadelupe-Dominica CARIBBEANS
+488;487;sea;1516;-1;-1;-1;-1;Jamaica-Zui CARIBBEANS
+500;502;sea;1522;-1;-1;-1;-1;Trinidad-St. Vincent CARIBBEANS
+501;499;sea;1522;-1;-1;-1;-1;Barbados-St. Lucia CARIBBEANS
+1881;494;sea;1523;-1;-1;-1;-1;St. Martin-St. Kitts CARIBBEANS
+492;493;sea;1526;-1;-1;-1;-1;St. Thomas-Boriken CARIBBEANS
+492;4621;sea;1526;-1;-1;-1;-1;Boriken-Higuey CARIBBEANS
+483;2654;sea;1524;-1;-1;-1;-1;Baracoa-Turks Islands CARIBBEANS
+483;482;sea;1503;-1;-1;-1;-1;Turks Islands-Bahamas CARIBBEANS
+2654;489;sea;1516;-1;-1;-1;-1;Baracoa-Tortuga CARIBBEANS
+491;2808;sea;1519;-1;-1;-1;-1;Arumba-Coro CARIBBEANS
+830;2807;sea;1519;-1;-1;-1;-1;Maracaibo-Altagracia CARIBBEANS
+4049;4020;sea;1449;-1;-1;-1;-1;Comoros-Ibo MADAGASCAR
+4020;4022;sea;1449;-1;-1;-1;-1;Comoros-Iboina MADAGASCAR
+2788;1099;sea;1446;-1;-1;-1;-1;Hafun-Soqutra YEMEN
+2348;164;sea;1319;-1;-1;-1;-1;Scio-Nasso AEGAN
+145;163;sea;1319;-1;-1;-1;-1;Morea-Crete AEGAN
+1777;4257;sea;1652;-1;-1;-1;-1;Kola-Mezen NOVGOROD
+1983;1775;sea;1258;-1;-1;-1;-1;Lolland-Holstein LUBECK
+235;87;sea;1271;-1;-1;-1;-1;Kent-Calais CHANNEL
 -1;-1;;-1;-1;-1;-1;-1;-1;

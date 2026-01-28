@@ -5,9 +5,7 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 discovered_by = NHX
-
-
-
-
-1640.1.1 = { discovered_by = RUS } # Ivan Moskvitin
-
+1640.1.1 = { discovered_by = RUS }
+base_tax = 4
+base_manpower = 5
+base_production = 3

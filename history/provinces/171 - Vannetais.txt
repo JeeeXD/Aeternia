@@ -5,15 +5,12 @@ capital = "Vannes"
 is_city = yes
 culture = breton
 religion = orthodox
-base_tax = 3
+base_tax = 4
 base_production = 3
 trade_goods = fish
-base_manpower = 3
+base_manpower = 5
 add_core = BRI
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-1453.1.1 = { add_core = FRA }
-1532.8.4 = { controller = FRA }
-1650.1.1 = { capital = "Lorient" }

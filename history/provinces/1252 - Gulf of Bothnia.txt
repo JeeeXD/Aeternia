@@ -1,7 +1,5 @@
 discovered_by = western
 discovered_by = eastern
-
-
-
-
-
+base_tax = 3
+base_manpower = 3
+base_production = 1

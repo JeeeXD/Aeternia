@@ -7,9 +7,7 @@ discovered_by = MYR
 discovered_by = SOL
 discovered_by = NVK
 discovered_by = NHX
-
-
-
-
 1643.1.1 = { discovered_by = RUS }
-
+base_tax = 4
+base_manpower = 5
+base_production = 3

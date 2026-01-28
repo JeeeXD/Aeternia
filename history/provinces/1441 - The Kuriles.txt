@@ -46,9 +46,7 @@ discovered_by = CHV
 discovered_by = KMC
 discovered_by = NVK
 discovered_by = NHX
-
-
-
-
 1646.1.1 = { discovered_by = RUS }
-
+base_tax = 4
+base_manpower = 3
+base_production = 6

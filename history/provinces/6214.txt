@@ -3,4 +3,7 @@ discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
-
+is_city = no
+base_tax = 4
+base_manpower = 3
+base_production = 3

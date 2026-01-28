@@ -1,6 +1,6 @@
 base_tax = 2
 base_manpower = 3
-base_production = 2
+base_production = 4
 add_core = KRW
 owner = KRW
 religion = shamanism

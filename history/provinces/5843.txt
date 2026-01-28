@@ -1,12 +1,4 @@
-add_core = OIR
-owner = OIR
 base_tax = 1
-base_manpower = 2
+base_manpower = 1
 base_production = 1
-trade_goods = livestock
-religion = tengri_pagan_reformed
-controller = OIR
 is_city = yes
-culture = buryat
-discovered_by = nomad_group
-discovered_by = chinese

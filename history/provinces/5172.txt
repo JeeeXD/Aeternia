@@ -1,6 +1,6 @@
 base_tax = 2
-base_manpower = 3
-base_production = 1
+base_manpower = 5
+base_production = 4
 add_core = WAD
 owner = WAD
 religion = egyptian_pagan

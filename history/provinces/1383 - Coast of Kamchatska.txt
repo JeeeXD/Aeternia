@@ -6,9 +6,7 @@ discovered_by = KMC
 discovered_by = MYR
 discovered_by = NVK
 discovered_by = SOL
-
-
-
-
 1647.1.1 = { discovered_by = RUS }
-
+base_tax = 5
+base_manpower = 6
+base_production = 3

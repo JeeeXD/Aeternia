@@ -82,10 +82,11 @@ leader_names = {
 	Ermelli Feltre Ferme Ferrara Fiume Flangini Foscarini Friuli Garda Gardone
 	Giudica Giustani Gorizia Grado Grimani Gritti Idro Iseo Isonzo Lando
 	Latisana Legnago Lido Lignano Lissa Livenza Loredano Magno Mantova Meduna
-	Memmo Mestre Mincio Modigliano Molini Monfalcone Oglio Padova Panaro Pesaro
-	Pezzini Piave "Ponte Vechio" Pontebba Pordenone Pramaggiore Priuli Raguse Rovereto Rovigo
-	Ruzzini "San Paulo" Schio Serio Sugaina Tagliamento Tartaro Tolmezzo Toscani Trento
-	Trevisano Treviso Trieste Udine Valieri Verona Vicenza Vittorio Zara Zustiniani
+	Memmo Mestre Mincio Modigliano Molini Monfalcone Oglio
+	Padova Panaro Pesaro Pezzini Piave "Ponte Vechio" Pontebba Pordenone Pramaggiore Priuli
+	Raguse Rovereto Rovigo Ruzzini "San Paulo" Schio Serio Sugaina Tagliamento Tartaro
+	Tolmezzo Toscani Trento Trevisano Treviso Trieste Udine
+	Valieri Verona Vicenza Vittorio Zara Zustiniani 
 }
 ship_names = { 
 	Abraham Adam Angeli Archangeli "Archangelus Gabriel" "Archangelus Michael" "Archangelus Raphael" Cherubim "Corpus Christi" "David Rex"
@@ -99,6 +100,4 @@ ship_names = {
 }
 army_names = { 
 	"Armata di $PROVINCE$" 
-}
-fleet_names = { 
 }

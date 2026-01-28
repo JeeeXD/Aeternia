@@ -1,0 +1,3 @@
+1399.1.1 = { emperor = NAP }
+1419.8.16 = { emperor = CAS }
+1437.12.9 = { emperor = GRA }

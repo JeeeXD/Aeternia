@@ -1,12 +1,4 @@
-base_tax = 2
+base_tax = 1
 base_manpower = 1
 base_production = 1
-trade_goods = wool
 is_city = yes
-add_core = CHG
-discovered_by = nomad_group
-discovered_by = chinese
-owner = CHG
-controller = CHG
-culture = oirats
-religion = tengri_pagan_reformed

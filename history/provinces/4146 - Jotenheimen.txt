@@ -1,4 +1,7 @@
 #Southern Norwegian Mountain massifs and highlands: Jotenheimen, Breheimen, Hardangervidda and Heiene.
-
 discovered_by = eastern
 discovered_by = western
+is_city = no
+base_tax = 5
+base_manpower = 4
+base_production = 5

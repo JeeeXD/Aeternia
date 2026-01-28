@@ -1,6 +1,6 @@
 base_tax = 3
 base_manpower = 2
-base_production = 4
+base_production = 6
 is_city = yes
 add_core = AUV
 owner = AUV
@@ -13,3 +13,4 @@ discovered_by = ottoman
 discovered_by = muslim
 culture = occitain
 add_core = TOU
+hre = yes

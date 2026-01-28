@@ -6,3 +6,6 @@ discovered_by = nomad_group
 add_core = TIM
 owner = TIM
 controller = TIM
+base_tax = 4
+base_manpower = 4
+base_production = 2

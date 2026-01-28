@@ -1,4 +1,5 @@
 #4133 - Lake Kivu
-
-
 discovered_by = central_african
+base_tax = 4
+base_manpower = 1
+base_production = 5

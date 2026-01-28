@@ -1,3 +1,6 @@
 discovered_by = north_american
 1543.1.1 = { discovered_by = SPA }
 1778.1.1 = { discovered_by = GBR }
+base_tax = 5
+base_manpower = 4
+base_production = 6

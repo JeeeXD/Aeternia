@@ -1,12 +1,4 @@
-add_core = SOL
-owner = SOL
 base_tax = 1
 base_manpower = 1
 base_production = 1
-culture = manchu
-trade_goods = salt
-religion = tengri_pagan_reformed
-controller = SOL
 is_city = yes
-discovered_by = chinese
-discovered_by = nomad_group

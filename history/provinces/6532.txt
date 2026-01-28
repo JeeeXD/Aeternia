@@ -1,11 +1,10 @@
-base_tax = 3
-base_manpower = 4
-base_production = 1
+base_tax = 4
+base_manpower = 5
+base_production = 3
 is_city = yes
-add_core = LIV
-owner = LIV
+owner = LTG
 religion = romuva_pagan
-controller = LIV
+controller = LTG
 discovered_by = western
 discovered_by = eastern
 culture = latvian

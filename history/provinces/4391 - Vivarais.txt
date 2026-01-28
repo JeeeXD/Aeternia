@@ -5,15 +5,14 @@ capital = "Viviers"
 is_city = yes
 culture = occitain
 religion = catholic
-base_tax = 4
-base_production = 4
+base_tax = 3
+base_production = 3
 trade_goods = wine
-base_manpower = 2
+base_manpower = 4
 add_core = TOU
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-1560.1.1 = { religion = Reformed }
-1686.1.17 = { religion = Catholic }
 add_core = DAU
+hre = yes

@@ -1,8 +1,5 @@
 discovered_by = chinese
 discovered_by = nomad_group
-
-
-
-
-1519.1.1 = { discovered_by = POR } # Tome Pires
-
+base_tax = 2
+base_manpower = 1
+base_production = 3

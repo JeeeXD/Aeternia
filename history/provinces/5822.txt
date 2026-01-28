@@ -1,8 +1,8 @@
 add_core = NOG
 owner = NOG
-base_tax = 1
-base_manpower = 1
-base_production = 2
+base_tax = 5
+base_manpower = 5
+base_production = 5
 trade_goods = naval_supplies
 religion = sunni
 controller = NOG

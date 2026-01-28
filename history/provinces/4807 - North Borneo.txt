@@ -1,1 +1,5 @@
 discovered_by = chinese
+is_city = no
+base_tax = 2
+base_manpower = 4
+base_production = 4

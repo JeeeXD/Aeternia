@@ -1,15 +1,6 @@
 #582 - Mong Yang
-owner = MYA
-controller = MYA
-culture = shan
-religion = sunni
 capital = "Mong Yang"
-trade_goods = copper
-base_tax = 3
-base_production = 3
-base_manpower = 3
+base_tax = 1
+base_production = 1
+base_manpower = 1
 is_city = yes
-add_core = MYA
-discovered_by = chinese
-discovered_by = indian
-fort_15th = yes

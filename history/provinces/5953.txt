@@ -1,14 +1,4 @@
-add_core = ARK
-owner = ARK
-base_tax = 3
+base_tax = 1
 base_manpower = 1
-base_production = 3
-religion = sunni
-controller = ARK
+base_production = 4
 is_city = yes
-culture = arakanese
-trade_goods = ivory
-discovered_by = chinese
-discovered_by = indian
-discovered_by = ottoman
-discovered_by = muslim

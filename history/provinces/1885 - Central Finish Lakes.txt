@@ -1,6 +1,6 @@
 discovered_by = western
 discovered_by = eastern
 religion = finnish_pagan
-add_core = FIN
-owner = FIN
-controller = FIN
+base_tax = 1
+base_manpower = 5
+base_production = 4

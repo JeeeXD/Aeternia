@@ -1,4 +1,7 @@
 discovered_by = north_american
-1778.1.1 = {
+1778.1.1 = { 
 	discovered_by = GBR
 }
+base_tax = 4
+base_manpower = 3
+base_production = 1

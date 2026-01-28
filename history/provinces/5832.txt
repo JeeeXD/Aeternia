@@ -1,7 +1,7 @@
 owner = AFG
-base_tax = 2
-base_manpower = 1
-base_production = 1
+base_tax = 5
+base_manpower = 5
+base_production = 4
 trade_goods = copper
 religion = sunni
 controller = AFG

@@ -1,6 +1,6 @@
-base_tax = 1
-base_manpower = 2
-base_production = 2
+base_tax = 6
+base_manpower = 6
+base_production = 4
 religion = egyptian_pagan
 trade_goods = unknown
 culture = nubian

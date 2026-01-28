@@ -1,7 +1,7 @@
 owner = SIS
 base_tax = 3
-base_manpower = 2
-base_production = 1
+base_manpower = 5
+base_production = 6
 controller = SIS
 is_city = yes
 religion = sunni

@@ -1,5 +1,5 @@
-base_tax = 2
-base_manpower = 2
+base_tax = 6
+base_manpower = 6
 base_production = 4
 add_core = CKW
 owner = CKW

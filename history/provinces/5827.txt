@@ -1,9 +1,9 @@
 add_core = TRS
 add_core = TIM
 owner = TRS
-base_tax = 1
-base_manpower = 2
-base_production = 2
+base_tax = 4
+base_manpower = 6
+base_production = 3
 religion = sunni
 controller = TRS
 is_city = yes

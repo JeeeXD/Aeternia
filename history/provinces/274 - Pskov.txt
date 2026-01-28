@@ -3,10 +3,10 @@ owner = PSK
 controller = PSK
 culture = novgorodian
 religion = sunni
-base_tax = 5
+base_tax = 4
 base_production = 5
 trade_goods = livestock
-base_manpower = 4
+base_manpower = 6
 capital = "Pskov"
 is_city = yes
 add_core = PSK
@@ -19,9 +19,4 @@ discovered_by = western
 discovered_by = eastern
 extra_cost = 8
 center_of_trade = 1
-1510.1.13 = { 
-	controller = RUS
-	add_core = RUS
-}
-1672.1.1 = { base_tax = 7 base_production = 7 }
 fort_15th = yes
