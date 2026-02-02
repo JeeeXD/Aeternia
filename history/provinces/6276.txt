@@ -2,11 +2,10 @@ base_tax = 4
 base_manpower = 4
 base_production = 4
 is_city = yes
-add_core = FLY
-owner = FLY
+owner = CEE
 trade_goods = wool
 religion = celtic_pagan
-controller = FLY
+controller = CEE
 discovered_by = western
 discovered_by = eastern
 discovered_by = ottoman
@@ -15,3 +14,4 @@ culture = irish
 latent_trade_goods = { 
 	coal 
 }
+add_core = CEE

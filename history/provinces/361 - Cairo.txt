@@ -1,6 +1,6 @@
 #361 - Cairo
-owner = MAM
-controller = MAM
+owner = LGY
+controller = LGY
 culture = al_misr_arabic
 religion = coptic
 capital = "Al Qahira"
@@ -9,7 +9,6 @@ base_tax = 4
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = MAM
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
@@ -19,4 +18,5 @@ discovered_by = indian
 discovered_by = east_african
 extra_cost = 16
 center_of_trade = 2
+add_core = LGY
 fort_15th = yes

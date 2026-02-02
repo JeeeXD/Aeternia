@@ -3,10 +3,9 @@ base_manpower = 2
 base_production = 6
 center_of_trade = 1
 extra_cost = 8
-add_core = MAM
-owner = MAM
+owner = UGY
 religion = egyptian_pagan
-controller = MAM
+controller = UGY
 is_city = yes
 trade_goods = sugar
 culture = al_misr_arabic
@@ -20,3 +19,4 @@ discovered_by = indian
 latent_trade_goods = { 
 	coal 
 }
+add_core = UGY

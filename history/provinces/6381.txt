@@ -15,4 +15,3 @@ culture = greek
 discovered_by = KAZ
 discovered_by = GOL
 discovered_by = CRI
-add_core = BYZ

@@ -1,10 +1,9 @@
 base_tax = 5
 base_manpower = 5
 base_production = 3
-add_core = MAM
-owner = MAM
+owner = MUT
 religion = egyptian_pagan
-controller = MAM
+controller = MUT
 is_city = yes
 trade_goods = livestock
 culture = al_misr_arabic
@@ -14,3 +13,4 @@ discovered_by = east_african
 latent_trade_goods = { 
 	coal 
 }
+add_core = MUT

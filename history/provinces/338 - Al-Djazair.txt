@@ -1,6 +1,6 @@
 #338 - Al-Djazair
-owner = TUN
-controller = TUN
+owner = ALG
+controller = ALG
 culture = algerian
 religion = catholic
 capital = "Al-Djazair"
@@ -9,7 +9,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 5
 is_city = yes
-add_core = TUN
 add_core = ALG
 discovered_by = western
 discovered_by = muslim

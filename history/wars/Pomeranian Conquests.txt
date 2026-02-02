@@ -1,0 +1,17 @@
+name = "Crusade of Varna"
+war_goal = {
+	type = superiority_crusade
+	casus_belli = cb_conquest
+}
+
+1443.1.1 = {
+	add_attacker = POM
+	add_defender = HES
+	add_defender = SAX
+}
+
+1444.1.1 = {
+	rem_attacker = POM
+	rem_defender = HES
+	rem_defender = SAX
+}

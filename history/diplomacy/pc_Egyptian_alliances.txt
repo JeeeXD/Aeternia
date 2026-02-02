@@ -1,0 +1,28 @@
+dependency = {
+    subject_type = tributary_state
+	first = LGY
+	second = ALX
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}
+dependency = {
+    subject_type = tributary_state
+	first = LGY
+	second = PHY
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}
+dependency = {
+    subject_type = tributary_state
+	first = UGY
+	second = MUT
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}
+dependency = {
+    subject_type = tributary_state
+	first = UGY
+	second = HRG
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}

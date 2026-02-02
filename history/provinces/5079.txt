@@ -1,13 +1,13 @@
 base_tax = 4
 base_manpower = 5
 base_production = 5
-add_core = MAM
-owner = MAM
+owner = MUT
 religion = egyptian_pagan
-controller = MAM
+controller = MUT
 is_city = yes
 trade_goods = naval_supplies
 culture = al_misr_arabic
 discovered_by = ottoman
 discovered_by = muslim
 discovered_by = east_african
+add_core = MUT

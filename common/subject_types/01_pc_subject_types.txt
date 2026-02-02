@@ -24,7 +24,7 @@ timurid_vassal = {
 	pays_overlord = 0.5
 	forcelimit_to_overlord = 0.1
 
-	relative_power_class = 2
+	relative_power_class = 1
 	should_quit_wars_on_activation = yes
 
 	restoration_cb = cb_disloyal_vassal
@@ -51,5 +51,61 @@ timurid_vassal = {
 	}
 	can_marry = {
 		same_overlord = timurid_vassal
+	}
+}
+
+celtic_clan = {
+	copy_from = vassal
+	
+	# Graphics:
+	sprite = GFX_icon_celtic_clan
+	diplomacy_overlord_sprite = GFX_icon_diplomacy_lead_celtic_clan
+	diplomacy_subject_sprite = GFX_icon_diplomacy_am_celtic_clan
+
+	# Properties:
+	transfer_trade_if_merchant_republic = yes
+	can_be_annexed = yes
+	gets_help_with_rebels = yes
+	forms_trade_companies = no
+	joins_overlords_wars = yes
+	can_have_subjects_of_other_types = no
+	takes_diplo_slot = yes
+	can_release_in_peace = yes
+
+	max_government_rank = 1
+
+	liberty_desire_development_ratio = 0.25
+	liberty_desire_same_dynasty = -5.0
+	pays_overlord = 0.2
+	forcelimit_to_overlord = 0.1
+
+	relative_power_class = 1
+	should_quit_wars_on_activation = yes
+
+	restoration_cb = cb_disloyal_vassal
+	annex_cost_per_development = 4
+
+	# Subject Interactions:
+	scutage = yes
+	place_relative_on_throne = no
+	sacrifice_ruler = no
+	sacrifice_heir = no
+	divert_trade = yes
+	seize_territory = yes
+	
+
+	# Modifiers:
+
+	can_fight = {
+		same_overlord = celtic_clan
+	}
+	can_rival = {
+		same_overlord = celtic_clan
+	}
+	can_ally = {
+		same_overlord = celtic_clan
+	}
+	can_marry = {
+		same_overlord = celtic_clan
 	}
 }

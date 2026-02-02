@@ -1,10 +1,9 @@
 base_tax = 2
 base_manpower = 5
 base_production = 5
-add_core = MAM
-owner = MAM
+owner = BEJ
 religion = egyptian_pagan
-controller = MAM
+controller = BEJ
 is_city = yes
 trade_goods = spices
 culture = beja
@@ -15,3 +14,4 @@ discovered_by = eastern
 discovered_by = nomad_group
 discovered_by = east_african
 discovered_by = indian
+add_core = BEJ

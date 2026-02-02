@@ -12,4 +12,17 @@ spriteTypes = {
 		name = "GFX_icon_diplomacy_am_timurid_vassal"
 		texturefile = "gfx/interface/icon_diplomacy_am_timurid_vassal.dds"
 	}
+	#Celtic Clan
+	spriteType = {
+		name = "GFX_icon_diplomacy_am_celtic_clan"
+		texturefile = "gfx/interface/icon_diplomacy_am_celtic_clan.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_celtic_clan"
+		texturefile = "gfx/interface/icon_celtic_clan.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_diplomacy_lead_celtic_clan"
+		texturefile = "gfx/interface/icon_diplomacy_lead_celtic_clan.dds"
+	}
 }

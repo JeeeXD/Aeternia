@@ -1,10 +1,9 @@
 base_tax = 2
 base_manpower = 5
 base_production = 5
-add_core = MAM
-owner = MAM
+owner = UGY
 religion = coptic
-controller = MAM
+controller = UGY
 is_city = yes
 culture = al_misr_arabic
 discovered_by = ottoman
@@ -15,3 +14,4 @@ discovered_by = nomad_group
 discovered_by = east_african
 discovered_by = indian
 trade_goods = iron
+add_core = UGY

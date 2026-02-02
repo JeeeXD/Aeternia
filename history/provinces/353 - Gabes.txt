@@ -1,6 +1,6 @@
 #353 - Tataouine
-owner = TUN
-controller = TUN
+owner = GHD
+controller = GHD
 culture = tunisian
 religion = catholic
 capital = "Tataouine"
@@ -9,9 +9,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 5
 is_city = yes
-add_core = TUN
-add_core = TRP
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
+add_core = GHD

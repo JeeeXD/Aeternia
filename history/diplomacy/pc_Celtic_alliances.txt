@@ -1,0 +1,70 @@
+dependency = {
+    subject_type = celtic_clan
+	first = CEE
+	second = SCO
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}
+dependency = {
+    subject_type = celtic_clan
+	first = CEE
+	second = WLS
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}
+dependency = {
+    subject_type = celtic_clan
+	first = CEE
+	second = CNN
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}
+dependency = {
+    subject_type = celtic_clan
+	first = CEE
+	second = NOL
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}
+dependency = {
+    subject_type = celtic_clan
+	first = CEE
+	second = NOL
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}
+dependency = {
+    subject_type = celtic_clan
+	first = CEE
+	second = MCM
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}
+dependency = {
+    subject_type = celtic_clan
+	first = CEE
+	second = DMS
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}
+dependency = {
+    subject_type = celtic_clan
+	first = CEE
+	second = MNS
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}
+dependency = {
+    subject_type = celtic_clan
+	first = CEE
+	second = LOI
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}
+dependency = {
+    subject_type = celtic_clan
+	first = CEE
+	second = KOI
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}

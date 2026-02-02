@@ -1,6 +1,6 @@
 # - Sfax
-owner = TUN
-controller = TUN
+owner = GRB
+controller = GRB
 culture = tunisian
 religion = catholic
 capital = "Sfax"
@@ -9,8 +9,8 @@ base_tax = 3
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = TUN
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+add_core = GRB
