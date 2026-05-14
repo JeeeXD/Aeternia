@@ -4,6 +4,6 @@ latent_trade_goods = {
 }
 is_city = yes
 capital = "Tokachi"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 5
+base_production = 5
+base_manpower = 2

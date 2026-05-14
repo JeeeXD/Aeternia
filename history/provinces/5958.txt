@@ -1,14 +1,10 @@
 add_core = LIG
 owner = LIG
-base_tax = 5
-base_manpower = 2
-base_production = 4
+base_tax = 4
+base_manpower = 3
+base_production = 6
 religion = sunni
 controller = LIG
 is_city = yes
 culture = malayan
 trade_goods = fish
-discovered_by = chinese
-discovered_by = indian
-discovered_by = muslim
-discovered_by = ottoman

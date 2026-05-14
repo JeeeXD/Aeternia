@@ -1,8 +1,8 @@
 #1038 - Karalveyem
 capital = "Karalveyem"
-base_tax = 1
+base_tax = 3
 base_production = 1
-base_manpower = 1
+base_manpower = 4
 native_size = 5
 native_ferocity = 1
 native_hostileness = 3

@@ -1,7 +1,7 @@
 #693 - Taiyuan
 capital = "Taiyuan"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 3
+base_production = 4
+base_manpower = 5
 is_city = yes
 center_of_trade = 1

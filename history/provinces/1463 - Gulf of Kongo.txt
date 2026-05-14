@@ -12,6 +12,7 @@ discovered_by = JOL
 discovered_by = NDO
 1481.1.1 = { discovered_by = POR }
 1529.6.1 = { discovered_by = FRA }
-base_tax = 4
-base_manpower = 3
+base_tax = 2
+base_manpower = 4
 base_production = 4
+discovered_by = central_african

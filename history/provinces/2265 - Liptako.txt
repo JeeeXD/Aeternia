@@ -5,11 +5,11 @@ add_core = YAT
 add_core = ZND
 is_city = yes
 culture = mossi
-religion = shamanism#Fetishism
+religion = catholic#Fetishism
 capital = "Dori"
 trade_goods = livestock
-base_tax = 4
-base_production = 4
-base_manpower = 3
+base_tax = 3
+base_production = 1
+base_manpower = 1
+discovered_by = punic
 discovered_by = sub_saharan
-#1540.1.1 = { owner = YAT controller = YAT } #Yatenga established as distinct kingdom

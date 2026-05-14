@@ -1,16 +1,19 @@
-#Bergslagen, contains Falun, Västerås etc.
+#Bergslagen, contains Falun, VÃ¤sterÃ¥s etc.
 add_core = SWE
 owner = SWE
 controller = SWE
 culture = swedish
-religion = orthodox
-base_tax = 4
-base_production = 5
+religion = norse_pagan_reformed
+base_tax = 3
+base_production = 4
 trade_goods = iron
-base_manpower = 4
-capital = "Västerås"
+base_manpower = 3
+capital = "VÃ¤sterÃ¥s"
 is_city = yes
-discovered_by = eastern
-discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
+discovered_by = slavic
+discovered_by = latin
+discovered_by = arabic
+discovered_by = persian
+discovered_by = egyptian
+discovered_by = germanic
+discovered_by = punic

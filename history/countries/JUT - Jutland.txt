@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = germanic
+religion = orthodox
+capital = 4149
+primary_culture = danish

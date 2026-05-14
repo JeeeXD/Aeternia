@@ -1,6 +1,6 @@
 base_tax = 1
-base_manpower = 6
-base_production = 3
+base_manpower = 2
+base_production = 4
 add_core = BON
 owner = BON
 religion = shamanism
@@ -8,4 +8,5 @@ controller = BON
 is_city = yes
 trade_goods = tropical_wood
 culture = aka
+discovered_by = punic
 discovered_by = sub_saharan

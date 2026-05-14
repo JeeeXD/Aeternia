@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
-technology_group = eastern
+technology_group = slavic
 primary_culture = serbian
 religion = catholic
 capital = 138# Zabljak

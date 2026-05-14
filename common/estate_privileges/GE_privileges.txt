@@ -1,0 +1,563 @@
+estate_peasants_land_rights = {
+	icon = privilege_grant_autonomy
+	land_share = 5
+	max_absolutism = -5
+	loyalty = 0.05
+	influence = 0.10
+	can_select = {
+
+	}
+	on_granted = {
+	}
+	penalties = {
+	}
+	benefits = {
+		governing_capacity = 100
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_peasants_guild_assembly = {
+	icon = privilege_empty_throne
+	land_share = 0
+	max_absolutism = -10
+	loyalty = 0.05
+	influence = 0.15
+	can_select = {
+
+	}
+	modifier_by_land_ownership = {
+		global_trade_goods_size_modifier = 0.20
+	}
+	mechanics = {
+		exempt_from_seize_land
+	}
+	penalties = {
+	}
+	benefits = {
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_peasants_manpower_drive = {
+	icon = privilege_demand_more_troops
+	land_share = 0
+	max_absolutism = -10
+	loyalty = 0.05
+	influence = 0.05
+	can_select = {
+
+	}
+	modifier_by_land_ownership = {
+		global_manpower_modifier = 0.25
+	}
+	mechanics = {
+		exempt_from_seize_land
+	}
+	penalties = {
+		nobles_loyalty_modifier = -0.1
+	}
+	benefits = {
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_peasants_voting_rights = {
+	icon = privilege_recruit_minister
+	land_share = 0
+	max_absolutism = -10
+	loyalty = 0.10
+	influence = 0.10
+	can_select = {
+		government = republic
+	}
+	penalties = {
+		stability_cost_modifier = 0.25
+		reelection_cost = 0.15
+	}
+	benefits = {
+		republican_tradition = 0.5
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_peasants_fight_the_elite = {
+	icon = privilege_supply_arms
+	influence = 0.05
+	loyalty = 0.05
+	max_absolutism = -5
+	can_select = {
+		government = republic
+	}
+	on_granted = {
+		custom_tooltip = GE_fight_the_elite_Tooltip
+	}
+	on_revoked = {
+	}
+	conditional_modifier = {
+		trigger = {
+			any_known_country = {
+				government = monarchy
+				war_with = root
+			}
+		}
+		modifier = {
+			peasants_loyalty_modifier = 0.1
+			land_morale = 0.05
+		}
+	}
+	penalties = {
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_peasants_bear_arms = {
+	icon = privilege_spawn_rajput_regiments
+	influence = 0.05
+	max_absolutism = -5
+	is_valid = {
+		has_government_attribute = enables_bear_arms
+	}
+	can_select = {
+		has_reform = peasant_militia_reform
+	}
+	modifier_by_land_ownership = {
+		infantry_cost = -0.33
+		infantry_power = 0.1
+	}
+	mechanics = {
+		exempt_from_seize_land
+	}
+	conditional_modifier = {
+		trigger = {
+			NOT = {
+				estate_loyalty = {
+					estate = estate_peasants
+					loyalty = 30
+				}
+			}
+		}
+		modifier = {
+			global_unrest = 2
+		}
+	}
+	on_granted = {
+		custom_tooltip = GE_bear_arms_Tooltip
+	}
+	on_revoked = {
+	}
+	penalties = {
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+
+############### Noble Privileges###############
+
+estate_nobles_high_noble_control = {
+	icon = privilege_diplo_power
+	land_share = 0
+	max_absolutism = -10
+	loyalty = 0.1
+	influence = 0.1
+	is_valid = {
+		current_age = age_of_discovery
+		has_estate_privilege = estate_nobles_high_noble_control
+	}
+	can_select = {
+		always = no
+	}
+	on_revoked = {
+		add_estate_loyalty = {
+			estate = estate_nobles
+			loyalty = -50
+		}
+	}
+	on_invalid = {
+		remove_estate_privilege = estate_nobles_high_noble_control
+		set_estate_privilege = estate_nobles_medium_noble_control
+	}
+	penalties = {
+	}
+	can_revoke = {
+		custom_trigger_tooltip = {
+			tooltip = AE_can_diminish_high_noble_control_tooltip
+			has_country_flag = can_diminish_high_noble_control
+		}
+	}
+	benefits = {
+		manpower_recovery_speed = 0.1
+		nobles_privilege_slots = 1
+	}
+	mechanics = {
+		exempt_from_seize_land
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_nobles_medium_noble_control = {
+	icon = privilege_diplo_power
+	land_share = 0
+	max_absolutism = -5
+	loyalty = 0.05
+	influence = 0.05
+	is_valid = {
+		current_age = age_of_reformation
+		has_estate_privilege = estate_nobles_medium_noble_control
+	}
+	can_select = {
+		always = no
+	}
+	on_revoked = {
+		add_estate_loyalty = {
+			estate = estate_nobles
+			loyalty = -20
+		}
+	}
+	on_invalid = {
+		remove_estate_privilege = estate_nobles_medium_noble_control
+		set_estate_privilege = estate_nobles_low_noble_control
+	}
+	penalties = {
+	}
+	can_revoke = {
+		custom_trigger_tooltip = {
+			tooltip = AE_can_diminish_medium_noble_control_tooltip
+			has_country_flag = can_diminish_medium_noble_control
+		}
+	}
+	benefits = {
+		nobles_privilege_slots = 1
+	}
+	mechanics = {
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_nobles_low_noble_control = {
+	icon = privilege_diplo_power
+	land_share = 0
+	max_absolutism = 0
+	loyalty = -0.1
+	influence = 0
+	is_valid = {
+		OR = {
+			current_age = age_of_absolutism
+			current_age = age_of_revolutions
+		}
+		has_estate_privilege = estate_nobles_low_noble_control
+	}
+	can_select = {
+		always = no
+	}
+	on_revoked = {
+		add_estate_loyalty = {
+			estate = estate_nobles
+			loyalty = -20
+		}
+	}
+	on_invalid = {
+		remove_estate_privilege = estate_nobles_low_noble_control
+	}
+	penalties = {
+		manpower_recovery_speed = -0.1
+	}
+	can_revoke = {
+		absolutism = 20
+	}
+	benefits = {
+		nobles_privilege_slots = 1
+	}
+	mechanics = {
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_nobles_diplomatic_privilege = {
+	icon = privilege_diplo_power
+	land_share = 0
+	max_absolutism = -5
+	loyalty = 0.05
+	influence = -0.05
+	is_valid = {
+		has_government_attribute = enables_noble_diplomats
+	}
+	can_select = {
+		has_government_attribute = enables_noble_diplomats
+	}
+	on_granted = {
+		custom_tooltip = GE_diplomatic_privileges_tooltip
+		hidden_effect = {
+			every_neighbor_country = {
+				limit = {
+					NOT = { war_with = ROOT }
+				}
+				add_opinion = { who = ROOT modifier = opinion_diplomatic_positions }
+			}
+		}
+	}
+	on_revoked = {
+		add_estate_loyalty = {
+			estate = estate_nobles
+			loyalty = -20
+		}
+	}
+	on_invalid = {
+	
+	}
+	penalties = {
+	}
+	benefits = {
+		stability_cost_modifier = 0.10
+	}
+	cooldown_years = 25
+	on_cooldown_expires = {
+		remove_estate_privilege = estate_nobles_diplomatic_privilege
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_nobles_magnate_law_privilege = {
+	icon = privilege_grant_autonomy
+	land_share = 0
+	max_absolutism = -5
+	loyalty = 0.05
+	influence = 0.05
+	is_valid = {
+		has_government_attribute = enables_magnate_law
+	}
+	can_select = {
+		has_government_attribute = enables_magnate_law
+	}
+	on_granted = {
+	}
+	on_revoked = {
+		add_estate_loyalty = {
+			estate = estate_nobles
+			loyalty = -20
+		}
+	}
+	on_invalid = {
+		add_estate_loyalty = {
+			estate = estate_nobles
+			loyalty = -20
+		}
+	}
+	modifier_by_land_ownership = {
+		global_unrest = -2.5
+	}
+	mechanics = {
+		exempt_from_seize_land
+	}
+	penalties = {
+	}
+	benefits = {
+	}
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+estate_nobles_berber_guides = {
+	icon = privilege_grant_autonomy
+	land_share = 0
+	max_absolutism = -5
+	loyalty = 0.05
+	influence = 0.05
+	is_valid = {
+		has_government_attribute = enables_berber_guides
+	}
+	can_select = {
+		has_government_attribute = enables_berber_guides
+	}
+	on_granted = {
+		custom_tooltip = GE_Berber_Guides
+	}
+	on_revoked = {
+	}
+	on_invalid = {
+	}
+	modifier_by_land_ownership = {
+	}
+	conditional_modifier = {
+		trigger = {
+			estate_loyalty = {
+				estate = estate_nobles
+				loyalty = 60
+			}
+		}
+		modifier = {
+			attrition = -0.15
+		}
+	}
+	penalties = {
+		global_autonomy = 0.025
+	}
+	benefits = {
+		cavalry_cost = -0.10
+	}
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+###############Burgher Privileges###############
+
+
+estate_burghers_saharan_outposts = {
+	icon = privilege_monopoly_of_goods_cloth
+	land_share = 0
+	max_absolutism = -5
+	loyalty = 0.05
+	influence = 0.05
+	is_valid = {
+		has_government_attribute = enables_saharan_outposts
+	}
+	can_select = {
+		has_government_attribute = enables_saharan_outposts
+
+	}
+	modifier_by_land_ownership = {
+		trade_steering = 0.33
+	}
+	mechanics = {
+		exempt_from_seize_land
+	}
+	on_granted = {
+	}
+	on_invalid = {
+	}
+	penalties = {
+	}
+	benefits = {
+		merchants = 1
+	}
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+estate_burghers_office_of_chancellor = {
+	icon = privilege_admin_power
+	land_share = 0
+	max_absolutism = -10
+	loyalty = 0.05
+	influence = 0.05
+	is_valid = {
+		has_government_attribute = enables_office_of_chancellor
+	}
+	can_select = {
+		has_government_attribute = enables_office_of_chancellor
+
+	}
+	on_granted = {
+		custom_tooltip = GE_office_of_chancellor_tooltip
+	}
+	on_invalid = {
+	}
+	penalties = {
+	}
+	benefits = {
+		state_governing_cost = -0.05
+	}
+	conditional_modifier = {
+		trigger = {
+			estate_loyalty = {
+				estate = estate_burghers
+				loyalty = 60
+			}
+		}
+		modifier = {
+			country_admin_power = 1
+		}
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+###############Church Privileges###############
+
+
+###############Jews Privileges###############
+
+estate_jews_jewish_quarters = {
+	icon = privilege_monopoly_of_goods_cloth
+	land_share = 0
+	max_absolutism = -5
+	loyalty = 0.05
+	influence = 0.05
+	is_valid = {
+	}
+	can_select = {
+	}
+	on_granted = {
+		custom_tooltip = estate_jews_jewish_quarters_effect_tooltip
+	}
+	on_granted_province = {
+		if = {
+			limit = {
+				OR = {
+					development = 20
+					is_capital = yes
+				}
+			}
+			add_base_tax = 1
+			add_province_modifier = {
+				name = GE_jewish_quarter #+2.5 Base Trade Power,
+				duration = -1
+			}
+		}
+	}
+	on_revoked = {
+		custom_tooltip = estate_jews_jewish_quarters_revoke_tooltip
+	}
+	on_revoked_province= {
+		if = {
+			limit = {
+				has_province_modifier = GE_jewish_quarter
+			}
+			add_base_tax = -1
+			remove_province_modifier = GE_jewish_quarter
+		}
+	}
+	on_invalid_province = {
+		if = {
+			limit = {
+				has_province_modifier = GE_jewish_quarter
+			}
+			add_base_tax = -1
+			remove_province_modifier = GE_jewish_quarter
+		}
+
+	}
+	penalties = {
+	}
+	modifier_by_land_ownership = {
+	}
+	benefits = {
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}

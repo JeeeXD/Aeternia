@@ -1,5 +1,4 @@
-discovered_by = chinese
 1512.1.1 = { discovered_by = POR }
-base_tax = 1
-base_manpower = 1
-base_production = 3
+base_tax = 3
+base_manpower = 5
+base_production = 5

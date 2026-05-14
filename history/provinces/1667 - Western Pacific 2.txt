@@ -1,4 +1,4 @@
 1647.1.1 = { discovered_by = RUS }
-base_tax = 2
-base_manpower = 6
-base_production = 1
+base_tax = 3
+base_manpower = 3
+base_production = 5

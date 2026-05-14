@@ -1,12 +1,11 @@
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
-technology_group = western
+technology_group = germanic
 primary_culture = lower_saxon
 religion = orthodox
 capital = 1857# Lauenburg
-fixed_capital = 1857# Cannot move capital away from this province & no power cost to move to it
-# Lüneburg (Dukes of Braunschweig-Lüneburg)
+fixed_capital = 1857# Lüneburg (Dukes of Braunschweig-Lüneburg)
 1368.1.1 = { 
 	monarch = { 
 		name = "Erich IV"

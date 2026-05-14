@@ -1,7 +1,7 @@
 # 4201 - Jianzhou
 capital = "Jianzhou"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 5
+base_production = 5
+base_manpower = 5
 is_city = yes
 add_province_triggered_modifier = changbai_mountain

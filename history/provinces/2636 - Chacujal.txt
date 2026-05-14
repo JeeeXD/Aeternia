@@ -1,15 +1,10 @@
 # No previous file for Chacujal
-culture = highland_mayan
-owner = KAQ
-controller = KAQ
-add_core = KAQ
 is_city = yes
-religion = mesoamerican_religion
 capital = "Chacujal"
 trade_goods = gems
-base_tax = 3
+base_tax = 2
 base_production = 4
-base_manpower = 2
+base_manpower = 3
 #Nito and Naco, precolumbian international trade hubs
 center_of_trade = 1
 add_local_autonomy = 50
@@ -17,3 +12,4 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 discovered_by = mesoamerican
+religion = mesoamerican_religion

@@ -1,8 +1,8 @@
 #702 - Ulanqab
 capital = "Hohhot"
-base_tax = 1
+base_tax = 4
 base_production = 1
-base_manpower = 1
+base_manpower = 5
 is_city = yes
 extra_cost = 8
 center_of_trade = 1

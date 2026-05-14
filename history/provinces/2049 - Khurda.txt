@@ -1,6 +1,6 @@
 #2103 - Khurda (Orissa Tributary States)
 capital = "Khurda"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 5
+base_production = 5
+base_manpower = 4
 is_city = yes

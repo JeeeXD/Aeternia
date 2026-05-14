@@ -1,5 +1,3 @@
-discovered_by = western
-discovered_by = eastern
 base_tax = 5
-base_manpower = 6
-base_production = 1
+base_manpower = 5
+base_production = 4

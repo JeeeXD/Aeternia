@@ -1,0 +1,20 @@
+government = republic
+add_government_reform = plutocracy_reform
+government_rank = 1
+mercantilism = 25
+technology_group = germanic
+primary_culture = franconian
+religion = orthodox
+capital = 67# Nürnberg
+fixed_capital = 67#Ruled by a council of Patricians
+1440.1.1 = { 
+	monarch = { 
+		name = "Patriziat"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+add_government_reform = plutocracy_reform
+add_government_reform = plutocracy_reform

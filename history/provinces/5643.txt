@@ -1,6 +1,6 @@
-base_tax = 6
-base_manpower = 6
-base_production = 5
+base_tax = 5
+base_manpower = 3
+base_production = 1
 culture = aboriginal
 trade_goods = unknown
 religion = dreamtime

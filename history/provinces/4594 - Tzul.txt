@@ -1,13 +1,9 @@
 # No previous file for Tzul
-owner = ITZ
-controller = ITZ
-culture = putun
-religion = mesoamerican_religion
 capital = "Tute"
 trade_goods = cocoa
-base_tax = 5
+base_tax = 1
 base_production = 3
-base_manpower = 6
+base_manpower = 3
 is_city = yes
-add_core = ITZ
 discovered_by = mesoamerican
+religion = mesoamerican_religion

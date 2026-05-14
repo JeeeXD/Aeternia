@@ -1,0 +1,5 @@
+religion = propyrian
+capital = 137
+technology_group = latin
+primary_culture = dalmatian
+government_rank = 1

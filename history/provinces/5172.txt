@@ -1,11 +1,13 @@
 base_tax = 2
-base_manpower = 5
-base_production = 4
+base_manpower = 2
+base_production = 3
 add_core = WAD
 owner = WAD
-religion = egyptian_pagan
+religion = shamanism
 controller = WAD
 is_city = yes
 trade_goods = wool
 culture = tunjur
+discovered_by = egyptian
+discovered_by = punic
 discovered_by = sub_saharan

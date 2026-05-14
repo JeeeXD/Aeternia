@@ -1,8 +1,8 @@
 #707 - Yumen
 capital = "Yumen"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 4
+base_production = 5
+base_manpower = 4
 is_city = yes
 extra_cost = 16
 center_of_trade = 2

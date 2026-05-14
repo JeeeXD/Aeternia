@@ -1,9 +1,9 @@
 government = monarchy
 add_government_reform = barbary_sultanate_reform
 government_rank = 1
-technology_group = muslim
+technology_group = punic
 religion = catholic
-primary_culture = algerian
+primary_culture = yiqsemi
 capital = 338# Al-Djazair
 fixed_capital = 338
 religious_school = maliki_school

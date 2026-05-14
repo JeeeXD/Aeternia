@@ -3,18 +3,18 @@ add_government_reform = appanage_reform
 government_rank = 1
 primary_culture = occitain
 add_accepted_culture = occitain
-religion = catholic
-technology_group = western
-capital = 196	# Toulouse
+religion = propyrian
+technology_group = latin
+capital = 196# Toulouse
 elector = yes
-fixed_capital = 196 # Cannot move capital away from this province & no power cost to move to it
-
-1515.1.1 = { government = monarchy
-add_government_reform = autocracy_reform }
-
+fixed_capital = 196# Cannot move capital away from this province & no power cost to move to it
+1515.1.1 = { 
+	government = monarchy
+	add_government_reform = autocracy_reform
+}
 1560.1.1 = { religion = reformed }
-
 1589.8.3 = { set_legacy_government = administrative_monarchy }
-
-1661.3.9 = { government = monarchy
-add_government_reform = autocracy_reform }
+1661.3.9 = { 
+	government = monarchy
+	add_government_reform = autocracy_reform
+}

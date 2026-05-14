@@ -1,4 +1,4 @@
-technology_group = muslim
+technology_group = arabic
 primary_culture = uzbehk
 add_accepted_culture = khorasani
 add_accepted_culture = persian

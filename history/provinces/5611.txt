@@ -1,11 +1,10 @@
 add_core = MGD
 owner = MGD
-base_tax = 6
-base_manpower = 4
-base_production = 3
+base_tax = 3
+base_manpower = 3
+base_production = 2
 culture = filipino
 trade_goods = fish
 religion = animism
 controller = MGD
 is_city = yes
-discovered_by = chinese

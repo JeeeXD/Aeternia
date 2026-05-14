@@ -1,5 +1,4 @@
-discovered_by = south_american
 1516.1.23 = { discovered_by = SPA }
-base_tax = 2
+base_tax = 1
 base_manpower = 4
 base_production = 4

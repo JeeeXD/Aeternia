@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = free_city
 government_rank = 1
-technology_group = western
-religion = catholic
+technology_group = latin
+religion = propyrian
 capital = 4559
 primary_culture = catalan

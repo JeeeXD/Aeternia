@@ -1,4 +1,4 @@
 1741.1.1 = { discovered_by = RUS }
-base_tax = 3
-base_manpower = 2
+base_tax = 5
+base_manpower = 4
 base_production = 4

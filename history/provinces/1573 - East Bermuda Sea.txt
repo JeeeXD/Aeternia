@@ -2,5 +2,5 @@
 1516.1.23 = { discovered_by = SPA }
 1524.1.1 = { discovered_by = FRA }
 base_tax = 4
-base_manpower = 4
-base_production = 5
+base_manpower = 3
+base_production = 4

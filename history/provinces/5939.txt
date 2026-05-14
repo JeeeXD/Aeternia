@@ -1,6 +1,6 @@
-base_tax = 6
+base_tax = 1
 base_manpower = 5
-base_production = 2
+base_production = 4
 trade_goods = unknown
 religion = animism
 culture = papuan

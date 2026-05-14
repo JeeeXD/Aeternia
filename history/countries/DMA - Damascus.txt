@@ -1,0 +1,7 @@
+capital = 382
+government_rank = 1
+religion = sunni
+technology_group = arabic
+primary_culture = al_suryah_arabic
+government = monarchy
+add_government_reform = feudalism_reform

@@ -1,17 +1,20 @@
-# 4745 - Rügen
+# 4745 - RÃ¼gen
 owner = RUG
 controller = RUG
 add_core = RUG
 culture = pommeranian
 religion = orthodox
-base_tax = 3
-base_production = 3
+base_tax = 4
+base_production = 1
 trade_goods = fish
-base_manpower = 4
-capital = "Bergen auf Rügen"
+base_manpower = 6
+capital = "Bergen auf RÃ¼gen"
 is_city = yes
 unrest = 8#pirate independence of thought
-discovered_by = eastern
-discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
+discovered_by = slavic
+discovered_by = latin
+discovered_by = arabic
+discovered_by = persian
+discovered_by = egyptian
+discovered_by = germanic
+discovered_by = punic

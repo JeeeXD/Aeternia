@@ -1,8 +1,8 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = bosnian
-religion = catholic
-technology_group = eastern
+religion = propyrian
+technology_group = slavic
 government_rank = 1
 capital = 1831
 1435.1.1 = { 

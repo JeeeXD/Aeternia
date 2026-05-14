@@ -1,0 +1,12 @@
+estate_nobles = {
+	privileges = {
+		### GE ###
+		estate_nobles_diplomatic_privilege
+		estate_nobles_magnate_law_privilege
+		estate_nobles_berber_guides
+		### AE ###
+		estate_nobles_high_noble_control
+		estate_nobles_medium_noble_control
+		estate_nobles_low_noble_control
+	}
+}

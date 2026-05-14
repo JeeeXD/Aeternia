@@ -1,8 +1,8 @@
 #1060 - Irkutsk
 capital = "Irkutsk"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 5
+base_production = 5
+base_manpower = 3
 native_size = 10
 native_ferocity = 1
 native_hostileness = 3

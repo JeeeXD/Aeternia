@@ -1,8 +1,8 @@
 #4413 - Cannanore
 capital = "Cannanore"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 3
+base_production = 2
+base_manpower = 3
 is_city = yes
 extra_cost = 8
 center_of_trade = 1

@@ -2,6 +2,6 @@ discovered_by = north_american
 1497.6.24 = { discovered_by = ENG }
 1502.1.1 = { discovered_by = POR }
 1534.1.1 = { discovered_by = FRA }
-base_tax = 6
-base_manpower = 2
-base_production = 3
+base_tax = 2
+base_manpower = 5
+base_production = 4

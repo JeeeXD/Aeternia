@@ -1,6 +1,6 @@
 # 2134 - Rebgong
 capital = "Rebgong"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 5
+base_production = 3
+base_manpower = 6
 is_city = yes

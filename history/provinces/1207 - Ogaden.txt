@@ -1,7 +1,6 @@
 #1207 - Ogaden
-owner = OGD
-controller = OGD
-add_core = OGD
+owner = ADA
+controller = ADA
 culture = somali
 religion = sunni
 capital = "Bale"
@@ -9,8 +8,13 @@ native_size = 40
 native_ferocity = 4
 native_hostileness = 9
 trade_goods = incense
-base_tax = 3
-base_production = 5
-base_manpower = 4
-discovered_by = east_african
+base_tax = 2
+base_production = 2
+base_manpower = 2
 is_city = no
+add_core = ADA
+discovered_by = arabic
+discovered_by = egyptian
+discovered_by = punic
+discovered_by = sub_saharan
+discovered_by = east_african

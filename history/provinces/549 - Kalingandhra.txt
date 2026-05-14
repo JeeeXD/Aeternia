@@ -1,8 +1,8 @@
 #549 - Kalingandhra
 capital = "Vizianagaram"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 6
+base_production = 3
+base_manpower = 4
 is_city = yes
 add_brahmins_or_church_effect = yes
 extra_cost = 8

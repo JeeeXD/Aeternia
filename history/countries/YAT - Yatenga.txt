@@ -1,0 +1,5 @@
+religion = catholic
+technology_group = sub_saharan
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1

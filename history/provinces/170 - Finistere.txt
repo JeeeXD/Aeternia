@@ -1,4 +1,4 @@
-# 170 Finistère - Principal cities: Brest
+# 170 FinistÃ¨re - Principal cities: Brest
 owner = BRI
 controller = BRI
 capital = "Brest"
@@ -6,14 +6,18 @@ is_city = yes
 culture = breton
 religion = orthodox
 base_tax = 5
-base_production = 4
+base_production = 5
 trade_goods = naval_supplies
-base_manpower = 6
+base_manpower = 3
 add_core = BRI
-discovered_by = western
-discovered_by = eastern
-discovered_by = muslim
-discovered_by = ottoman
+discovered_by = latin
+discovered_by = slavic
+discovered_by = arabic
+discovered_by = persian
 extra_cost = 8
 center_of_trade = 1
+discovered_by = celtic
+discovered_by = egyptian
+discovered_by = germanic
+discovered_by = punic
 fort_15th = yes

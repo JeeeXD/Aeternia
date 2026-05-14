@@ -1,16 +1,12 @@
 # No previous file for Yohualtepec
-culture = mixtec
-owner = COI
-controller = COI
-add_core = COI
 is_city = yes
-religion = nahuatl
 capital = "Yohualtepec"
 trade_goods = dyes
-base_tax = 4
-base_production = 5
-base_manpower = 3
+base_tax = 2
+base_production = 1
+base_manpower = 2
 native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 discovered_by = mesoamerican
+religion = nahuatl

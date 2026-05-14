@@ -1,8 +1,8 @@
 #2089 - Chaul (Chaul+Janjira+Kolaba)
 capital = "Chaul"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 4
+base_production = 6
+base_manpower = 5
 add_local_autonomy = 75
 is_city = yes
 add_rajputs_or_marathas_or_nobles_effect = yes

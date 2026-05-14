@@ -1,7 +1,7 @@
 #683 - Nanchang
 capital = "Nanchang"
-base_tax = 1
+base_tax = 4
 base_production = 1
-base_manpower = 1
+base_manpower = 4
 is_city = yes
 center_of_trade = 1

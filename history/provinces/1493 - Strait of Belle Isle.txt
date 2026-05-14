@@ -3,5 +3,5 @@ discovered_by = north_american
 1502.1.1 = { discovered_by = POR }
 1534.1.1 = { discovered_by = FRA }
 base_tax = 5
-base_manpower = 2
+base_manpower = 4
 base_production = 5

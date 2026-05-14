@@ -5,6 +5,6 @@ discovered_by = CHV
 discovered_by = KMC
 discovered_by = MYR
 1647.1.1 = { discovered_by = RUS }
-base_tax = 5
+base_tax = 4
 base_manpower = 3
-base_production = 4
+base_production = 5

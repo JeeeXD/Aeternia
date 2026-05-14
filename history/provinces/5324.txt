@@ -1,10 +1,9 @@
-base_tax = 6
-base_manpower = 5
-base_production = 5
+base_tax = 1
+base_manpower = 2
+base_production = 1
 religion = shamanism
 trade_goods = unknown
 culture = bamun
-discovered_by = sub_saharan
 discovered_by = central_african
 native_size = 28
 native_hostileness = 3

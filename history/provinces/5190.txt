@@ -1,6 +1,6 @@
-base_tax = 4
-base_manpower = 5
-base_production = 1
+base_tax = 1
+base_manpower = 2
+base_production = 3
 religion = shamanism
 trade_goods = unknown
 culture = acholi
@@ -9,3 +9,4 @@ native_size = 62
 native_hostileness = 5
 native_ferocity = 4
 is_city = no
+discovered_by = east_african

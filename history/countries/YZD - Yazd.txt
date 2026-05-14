@@ -1,0 +1,5 @@
+religion = zoroastrian
+capital = 433
+technology_group = persian
+primary_culture = persian
+government_rank = 1

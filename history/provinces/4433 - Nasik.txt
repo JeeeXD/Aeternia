@@ -1,8 +1,8 @@
 #433 - Nasik
 capital = "Nasik"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 5
+base_production = 2
+base_manpower = 5
 add_brahmins_or_church_effect = yes
 is_city = yes
-muslimdiscovered_by = ottoman
+discovered_by = persian

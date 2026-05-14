@@ -1,6 +1,6 @@
-base_tax = 3
-base_manpower = 3
-base_production = 5
+base_tax = 2
+base_manpower = 2
+base_production = 4
 add_core = PTE
 owner = PTE
 religion = sunni
@@ -8,5 +8,5 @@ controller = PTE
 is_city = yes
 trade_goods = naval_supplies
 culture = bantu
-discovered_by = east_african
 discovered_by = central_african
+discovered_by = east_african

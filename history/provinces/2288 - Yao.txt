@@ -1,13 +1,16 @@
 # No previous file for Yao
-owner = YAO
-controller = YAO
+owner = KBO
+controller = KBO
 add_core = YAO
 culture = bilala
-religion = egyptian_pagan
+religion = catholic
 capital = "Yao"
 trade_goods = grain
-base_tax = 3
-base_production = 4
+base_tax = 4
+base_production = 1
 is_city = yes
-base_manpower = 4
+base_manpower = 3
+discovered_by = egyptian
+discovered_by = punic
 discovered_by = sub_saharan
+add_core = KBO

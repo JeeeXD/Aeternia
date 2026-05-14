@@ -1,7 +1,6 @@
-discovered_by = sub_saharan
-base_tax = 4
-base_manpower = 4
-base_production = 6
+base_tax = 1
+base_manpower = 3
+base_production = 2
 culture = sara
 trade_goods = unknown
 religion = shamanism
@@ -9,3 +8,5 @@ native_size = 15
 native_ferocity = 6
 native_hostileness = 8
 is_city = no
+discovered_by = punic
+discovered_by = sub_saharan

@@ -1,11 +1,10 @@
 government = monarchy
 add_government_reform = tanistry_reform
 government_rank = 1
-technology_group = western
+technology_group = celtic
 primary_culture = irish
 religion = celtic_pagan
-capital = 376# Galway
-#House Burke / De Burgh
+capital = 376#House Burke / De Burgh
 1430.1.1 = { 
 	monarch = { 
 		name = "Ulick Ruadh"

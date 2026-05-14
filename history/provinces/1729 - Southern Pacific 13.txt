@@ -2,4 +2,4 @@ discovered_by = polynesian_tech
 1606.1.1 = { discovered_by = SPA }
 base_tax = 4
 base_manpower = 5
-base_production = 5
+base_production = 4

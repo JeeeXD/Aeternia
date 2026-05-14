@@ -1,6 +1,6 @@
-base_tax = 5
-base_manpower = 6
-base_production = 5
+base_tax = 2
+base_manpower = 2
+base_production = 1
 religion = shamanism
 trade_goods = unknown
 culture = sara
@@ -11,3 +11,7 @@ latent_trade_goods = {
 	coal 
 }
 is_city = no
+discovered_by = egyptian
+discovered_by = punic
+discovered_by = sub_saharan
+discovered_by = east_african

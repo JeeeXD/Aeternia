@@ -2,5 +2,5 @@ discovered_by = INC
 discovered_by = CHM
 1528.1.1 = { discovered_by = SPA }
 base_tax = 4
-base_manpower = 5
-base_production = 3
+base_manpower = 4
+base_production = 4

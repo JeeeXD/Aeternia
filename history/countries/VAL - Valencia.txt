@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = feudalism_reform
+religion = propyrian
+primary_culture = catalan
+technology_group = latin
+capital = 220# Valencia
+government_rank = 1

@@ -1,14 +1,10 @@
 # No previous file for Xocotla
-owner = TLX
-controller = TLX
-culture = aztek
-religion = nahuatl
 capital = "Xocotla"
 trade_goods = sugar
-base_tax = 4
-base_production = 6
-base_manpower = 4
+base_tax = 1
+base_production = 4
+base_manpower = 3
 is_city = yes
-add_core = TLX
 discovered_by = mesoamerican
 add_province_triggered_modifier = MAY_obsidian_source
+religion = nahuatl

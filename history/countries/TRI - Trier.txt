@@ -1,12 +1,11 @@
 government = theocracy
 add_government_reform = leading_clergy_reform
-technology_group = western
+technology_group = germanic
 elector = yes
 religion = orthodox
 primary_culture = hessian
 capital = 80# Trier
-fixed_capital = 80# Cannot move capital away from this province & no power cost to move to it
-#Elector-Archbishops of Trier
+fixed_capital = 80#Elector-Archbishops of Trier
 1388.1.1 = { 
 	monarch = { 
 		name = "Werner von Falkenstein"

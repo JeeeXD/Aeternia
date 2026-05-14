@@ -1,8 +1,6 @@
 # Martin Spanberg
-discovered_by = chinese
-discovered_by = nomad_group
 1542.1.1 = { discovered_by = POR }
 1739.1.1 = { discovered_by = RUS }
-base_tax = 5
+base_tax = 2
 base_manpower = 4
-base_production = 4
+base_production = 2

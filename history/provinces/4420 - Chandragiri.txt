@@ -1,7 +1,7 @@
 #1949 - Penukonda
 capital = "Chandragiri"
 base_tax = 1
-base_production = 1
+base_production = 4
 base_manpower = 1
 is_city = yes
 add_brahmins_or_church_effect = yes#fort_15th = yes #One of the great forts of the East

@@ -1,5 +1,5 @@
 #4135 - Lake Albert
 discovered_by = central_african
-base_tax = 6
-base_manpower = 4
+base_tax = 5
+base_manpower = 6
 base_production = 4

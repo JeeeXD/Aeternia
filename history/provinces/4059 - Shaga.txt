@@ -2,8 +2,8 @@
 culture = masaba
 religion = shamanism#Fetishism
 trade_goods = unknown
-base_tax = 5
-base_production = 4
+base_tax = 1
+base_production = 1
 base_manpower = 2
 native_size = 40
 native_ferocity = 4
@@ -11,3 +11,4 @@ native_hostileness = 9
 discovered_by = central_african
 capital = "Shaga"
 is_city = no
+discovered_by = east_african

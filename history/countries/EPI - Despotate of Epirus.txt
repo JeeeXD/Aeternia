@@ -1,8 +1,8 @@
 government = monarchy
 add_government_reform = autocracy_reform
 government_rank = 1
-technology_group = western
-primary_culture = greek
+technology_group = slavic
+primary_culture = athenian
 add_accepted_culture = greek
 religion = sunni
 capital = 4699

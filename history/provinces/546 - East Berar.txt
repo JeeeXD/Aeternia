@@ -1,7 +1,7 @@
 #546 - East Berar / Nagpur
 capital = "Wairagarh"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 5
+base_production = 4
+base_manpower = 6
 is_city = yes
 add_brahmins_or_church_effect = yes

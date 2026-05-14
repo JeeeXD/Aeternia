@@ -1,6 +1,6 @@
 government = republic
 add_government_reform = cossacks_reform
-technology_group = eastern
+technology_group = slavic
 religion = sunni
 primary_culture = ruthenian
 capital = 283# Zaporozhia

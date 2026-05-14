@@ -2,20 +2,23 @@
 latent_trade_goods = { 
 	coal 
 }
-owner = LOR
-controller = LOR
+owner = LOT
+controller = LOT
 capital = "Metz"
 is_city = yes
 culture = burgundian
 religion = orthodox
 base_tax = 4
-base_production = 5
+base_production = 3
 trade_goods = glass
-base_manpower = 3
-add_core = LOR
-discovered_by = eastern
-discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
+base_manpower = 4
+discovered_by = slavic
+discovered_by = latin
+discovered_by = arabic
+discovered_by = persian
 extra_cost = 8
 center_of_trade = 1
+add_core = LOT
+discovered_by = egyptian
+discovered_by = germanic
+discovered_by = punic

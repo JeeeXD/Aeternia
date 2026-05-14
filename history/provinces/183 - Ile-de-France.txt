@@ -1,17 +1,21 @@
-# 183 Île-de-France - Principal cities: Paris
+# 183 ÃŽle-de-France - Principal cities: Paris
 owner = FRA
 controller = FRA
 capital = "Paris"
 is_city = yes
 culture = cosmopolitan_french
 religion = orthodox
-base_tax = 3
-base_production = 4
+base_tax = 2
+base_production = 5
 trade_goods = paper
 base_manpower = 3
 add_core = FRA
-discovered_by = eastern
-discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
+discovered_by = slavic
+discovered_by = latin
+discovered_by = arabic
+discovered_by = persian
 center_of_trade = 2
+discovered_by = celtic
+discovered_by = egyptian
+discovered_by = germanic
+discovered_by = punic

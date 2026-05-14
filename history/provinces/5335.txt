@@ -1,10 +1,9 @@
-base_tax = 4
-base_manpower = 2
-base_production = 5
+base_tax = 2
+base_manpower = 1
+base_production = 1
 religion = shamanism
 trade_goods = unknown
 culture = banda
-discovered_by = sub_saharan
 discovered_by = central_african
 native_size = 43
 native_hostileness = 5

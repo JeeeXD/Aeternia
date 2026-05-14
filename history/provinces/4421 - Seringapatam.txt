@@ -1,7 +1,7 @@
 #4421 - Seringapatam
 capital = "Seringapatam"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 3
+base_production = 4
+base_manpower = 3
 is_city = yes
 add_jains_or_burghers_effect = yes

@@ -1,7 +1,10 @@
-discovered_by = western
-discovered_by = eastern
-discovered_by = muslim
-discovered_by = ottoman
-base_tax = 4
-base_manpower = 5
-base_production = 4
+base_tax = 3
+base_manpower = 6
+base_production = 5
+discovered_by = celtic
+discovered_by = latin
+discovered_by = punic
+discovered_by = germanic
+discovered_by = arabic
+discovered_by = slavic
+discovered_by = egyptian

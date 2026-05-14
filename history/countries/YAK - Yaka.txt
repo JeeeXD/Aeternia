@@ -1,0 +1,3 @@
+religion = shamanism
+technology_group = central_african
+government_rank = 1

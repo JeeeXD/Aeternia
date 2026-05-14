@@ -1,16 +1,19 @@
-#Östergötland, contains Norrköping, Linköping etc.
+#Ã–stergÃ¶tland, contains NorrkÃ¶ping, LinkÃ¶ping etc.
 add_core = SWE
 owner = SWE
 controller = SWE
 culture = swedish
-religion = orthodox
-base_tax = 2
-base_production = 6
+religion = norse_pagan_reformed
+base_tax = 4
+base_production = 1
 trade_goods = grain
 base_manpower = 3
-capital = "Linköping"
+capital = "LinkÃ¶ping"
 is_city = yes# Estimated
-discovered_by = western
-discovered_by = eastern
-discovered_by = muslim
-discovered_by = ottoman
+discovered_by = latin
+discovered_by = slavic
+discovered_by = arabic
+discovered_by = persian
+discovered_by = egyptian
+discovered_by = germanic
+discovered_by = punic

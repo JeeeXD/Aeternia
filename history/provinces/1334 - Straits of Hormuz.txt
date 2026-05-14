@@ -1,12 +1,16 @@
-discovered_by = east_african
-discovered_by = muslim
-discovered_by = ottoman
-discovered_by = indian
-discovered_by = nomad_group
-# Pêro da Covilhã
 1416.1.1 = { discovered_by = MNG }
 1480.1.1 = { discovered_by = TUR }
 1488.1.1 = { discovered_by = POR }
-base_tax = 4
-base_manpower = 3
+base_tax = 2
+base_manpower = 4
 base_production = 4
+discovered_by = MNG
+discovered_by = east_african
+discovered_by = MNG
+discovered_by = arabic
+discovered_by = MNG
+discovered_by = egyptian
+discovered_by = MNG
+discovered_by = persian
+discovered_by = MNG
+discovered_by = punic

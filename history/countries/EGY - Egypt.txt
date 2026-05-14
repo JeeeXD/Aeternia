@@ -1,0 +1,5 @@
+government = monarchy
+add_government_reform = iqta
+primary_culture = upper_egyptian
+technology_group = arabic
+capital = 361 # Cairo

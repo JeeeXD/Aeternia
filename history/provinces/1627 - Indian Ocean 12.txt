@@ -1,5 +1,6 @@
-discovered_by = east_african
 1481.1.1 = { discovered_by = POR }
 base_tax = 5
-base_manpower = 4
-base_production = 1
+base_manpower = 1
+base_production = 5
+discovered_by = central_african
+discovered_by = east_african

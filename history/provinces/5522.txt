@@ -1,5 +1,5 @@
-base_tax = 5
-base_manpower = 1
+base_tax = 4
+base_manpower = 4
 base_production = 1
 add_core = SFA
 owner = SFA
@@ -9,4 +9,3 @@ is_city = yes
 trade_goods = copper
 culture = nguni
 discovered_by = central_african
-discovered_by = east_african

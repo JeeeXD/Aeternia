@@ -1,7 +1,7 @@
 #4414 - Salem
 capital = "Salem"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 3
+base_production = 5
+base_manpower = 6
 is_city = yes
 add_local_autonomy = 25

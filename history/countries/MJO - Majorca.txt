@@ -1,8 +1,7 @@
 government = monarchy
-
 add_government_reform = free_city
-
-religion = catholic
+religion = propyrian
 primary_culture = catalan
-technology_group = western
-capital = 333	# Majorca
+technology_group = latin
+capital = 333# Majorca
+government_rank = 1

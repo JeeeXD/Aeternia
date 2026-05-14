@@ -1,11 +1,10 @@
 government = monarchy
 add_government_reform = tanistry_reform
 government_rank = 1
-technology_group = western
+technology_group = celtic
 religion = celtic_pagan
 primary_culture = irish
-capital = 4118# Cork
-# Earls of Desmond
+capital = 4118# Earls of Desmond
 1418.1.1 = { 
 	monarch = { 
 		name = "James"

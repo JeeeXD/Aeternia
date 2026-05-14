@@ -1,6 +1,6 @@
 #4448 - Parlakhimedi
 capital = "Parlakhimedi"
 base_tax = 1
-base_production = 1
-base_manpower = 1
+base_production = 2
+base_manpower = 4
 is_city = yes

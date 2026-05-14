@@ -2,18 +2,18 @@
 latent_trade_goods = { 
 	coal 
 }
-owner = ENG
-controller = ENG
-culture = english
+owner = NOL
+controller = NOL
+culture = welsh
 religion = celtic_pagan
-base_tax = 2
+base_tax = 4
 base_production = 4
 trade_goods = salt
-base_manpower = 3
+base_manpower = 5
 capital = "Chester"
 is_city = yes
-add_core = ENG
-discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
-discovered_by = eastern
+discovered_by = latin
+add_core = NOL
+discovered_by = celtic
+discovered_by = germanic
+discovered_by = punic

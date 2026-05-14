@@ -1,9 +1,8 @@
 add_core = ZIM
-discovered_by = east_african
 discovered_by = central_african
 owner = ZIM
-base_tax = 4
-base_manpower = 4
+base_tax = 1
+base_manpower = 2
 base_production = 3
 culture = shona
 trade_goods = cloth

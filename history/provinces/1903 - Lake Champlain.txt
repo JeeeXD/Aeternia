@@ -4,4 +4,4 @@ discovered_by = north_american
 1707.5.12 = { discovered_by = GBR }
 base_tax = 4
 base_manpower = 3
-base_production = 4
+base_production = 5

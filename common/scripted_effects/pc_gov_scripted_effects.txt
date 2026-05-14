@@ -1,0 +1,128 @@
+ge_country_arabian_horses_update = {
+	remove_country_modifier = Arabian_Horses_5
+	remove_country_modifier = Arabian_Horses_4
+	remove_country_modifier = Arabian_Horses_3
+	remove_country_modifier = Arabian_Horses_2
+	remove_country_modifier = Arabian_Horses_1
+	if = {
+		limit = {
+			has_government_attribute = enables_arabian_horses
+			num_of_subjects = 1
+		}
+		if = {
+			limit = {
+				calc_true_if = {
+					all_subject_country = {
+						OR = {
+							primary_culture = bedouin_arabic
+							primary_culture = mahri_culture
+							primary_culture = hejazi_culture
+							primary_culture = omani_culture
+							primary_culture = yemeni_culture
+							primary_culture = gulf_arabic
+							primary_culture = al_iraqiya_arabic
+						}
+					}
+					amount = 5
+				}
+			}
+			add_country_modifier = {
+				name = Arabian_Horses_5
+				duration = -1
+			}
+		}
+		else = {
+			if = {
+				limit = {
+					calc_true_if = {
+						all_subject_country = {
+							OR = {
+								primary_culture = bedouin_arabic
+								primary_culture = mahri_culture
+								primary_culture = hejazi_culture
+								primary_culture = omani_culture
+								primary_culture = yemeni_culture
+								primary_culture = gulf_arabic
+								primary_culture = al_iraqiya_arabic
+							}
+						}
+						amount = 4
+					}
+				}
+				add_country_modifier = {
+					name = Arabian_Horses_4
+					duration = -1
+				}
+			}
+			else = {
+				if = {
+					limit = {
+						calc_true_if = {
+							all_subject_country = {
+								OR = {
+									primary_culture = bedouin_arabic
+									primary_culture = mahri_culture
+									primary_culture = hejazi_culture
+									primary_culture = omani_culture
+									primary_culture = yemeni_culture
+									primary_culture = gulf_arabic
+									primary_culture = al_iraqiya_arabic
+								}
+							}
+							amount = 3
+						}
+					}
+					add_country_modifier = {
+						name = Arabian_Horses_3
+						duration = -1
+					}
+				}
+				else = {
+					if = {
+						limit = {
+							calc_true_if = {
+								all_subject_country = {
+									OR = {
+										primary_culture = bedouin_arabic
+										primary_culture = mahri_culture
+										primary_culture = hejazi_culture
+										primary_culture = omani_culture
+										primary_culture = yemeni_culture
+										primary_culture = gulf_arabic
+										primary_culture = al_iraqiya_arabic
+									}
+								}
+								amount = 2
+							}
+						}
+						add_country_modifier = {
+							name = Arabian_Horses_2
+							duration = -1
+						}
+					}
+					else = {
+						if = {
+							limit = {
+								any_subject_country = {
+									OR = {
+										primary_culture = bedouin_arabic
+										primary_culture = mahri_culture
+										primary_culture = hejazi_culture
+										primary_culture = omani_culture
+										primary_culture = yemeni_culture
+										primary_culture = gulf_arabic
+										primary_culture = al_iraqiya_arabic
+									}
+								}
+							}
+							add_country_modifier = {
+								name = Arabian_Horses_1
+								duration = -1
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

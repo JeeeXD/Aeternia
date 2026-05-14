@@ -1,0 +1,3 @@
+religion = catholic
+technology_group = sub_saharan
+government_rank = 1

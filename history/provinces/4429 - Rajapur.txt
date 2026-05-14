@@ -1,7 +1,7 @@
 #4429 - Rajapur
 capital = "Rajapur"
 base_tax = 1
-base_production = 1
-base_manpower = 1
+base_production = 3
+base_manpower = 3
 is_city = yes
 add_rajputs_or_marathas_or_nobles_effect = yes

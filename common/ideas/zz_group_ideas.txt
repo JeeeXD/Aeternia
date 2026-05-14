@@ -136,7 +136,7 @@ barbary_pirate_ideas = {
 	trigger = {
 		has_government_attribute = is_pirate_republic_reform
 		OR = {
-			culture_group = maghrebi
+			culture_group = punic
 			tag = TET
 			tag = SLE
 		}
@@ -179,7 +179,7 @@ pirate_ideas = {
 		OR = {
 			AND = {
 				has_government_attribute = is_pirate_republic_reform
-				NOT = { culture_group = maghrebi }
+				NOT = { culture_group = punic }
 				NOT = { tag = TET }
 				NOT = { tag = SLE }
 			}
@@ -269,7 +269,7 @@ berber_ideas = {
 	}
 	
 	trigger = {
-		culture_group = maghrebi
+		culture_group = punic
 	}
 	free = yes
 	
@@ -2218,7 +2218,7 @@ greek_ideas = {
 	}
 	
 	trigger = {
-		primary_culture = greek
+		culture_group = greek
 	}
 	free = yes
 	

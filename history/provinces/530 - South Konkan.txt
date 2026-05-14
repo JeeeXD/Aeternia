@@ -1,7 +1,7 @@
 #530 - South Konkan (Dabhol, Rajapur, up to and including Bankot)
 capital = "Dabhol"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 4
+base_production = 3
+base_manpower = 3
 is_city = yes
 add_local_autonomy = 75

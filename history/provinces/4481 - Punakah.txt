@@ -1,8 +1,8 @@
 #4481 - Punakah
 capital = "Punakha"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 4
+base_production = 4
+base_manpower = 4
 is_city = yes
 add_local_autonomy = 50
 add_core = BHU

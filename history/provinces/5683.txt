@@ -1,13 +1,10 @@
 add_core = BRS
-discovered_by = indian
-discovered_by = muslim
 owner = BRS
-base_tax = 3
-base_manpower = 3
-base_production = 5
+base_tax = 5
+base_manpower = 1
+base_production = 1
 culture = sumatran
 trade_goods = incense
 religion = hinduism
 controller = BRS
 is_city = yes
-discovered_by = chinese

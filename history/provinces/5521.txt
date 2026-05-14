@@ -1,6 +1,6 @@
-base_tax = 3
-base_manpower = 4
-base_production = 5
+base_tax = 2
+base_manpower = 1
+base_production = 1
 add_core = RZW
 owner = RZW
 religion = shamanism
@@ -8,5 +8,5 @@ controller = RZW
 is_city = yes
 trade_goods = copper
 culture = shona
-discovered_by = east_african
 discovered_by = central_african
+discovered_by = east_african

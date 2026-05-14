@@ -1,9 +1,9 @@
 government = tribal
 add_government_reform = tribal_kingdom
 government_rank = 1
-primary_culture = tunisian
+primary_culture = berber
 religion = catholic
-technology_group = muslim
+technology_group = punic
 capital = 352# Gafsa
 religious_school = maliki_school
 1440.1.1 = { 

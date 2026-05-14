@@ -1,7 +1,7 @@
 #4506 - Barmer
 capital = "Barmer"
 add_rajputs_or_marathas_or_nobles_effect = yes
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 6
+base_production = 2
+base_manpower = 4
 is_city = yes

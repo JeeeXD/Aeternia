@@ -1,8 +1,8 @@
 #4359 - Ise
 capital = "Kiriyama"
-base_tax = 1
-base_manpower = 1
-base_production = 1
+base_tax = 5
+base_manpower = 5
+base_production = 4
 is_city = yes
 add_permanent_province_modifier = { 
 	name = ise_grand_shrine

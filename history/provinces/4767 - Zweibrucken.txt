@@ -1,16 +1,19 @@
-# 4767 - Zweibrücken
-capital = "Zweibrücken"
+# 4767 - ZweibrÃ¼cken
+capital = "ZweibrÃ¼cken"
 culture = hessian
 religion = orthodox
 trade_goods = cloth
 owner = BAD
 base_tax = 1
-base_production = 3
-base_manpower = 4
+base_production = 1
+base_manpower = 6
 is_city = yes
 controller = BAD
-discovered_by = eastern
-discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
+discovered_by = slavic
+discovered_by = latin
+discovered_by = arabic
+discovered_by = persian
 add_core = BAD
+discovered_by = egyptian
+discovered_by = germanic
+discovered_by = punic

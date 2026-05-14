@@ -1,5 +1,5 @@
 discovered_by = aboriginal_tech
 1773.1.17 = { discovered_by = GBR }
-base_tax = 3
-base_manpower = 6
-base_production = 6
+base_tax = 4
+base_manpower = 1
+base_production = 3

@@ -1,8 +1,8 @@
 #568 - Chittagong
 capital = "Chittagong"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 3
+base_production = 4
+base_manpower = 4
 is_city = yes
 extra_cost = 24
 center_of_trade = 3

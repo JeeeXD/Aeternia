@@ -1,6 +1,6 @@
 #4444 - Manidurg
 capital = "Manidurg"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 4
+base_production = 4
+base_manpower = 3
 is_city = yes

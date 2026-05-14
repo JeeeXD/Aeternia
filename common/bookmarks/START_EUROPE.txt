@@ -1,0 +1,25 @@
+bookmark =
+{
+	name = "Europe"
+	desc = "europe_start_desc"
+	date = 1444.11.11
+	
+	center = 112
+	default = yes
+	
+	country = POM
+	country = POL
+	country = ENG	
+	country = FRA
+	country = CAS
+	country = HUN
+	country = CEE	
+	country = TOU
+	country = KAZ
+	country = LOT
+	country = POR
+	
+	easy_country = POM
+	easy_country = POL
+	easy_country = ENG
+}

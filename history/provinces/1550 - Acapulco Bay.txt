@@ -2,4 +2,4 @@ discovered_by = mesoamerican
 1522.1.1 = { discovered_by = SPA }
 base_tax = 5
 base_manpower = 5
-base_production = 6
+base_production = 3

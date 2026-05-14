@@ -1,6 +1,6 @@
 #685 - Huai'an (can't change file name)
 capital = "Yangzhou"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 3
+base_production = 5
+base_manpower = 3
 is_city = yes

@@ -5,6 +5,6 @@ primary_culture = lithuanian
 add_accepted_culture = byelorussian
 add_accepted_culture = ruthenian
 religion = orthodox
-technology_group = eastern
+technology_group = slavic
 historical_friend = POL
 capital = 272 #Vilnius

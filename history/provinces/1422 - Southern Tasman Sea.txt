@@ -1,4 +1,4 @@
 discovered_by = aboriginal_tech
-base_tax = 2
-base_manpower = 3
-base_production = 3
+base_tax = 6
+base_manpower = 6
+base_production = 4

@@ -68,3 +68,9 @@ dependency = {
 	start_date = 1444.1.1
 	end_date = 1503.11.30
 }
+alliance = {
+	first = ENG
+	second = EBR
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}

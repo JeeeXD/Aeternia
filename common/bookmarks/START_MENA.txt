@@ -1,0 +1,24 @@
+bookmark =
+{
+	name = "Middle East"
+	desc = "mena_start_desc"
+	date = 1444.11.11
+	
+	center = 112
+	default = yes
+	
+	country = ARB
+	country = GEO
+	country = MOR	
+	country = PAP
+	country = GRB
+	country = ALX
+	country = UGY	
+	country = LGY
+	country = ORM
+	country = ERE
+	
+	easy_country = GEO
+	easy_country = POL
+	easy_country = ARB
+}

@@ -1,8 +1,8 @@
 #4457 - Cambay/Khambhat
 capital = "Khambhat"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 4
+base_production = 3
+base_manpower = 6
 is_city = yes
 add_jains_or_burghers_effect = yes
 extra_cost = 24

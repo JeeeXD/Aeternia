@@ -2,20 +2,23 @@
 latent_trade_goods = { 
 	coal 
 }
-owner = CRI
-controller = CRI
+owner = KIE
+controller = KIE
 culture = ryazanian
 religion = sunni
-base_tax = 4
-base_production = 5
+base_tax = 3
+base_production = 4
 trade_goods = iron
-base_manpower = 5
+base_manpower = 2
 capital = "Belgorod"
 is_city = yes
 #add_core = CHR
-add_core = CRI
-discovered_by = western
-discovered_by = eastern
-discovered_by = muslim
-discovered_by = ottoman
+discovered_by = latin
+discovered_by = slavic
+discovered_by = arabic
+discovered_by = persian
+add_core = KIE
+discovered_by = punic
+discovered_by = germanic
+discovered_by = egyptian
 discovered_by = nomad_group

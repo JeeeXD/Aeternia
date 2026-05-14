@@ -1,14 +1,16 @@
-base_tax = 5
-base_manpower = 4
-base_production = 6
+base_tax = 2
+base_manpower = 1
+base_production = 1
 add_core = KBO
 owner = KBO
-religion = shamanism
+religion = catholic
 controller = KBO
 is_city = yes
 trade_goods = slaves
 culture = kanuri
-discovered_by = sub_saharan
 latent_trade_goods = { 
 	coal 
 }
+discovered_by = egyptian
+discovered_by = punic
+discovered_by = sub_saharan

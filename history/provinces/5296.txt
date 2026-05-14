@@ -1,11 +1,12 @@
-base_tax = 6
-base_manpower = 3
+base_tax = 2
+base_manpower = 2
 base_production = 4
 add_core = KTS
 owner = KTS
-religion = shamanism
+religion = catholic
 controller = KTS
 is_city = yes
 trade_goods = grain
 culture = hausa
+discovered_by = punic
 discovered_by = sub_saharan

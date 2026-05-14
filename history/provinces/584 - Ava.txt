@@ -1,8 +1,8 @@
 #584 - Ava
 capital = "Ava"
-base_tax = 1
-base_production = 3
-base_manpower = 1
+base_tax = 4
+base_production = 4
+base_manpower = 3
 is_city = yes
 extra_cost = 16
 center_of_trade = 2

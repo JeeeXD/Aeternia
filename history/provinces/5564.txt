@@ -1,6 +1,6 @@
-base_tax = 5
-base_manpower = 6
-base_production = 5
+base_tax = 2
+base_manpower = 2
+base_production = 1
 religion = shamanism
 trade_goods = unknown
 culture = zambezi_culture

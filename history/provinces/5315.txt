@@ -1,11 +1,13 @@
-base_tax = 4
-base_manpower = 5
-base_production = 4
+base_tax = 3
+base_manpower = 1
+base_production = 3
 add_core = KBO
 owner = KBO
-religion = shamanism
+religion = catholic
 controller = KBO
 is_city = yes
 trade_goods = copper
 culture = kanuri
+discovered_by = egyptian
+discovered_by = punic
 discovered_by = sub_saharan

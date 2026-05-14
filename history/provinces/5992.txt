@@ -1,8 +1,8 @@
 #5992 - Seymchan
 capital = "Seymchan"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 5
+base_production = 5
+base_manpower = 3
 native_size = 3
 native_ferocity = 2
 native_hostileness = 3

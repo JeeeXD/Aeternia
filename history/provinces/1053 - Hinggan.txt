@@ -1,6 +1,6 @@
 #1053 - Hinggan
 capital = "Hinggan"
-base_tax = 1
+base_tax = 4
 base_production = 1
-base_manpower = 1
+base_manpower = 4
 is_city = yes

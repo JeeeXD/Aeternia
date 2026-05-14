@@ -1,7 +1,7 @@
 #2093 - Mandsaur
 capital = "Mandsaur"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 4
+base_production = 5
+base_manpower = 2
 is_city = yes
 add_rajputs_or_marathas_or_nobles_effect = yes

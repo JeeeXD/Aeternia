@@ -1,6 +1,6 @@
 base_tax = 1
-base_manpower = 5
-base_production = 5
+base_manpower = 1
+base_production = 1
 add_core = SKA
 owner = SKA
 religion = shamanism
@@ -9,3 +9,4 @@ is_city = yes
 trade_goods = tropical_wood
 culture = madagasque
 discovered_by = east_african
+discovered_by = central_african

@@ -1,8 +1,8 @@
 #558 - Patna
 capital = "Patna"
-base_tax = 1
+base_tax = 3
 base_production = 1
-base_manpower = 1
+base_manpower = 5
 is_city = yes
 add_brahmins_or_church_effect = yes
 add_province_triggered_modifier = buddhist_bodh_gaya

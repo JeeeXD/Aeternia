@@ -1,16 +1,12 @@
 # No previous file for Tehuantepec
-culture = zapotek
-owner = ZAP
-controller = ZAP
-add_core = ZAP
 is_city = yes
-religion = nahuatl
 capital = "Tehuantepec"
 trade_goods = fish
-base_tax = 4
-base_production = 1
-base_manpower = 4
+base_tax = 3
+base_production = 4
+base_manpower = 3
 native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 discovered_by = mesoamerican
+religion = mesoamerican_religion

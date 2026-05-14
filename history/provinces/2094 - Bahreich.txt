@@ -1,7 +1,7 @@
 #2094 - Bahreich
 capital = "Bahreich"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 5
+base_production = 5
+base_manpower = 6
 is_city = yes
 add_rajputs_or_marathas_or_nobles_effect = yes

@@ -1,4 +1,4 @@
-#4238 - Liegnitz (Liegnitz+Schweidnitz+Jauer+Glatz+Neisse+Münsterberg)
+#4238 - Liegnitz (Liegnitz+Schweidnitz+Jauer+Glatz+Neisse+MÃ¼nsterberg)
 #Coal
 owner = GLG
 controller = GLG
@@ -6,17 +6,16 @@ culture = schlesian
 religion = orthodox
 capital = "Liegnitz"
 trade_goods = glass
-base_tax = 3
+base_tax = 2
 base_production = 2
 is_city = yes
-base_manpower = 4
+base_manpower = 3
 add_core = GLG
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
-discovered_by = western
-discovered_by = eastern
-discovered_by = muslim
-discovered_by = ottoman
+discovered_by = latin
+discovered_by = slavic
+discovered_by = arabic
+discovered_by = persian
+discovered_by = punic
+discovered_by = germanic
+discovered_by = egyptian
+discovered_by = nomad_group

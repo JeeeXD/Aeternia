@@ -1,16 +1,12 @@
 # No previous file for Mdewakanton
-owner = SIO
-controller = SIO
-add_core = SIO
 is_city = yes
-culture = dakota
-religion = totemism
 capital = "Mdewakanton"
 trade_goods = fur
-base_tax = 6
-base_production = 6
-base_manpower = 4
+base_tax = 2
+base_production = 1
+base_manpower = 3
 native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 discovered_by = north_american
+religion = animism

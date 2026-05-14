@@ -1,5 +1,5 @@
 discovered_by = aboriginal_tech
 1526.1.1 = { discovered_by = POR }
-base_tax = 5
-base_manpower = 6
-base_production = 4
+base_tax = 2
+base_manpower = 4
+base_production = 3

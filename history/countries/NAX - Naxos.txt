@@ -4,7 +4,7 @@ government_rank = 1
 primary_culture = venetian
 add_accepted_culture = greek
 religion = hellenic_pagan
-technology_group = western
+technology_group = latin
 capital = 164# Naxos
 fixed_capital = 164# Cannot move capital away from this province & no power cost to move to it
 # Dukes of Naxos

@@ -1,16 +1,12 @@
 # No previous file for Chickamauga
-owner = SAT
-controller = SAT
-add_core = SAT
-culture = creek
-religion = totemism
 capital = "Atali"
 trade_goods = fur
-base_tax = 4
-base_production = 3
-base_manpower = 3
+base_tax = 3
+base_production = 4
+base_manpower = 2
 native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 discovered_by = north_american
 is_city = no
+religion = animism

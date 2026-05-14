@@ -1,0 +1,5 @@
+religion = sunni
+capital = 1855
+technology_group = arabic
+primary_culture = al_suryah_arabic
+government_rank = 1

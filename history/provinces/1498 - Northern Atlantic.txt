@@ -1,4 +1,4 @@
-1453.1.1 = { discovered_by = western }
-base_tax = 5
+1453.1.1 = { discovered_by = latin }
+base_tax = 4
 base_manpower = 4
-base_production = 1
+base_production = 4

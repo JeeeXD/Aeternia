@@ -1,5 +1,5 @@
 base_tax = 4
-base_manpower = 1
+base_manpower = 5
 base_production = 4
 culture = yura
 trade_goods = unknown

@@ -2,7 +2,23 @@
 
 alliance = {
 	first = HSA
-	second = RIG
+	second = LAU
+	trade_league = 1
+	start_date = 1380.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = HSA
+	second = MKL
+	trade_league = 1
+	start_date = 1380.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = HSA
+	second = DNZ
 	trade_league = 1
 	start_date = 1380.1.1
 	end_date = 1581.1.1
@@ -26,7 +42,7 @@ alliance = {
 
 alliance = {
 	first = HSA
-	second = LUN
+	second = EFR
 	trade_league = 1
 	start_date = 1380.1.1
 	end_date = 1692.1.1
@@ -58,8 +74,15 @@ alliance = {
 
 alliance = {
 	first = HSA
-	second = DIT
+	second = DTT
 	trade_league = 1
+	start_date = 1380.1.1
+	end_date = 1719.9.30
+}
+
+alliance = {
+	first = HSA
+	second = POM
 	start_date = 1380.1.1
 	end_date = 1719.9.30
 }

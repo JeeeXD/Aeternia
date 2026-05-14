@@ -1,9 +1,9 @@
 government = monarchy
 add_government_reform = iqta
 primary_culture = andalucian
-religion = catholic
+religion = propyrian
 add_accepted_culture = berber
-technology_group = muslim
+technology_group = latin
 capital = 223# Granada
 government_rank = 1
 religious_school = maliki_school

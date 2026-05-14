@@ -1,13 +1,9 @@
 #844 - Zapotec
-owner = ZAP
-controller = ZAP
-culture = zapotek
-religion = nahuatl
 capital = "Zaachila"
 trade_goods = sugar
-base_tax = 3
-base_production = 1
-base_manpower = 3
+base_tax = 2
+base_production = 4
+base_manpower = 1
 is_city = yes
-add_core = ZAP
 discovered_by = mesoamerican
+religion = nahuatl

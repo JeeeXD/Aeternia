@@ -4,5 +4,6 @@ discovered_by = JOL
 1529.6.1 = { discovered_by = FRA }
 1600.1.1 = { discovered_by = MOR }
 base_tax = 4
-base_manpower = 2
+base_manpower = 1
 base_production = 4
+discovered_by = punic

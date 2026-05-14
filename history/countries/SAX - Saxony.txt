@@ -3,10 +3,8 @@ add_government_reform = feudalism_reform
 government_rank = 1
 primary_culture = saxon
 religion = orthodox
-elector = yes
-technology_group = western
-capital = 62# Leipzig
-#Elector
+technology_group = germanic
+capital = 62#Elector
 1388.1.1 = { 
 	monarch = { 
 		name = "Rudolf III"

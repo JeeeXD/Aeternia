@@ -1,0 +1,8 @@
+estate_burghers = {
+	agendas = {
+	}
+	privileges = {
+		estate_burghers_saharan_outposts
+		estate_burghers_office_of_chancellor
+	}
+}

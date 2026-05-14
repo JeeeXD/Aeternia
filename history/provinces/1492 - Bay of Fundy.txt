@@ -1,5 +1,5 @@
 discovered_by = north_american
 1497.6.24 = { discovered_by = ENG }
-base_tax = 5
-base_manpower = 1
-base_production = 5
+base_tax = 3
+base_manpower = 3
+base_production = 6

@@ -1,9 +1,8 @@
 government = monarchy
 add_government_reform = free_city
 government_rank = 1
-technology_group = western
+technology_group = latin
 primary_culture = umbrian
-religion = catholic
+religion = propyrian
 capital = 4731
-fixed_capital = 4731  # Cannot move capital away from this province & no power cost to move to it
-
+fixed_capital = 4731# Cannot move capital away from this province & no power cost to move to it

@@ -1,5 +1,6 @@
-discovered_by = western
-discovered_by = eastern
-base_tax = 2
+base_tax = 4
 base_manpower = 5
-base_production = 3
+base_production = 4
+discovered_by = latin
+discovered_by = germanic
+discovered_by = slavic

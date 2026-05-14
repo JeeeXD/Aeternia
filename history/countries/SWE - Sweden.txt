@@ -1,9 +1,9 @@
 government = monarchy
 add_government_reform = feudalism_reform
-technology_group = western
-unit_type = western
+technology_group = germanic
+unit_type = latin
 primary_culture = swedish
-religion = orthodox
+religion = norse_pagan_reformed
 add_accepted_culture = finnish
 capital = 1#Stockholm
 national_focus = MIL

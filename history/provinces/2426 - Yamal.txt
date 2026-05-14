@@ -1,6 +1,6 @@
 #2426 - Yamal
 discovered_by = NOV
 is_city = no
-base_tax = 1
+base_tax = 5
 base_manpower = 4
-base_production = 4
+base_production = 2

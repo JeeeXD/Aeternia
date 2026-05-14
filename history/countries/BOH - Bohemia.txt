@@ -2,10 +2,10 @@ government = monarchy
 add_government_reform = bohemian_elective_kingdom_reform
 primary_culture = czech
 religion = orthodox
-elector = yes
-capital = 266 #Praha
-technology_group = western
+capital = 266#Praha
+technology_group = germanic
 add_accepted_culture = sorbian
+government_rank = 1
 add_army_professionalism = 0.1
 change_estate_land_share = { 
 	estate = estate_burghers
@@ -24,18 +24,7 @@ change_estate_land_share = {
 # Personal Union with Hungary under Sigismund I 1419-1437
 1419.1.1 = { leader = { name = "Jan Zizka" type = general fire = 6 shock = 3 manuever = 5 siege = 0 death_date = 1424.10.11 } }
 1419.1.1 = { leader = { name = "Prokop Holý" type = general fire = 4 shock = 3 manuever = 5 siege = 1 death_date = 1434.5.30 } }
-# Personal Union with Habsburg under Albrecht II 1437-1439
-1439.10.27 = { 
-	monarch = { 
-		name = "Landfriedens"
-		regent = yes
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-# Personal Union with Habsburg under Ladislaus Postumus 1453-1457
-1457.11.24 = { 
+1437.11.24 = { 
 	monarch = { 
 		name = "Jirí"
 		dynasty = "z Podebrad"

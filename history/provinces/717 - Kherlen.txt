@@ -1,6 +1,6 @@
 #717 - Selenge
 capital = "Kherlen"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 2
+base_production = 4
+base_manpower = 5
 is_city = yes

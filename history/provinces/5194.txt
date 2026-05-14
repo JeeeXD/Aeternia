@@ -1,5 +1,5 @@
-base_tax = 4
-base_manpower = 4
+base_tax = 2
+base_manpower = 1
 base_production = 3
 add_core = BNY
 owner = BNY
@@ -9,3 +9,4 @@ is_city = yes
 trade_goods = livestock
 culture = ganda
 discovered_by = central_african
+discovered_by = east_african

@@ -1,0 +1,715 @@
+### TIER 1 ###
+
+pomeranian_duchy = {
+	icon = szlachta_noble_1
+	allow_normal_conversion = no
+	potential = {
+		tag = POM
+	}
+	trigger = {
+		tag = POM
+	}
+	valid_for_nation_designer = yes
+	nation_designer_cost = 10
+	fixed_rank = 1
+	modifiers = {
+		years_of_nationalism = -5
+		governing_capacity = 200
+	}
+}
+
+### TIER 2 ###
+
+magnate_law_reform = {
+	icon = magnates
+	allow_normal_conversion = yes
+	potential = {
+		technology_group = slavic
+	}
+	trigger = {
+		technology_group = slavic
+	}
+	modifiers = {
+		global_manpower_modifier = 0.10
+	}
+	custom_attributes = {
+		enables_magnate_law = yes #Unlocks privilege to reduce scaled unrest
+	}
+	ai = {
+		factor = 1
+	}
+}
+
+imperial_knights_reform = {
+	icon = reichsritter
+	allow_normal_conversion = yes
+	potential = {
+		is_part_of_hre = yes
+	}
+	trigger = {
+		NOT = { total_development = 150 }
+	}
+	modifiers = {
+		leader_land_shock = 1
+	}
+	custom_attributes = {
+		enables_imperial_knights = yes #Unlocks Imperial Knights Mercenary Company
+	}
+	ai = {
+		factor = 10
+	}
+}
+
+sayyid_privileges_reform = {
+	icon = hejaz_sayyid
+	allow_normal_conversion = yes
+	potential = {
+		OR = {
+			primary_culture = hejazi_culture
+			has_reform = sayyid_privileges_reform
+			AND = {
+				accepted_culture = hejazi_culture
+				num_of_owned_provinces_with = {
+					value = 1
+					culture = hejazi_culture
+				}
+			}
+		}
+	}
+	trigger = {
+		OR = {
+			primary_culture = hejazi_culture
+			has_reform = sayyid_privileges_reform
+			AND = {
+				accepted_culture = hejazi_culture
+				num_of_owned_provinces_with = {
+					value = 5
+					culture = hejazi_culture
+				}
+			}
+		}
+	}
+	modifiers = {
+		vassal_income = 0.33
+		tolerance_own = 1
+	}
+	ai = {
+		factor = 100
+	}
+}
+
+clans_of_ireland_reform = {
+	icon = clans_of_ireland
+	allow_normal_conversion = yes
+	potential = {
+		OR = {
+			tag = CEE
+			has_reform = clans_of_ireland_reform
+			primary_culture = irish
+		}
+	}
+	trigger = {
+		OR = {
+			tag = CEE
+			has_reform = clans_of_ireland_reform
+			primary_culture = irish
+		}
+	}
+	modifiers = {
+		global_unrest = -2
+	}
+	ai = {
+		factor = 100
+	}
+}
+
+charter_of_noble_liberties = {
+	icon = oprichnina
+	allow_normal_conversion = yes
+	potential = {
+	}
+	trigger = {
+	}
+	modifiers = {
+		nobles_loyalty_modifier = 0.1
+		global_autonomy = 0.025
+		stability_cost_modifier = -0.1
+	}
+	custom_attributes = {
+		
+	}
+	ai = {
+		factor = 1
+	}
+}
+
+hereditary_offices = {
+	icon = jizja_law
+	allow_normal_conversion = yes
+	potential = {
+	}
+	trigger = {
+	}
+	modifiers = {
+		nobles_influence_modifier = 0.15
+		advisor_cost = -0.05
+		max_absolutism = 5
+	}
+	custom_attributes = {
+		
+	}
+	ai = {
+		factor = 1
+	}
+}
+
+noble_tax_exemptions = {
+	icon = chieftain
+	allow_normal_conversion = yes
+	potential = {
+	}
+	trigger = {
+	}
+	modifiers = {
+		nobles_loyalty_modifier = 0.25
+		global_tax_modifier = -0.15
+		yearly_absolutism = 0.5
+	}
+	custom_attributes = {
+		
+	}
+	ai = {
+		factor = 1
+	}
+}
+
+private_jurisdiction = {
+	icon = military_dictatorship_reform
+	allow_normal_conversion = yes
+	potential = {
+	}
+	trigger = {
+	}
+	modifiers = {
+		global_unrest = -1
+		governing_capacity_modifier = 0.05
+		state_maintenance_modifier = -0.1
+	}
+	custom_attributes = {
+		
+	}
+	ai = {
+		factor = 1
+	}
+}
+
+wattasid_viziers_reform = {
+	icon = Wattasid_Dynasty
+	allow_normal_conversion = yes
+	valid_for_nation_designer = no
+	potential = {
+		OR = {
+			primary_culture = moroccan
+			has_reform = wattasid_viziers_reform
+		}
+	}
+	trigger = {
+		OR = {
+			primary_culture = moroccan
+			has_reform = wattasid_viziers_reform
+		}
+	}
+	modifiers = {
+		adm_advisor_cost = -0.15
+	}
+	custom_attributes = {
+		enables_berber_guides = yes #privilege to give get -15% land attrition and -10 cav cost
+	}
+	ai = {
+		factor = 101
+	}
+}
+
+### TIER 3 ##
+
+theocratic_bureacrats_reform = {
+	icon = bishop
+	allow_normal_conversion = yes
+	effect = {
+		
+		hidden_effect = {
+			country_event = { 
+				id = reform_me_events.33
+				days = 1
+			}
+		}
+	}
+	removed_effect = {
+		hidden_effect = {
+			remove_country_modifier = Holy_Tithe_1
+			remove_country_modifier = Holy_Tithe_2
+			remove_country_modifier = Holy_Tithe_3
+			remove_country_modifier = Holy_Tithe_4
+			remove_country_modifier = Holy_Tithe_5
+		}
+	}
+	potential = {
+		religion_group = christian
+	}
+	trigger = {
+		religion_group = christian
+	}
+	modifiers = {
+		tolerance_own = 1
+		church_influence_modifier = 0.05
+	}
+	custom_attributes = {
+		enables_holy_tithe = yes #5% Tax per TOTF over 4
+	}
+	ai = {
+		factor = 1
+	}
+}
+
+professional_civil_service = {
+	icon = council
+	allow_normal_conversion = yes
+	potential = {
+	}
+	trigger = {
+	}
+	modifiers = {
+		advisor_cost = -0.05
+		advisor_pool = 1
+		max_absolutism = -10
+	}
+	custom_attributes = {
+		
+	}
+	ai = {
+		factor = 1
+	}
+}
+
+inspection_and_audit = {
+	icon = nobleman
+	allow_normal_conversion = yes
+	potential = {
+	}
+	trigger = {
+	}
+	modifiers = {
+		yearly_corruption = -0.1
+		global_autonomy = -0.05
+	}
+	custom_attributes = {
+		
+	}
+	ai = {
+		factor = 1
+	}
+}
+
+rule_by_decree = {
+	icon = szlachta_noble_2
+	allow_normal_conversion = yes
+	potential = {
+	}
+	trigger = {
+	}
+	modifiers = {
+		yearly_absolutism = 1
+		global_unrest = 1
+	}
+	custom_attributes = {
+		
+	}
+	ai = {
+		factor = 1
+	}
+}
+
+### TIER 5 ###
+
+academy_of_warfare = {
+	icon = spain_bourbon
+	allow_normal_conversion = yes
+	modifiers = {
+		leader_land_fire = 1 
+		leader_land_shock = 1 
+	}
+	ai = {
+		factor = 0.5 #generic
+	}
+}
+
+nobility_knights = {
+	icon = soldiers_5
+	allow_normal_conversion = yes
+	trigger = {
+		num_of_estate_privileges = {
+			estate = estate_nobles 
+			value = 5
+		}
+	}
+	modifiers = {
+		cavalry_power = 0.05
+		nobles_loyalty_modifier = 0.1
+	}
+	ai = {
+		factor = 0.5 #generic
+	}
+}
+
+peasant_levies = {
+	icon = peasant_republic
+	allow_normal_conversion = yes
+	trigger = {
+		
+	}
+	modifiers = {
+		manpower_recovery_speed = 0.2
+		infantry_power = -0.1
+	}
+	ai = {
+		factor = 0.5 #generic
+	}
+}
+
+professional_army_reform = {
+	icon = gothic_monarchy_reform
+	allow_normal_conversion = yes
+	trigger = {
+		
+	}
+	modifiers = {
+		discipline = 0.025
+		mercenary_cost = 0.25
+	}
+	ai = {
+		factor = 0.5 #generic
+	}
+}
+
+tatar_mercenaries_reform = {
+	icon = Tatar_raid
+	allow_normal_conversion = yes
+	potential = {
+		any_neighbor_country = {
+			has_reform = steppe_horde
+			culture_group = tartar
+		}
+	}
+	trigger = {
+		any_neighbor_country = {
+			has_reform = steppe_horde
+			culture_group = tartar
+		}
+	}
+	modifiers = {
+		cavalry_power = 0.10
+		mercenary_discipline = 0.025
+	}
+	ai = {
+		factor = 10
+	}
+}
+
+abolish_manrent_reform = {
+	icon = manrent
+	allow_normal_conversion = yes
+	potential = {
+		primary_culture = scottish
+	}
+	trigger = {
+		primary_culture = scottish
+	}
+	modifiers = {
+		land_morale = 0.10
+		global_manpower_modifier = 0.05
+	}
+	ai = {
+		factor = 100
+	}
+}
+
+arabian_horses_reform = {
+	icon = mamluk_horse
+	allow_normal_conversion = yes
+	potential = {
+		culture_group = turko_semitic
+	}
+	trigger = {
+		culture_group = turko_semitic
+	}
+	modifiers = {
+		cavalry_flanking = 0.5
+		shock_damage = 0.05
+	}
+	custom_attributes = {
+		enables_arabian_horses = yes # 3% Cavalry Combat Ability per Arab vassal
+	}
+	ai = {
+		factor = 100
+	}
+}
+
+arch_marshal_reform = {
+	icon = king
+	allow_normal_conversion = yes
+	potential = {
+		primary_culture = saxon
+	}
+	trigger = {
+		primary_culture = saxon
+	}
+	modifiers = {
+		leader_land_shock = 1
+		prestige_from_land = 1
+	}
+	ai = {
+		factor = 50
+	}
+}
+
+peasant_militia_reform = {
+	icon = peasant_republic
+	allow_normal_conversion = yes
+	potential = {
+		has_reform = peasants_republic
+	}
+	modifiers = {
+		fire_damage_received = -0.10
+		peasants_loyalty_modifier = 0.05
+	}
+	custom_attributes = {
+		enables_bear_arms = yes #privilege, -20% infantry cost and +2 unrest, scaled
+	}
+	ai = {
+		factor = 100
+	}
+}
+
+
+### TIER 6 ###
+
+
+
+fleet_of_restoration = {
+	icon = merchant_ship
+	allow_normal_conversion = yes
+	potential = {
+		tag = FRA
+	}
+	trigger = {
+		
+	}
+	modifiers = {
+		global_ship_cost = -0.1
+		max_admiral_maneuver = 1
+	}
+	custom_attributes = {
+		
+	}
+	ai = {
+		factor = 100
+	}
+}
+
+commoner_officials = {
+	icon = peasants
+	allow_normal_conversion = yes
+	potential = {
+		
+	}
+	trigger = {
+		
+	}
+	modifiers = {
+		ship_power_propagation = 0.25
+		dip_advisor_cost = -0.25
+		burghers_influence_modifier = 0.05
+		nobles_influence_modifier = -0.10
+	}
+	ai = {
+		factor = 100
+	}
+}
+
+### TIER 7 ###
+
+diplomatic_positions_reform = {
+	icon = noble_diplomat
+	allow_normal_conversion = yes
+
+	potential = {
+		
+	}
+	modifiers = {
+		diplomatic_reputation = 1
+	}
+	custom_attributes = {
+		enables_noble_diplomats = yes #privileges for 25 opinion//10% improve relation
+	}
+	ai = {
+		factor = 1
+	}
+}
+
+grand_secretariat = {
+	icon = french_court
+	allow_normal_conversion = yes
+	potential = {
+		
+	}
+	trigger = {
+		
+	}
+	modifiers = {
+		monarch_diplomatic_power = 1
+		yearly_corruption = 0.15
+		advisor_pool = 1
+	}
+	ai = {
+		factor = 1
+	}
+}
+
+conquest_by_marriage = {
+	icon = castille_isabelle
+	allow_normal_conversion = yes
+	potential = {
+		
+	}
+	trigger = {
+		
+	}
+	modifiers = {
+		chance_to_inherit = 0.5
+		heir_chance = 1
+		diplomatic_upkeep = 2
+	}
+	ai = {
+		factor = 1
+	}
+}
+
+merchant_diplomats = {
+	icon = merchant
+	allow_normal_conversion = yes
+	potential = {
+		
+	}
+	trigger = {
+		
+	}
+	modifiers = {
+		improve_relation_modifier = 0.15
+		placed_merchant_power = 15
+		burghers_influence_modifier = 0.05
+	}
+	ai = {
+		factor = 1
+	}
+}
+
+### TIER 9 ###
+
+noble_taxes_reform = {
+	icon = economy_tax
+	allow_normal_conversion = yes
+	potential = {
+	}
+	modifiers = {
+		global_tax_modifier = 0.1
+		build_cost = -0.1
+	}
+	ai = {
+		factor = 1
+	}
+}
+
+customs_duties_reform = {
+	icon = arabic_scripture
+	allow_normal_conversion = yes
+	potential = {
+		OR = {
+			primary_culture = mahri_culture
+			primary_culture = omani_culture
+			primary_culture = gulf_arabic
+			has_reform = customs_duties_reform
+		}
+	}
+	trigger = {
+		OR = {
+			primary_culture = mahri_culture
+			primary_culture = omani_culture
+			primary_culture = gulf_arabic
+			has_reform = customs_duties_reform
+		}
+	}
+	modifiers = {
+		diplomatic_reputation = 1
+		trade_efficiency = 0.10
+	}
+	ai = {
+		factor = 101
+	}
+}
+
+##### UNDECIDED #######
+
+expand_the_trans_saharan_trade_reform = {
+	icon = saharan_trade
+	allow_normal_conversion = yes
+	potential = {
+		OR = {
+			culture_group = punic
+			has_reform = expand_the_trans_saharan_trade_reform
+		}
+	}
+	trigger = {
+		OR = {
+			culture_group = punic
+			has_reform = expand_the_trans_saharan_trade_reform
+		}
+	}
+	modifiers = {
+		placed_merchant_power = 10
+		#trade_efficiency = 0.10
+		#merchants = 1 #temp
+	}
+	custom_attributes = {
+		enables_saharan_outposts = yes #privilege that gives +1 merchant and +50% scaling trade steering
+	}
+	can_use_trade_post = yes
+	ai = {
+		factor = 10
+	}
+}
+
+office_of_kanzler_reform = {
+	icon = swabia_eberhard
+	allow_normal_conversion = yes
+	potential = {
+		OR = {
+			primary_culture = swabian
+			has_reform = office_of_kanzler_reform
+		}
+	}
+	trigger = {
+		OR = {
+			primary_culture = swabian
+			has_reform = office_of_kanzler_reform
+		}
+	}
+	modifiers = {
+		state_maintenance_modifier = -0.15
+	}
+	custom_attributes = {
+		enables_office_of_chancellor = yes #privilege to give +1 monthly admin power while the burghers have over 60% loyalty
+	}
+	ai = {
+		factor = 100
+	}
+}

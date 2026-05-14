@@ -1,12 +1,11 @@
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
-technology_group = eastern
-primary_culture = greek
+technology_group = slavic
+primary_culture = spartan
 religion = sunni
 capital = 145# Nafplio
-fixed_capital = 145# Cannot move capital away from this province & no power cost to move to it
-# Despots of Morea #
+fixed_capital = 145# Despots of Morea #
 1383.1.1 = { 
 	monarch = { 
 		name = "Theodoros I"

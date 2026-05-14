@@ -1,14 +1,9 @@
 # - Quillacas
-culture = aimara
-religion = inti
 capital = "Quillacas"
-discovered_by = south_american
 discovered_by = andean
 trade_goods = gold
 is_city = yes
-base_tax = 5
-base_production = 4
+base_tax = 2
+base_production = 1
 base_manpower = 1
-owner = PCJ
-controller = PCJ
-add_core = PCJ
+religion = animism

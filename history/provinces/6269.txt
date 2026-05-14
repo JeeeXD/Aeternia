@@ -1,4 +1,12 @@
 is_city = no
-base_tax = 5
+base_tax = 1
 base_manpower = 5
 base_production = 5
+discovered_by = arabic
+discovered_by = celtic
+discovered_by = egyptian
+discovered_by = germanic
+discovered_by = latin
+discovered_by = persian
+discovered_by = punic
+discovered_by = slavic

@@ -668,7 +668,7 @@ colonial_california = {
 				tag = ENG
 			}
 			OR = {
-				culture_group = british
+				culture_group = gaelic
 				primary_culture = anglois
 			}
 		}
@@ -681,7 +681,7 @@ colonial_california = {
 				tag = ENG
 			}
 			OR = {
-				culture_group = british
+				culture_group = gaelic
 				primary_culture = anglois
 			}
 		}
@@ -1094,7 +1094,7 @@ colonial_la_plata = {
 	names = {
 		trigger = {
 			OR = {
-				culture_group = british
+				culture_group = gaelic
 				primary_culture = anglois
 			}
 		}

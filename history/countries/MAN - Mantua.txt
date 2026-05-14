@@ -2,13 +2,11 @@ government = monarchy
 add_government_reform = free_city
 government_rank = 1
 primary_culture = romagnan
-religion = catholic
-technology_group = western
-capital = 109	# Mantova
-
-
-1382.1.1 = {
-	monarch = {
+religion = propyrian
+technology_group = latin
+capital = 109# Mantova
+1382.1.1 = { 
+	monarch = { 
 		name = "Francesco I"
 		dynasty = "Gonzaga"
 		birth_date = 1366.1.1
@@ -17,9 +15,8 @@ capital = 109	# Mantova
 		mil = 1
 	}
 }
-
-1395.1.1 = {
-	heir = {
+1395.1.1 = { 
+	heir = { 
 		name = "Gianfrancesco"
 		monarch_name = "Gianfrancesco I"
 		dynasty = "Gonzaga"
@@ -31,9 +28,8 @@ capital = 109	# Mantova
 		mil = 2
 	}
 }
-
-1407.1.1 = {
-	monarch = {
+1407.1.1 = { 
+	monarch = { 
 		name = "Gianfrancesco I"
 		dynasty = "Gonzaga"
 		birth_date = 1395.1.1
@@ -42,9 +38,8 @@ capital = 109	# Mantova
 		mil = 2
 	}
 }
-
-1412.6.5 = {
-	heir = {
+1412.6.5 = { 
+	heir = { 
 		name = "Ludovico"
 		monarch_name = "Ludovico III il Turco"
 		dynasty = "Gonzaga"
@@ -56,9 +51,8 @@ capital = 109	# Mantova
 		mil = 3
 	}
 }
-
-1444.9.23 = {
-	monarch = {
+1444.9.23 = { 
+	monarch = { 
 		name = "Lodovico III il Turco"
 		dynasty = "Gonzaga"
 		birth_date = 1412.6.5
@@ -67,9 +61,8 @@ capital = 109	# Mantova
 		mil = 3
 	}
 }
-
-1444.9.23 = {
-	heir = {
+1444.9.23 = { 
+	heir = { 
 		name = "Federico"
 		monarch_name = "Federico I"
 		dynasty = "Gonzaga"
@@ -81,9 +74,8 @@ capital = 109	# Mantova
 		mil = 1
 	}
 }
-
-1478.6.13 = {
-	monarch = {
+1478.6.13 = { 
+	monarch = { 
 		name = "Federico I"
 		dynasty = "Gonzaga"
 		birth_date = 1441.6.25
@@ -92,9 +84,8 @@ capital = 109	# Mantova
 		mil = 1
 	}
 }
-
-1478.6.13 = {
-	heir = {
+1478.6.13 = { 
+	heir = { 
 		name = "Francesco"
 		monarch_name = "Francesco II"
 		dynasty = "Gonzaga"
@@ -106,9 +97,8 @@ capital = 109	# Mantova
 		mil = 1
 	}
 }
-
-1484.7.15 = {
-	monarch = {
+1484.7.15 = { 
+	monarch = { 
 		name = "Francesco II"
 		dynasty = "Gonzaga"
 		birth_date = 1466.8.10
@@ -117,9 +107,8 @@ capital = 109	# Mantova
 		mil = 1
 	}
 }
-
-1500.5.17 = {
-	heir = {
+1500.5.17 = { 
+	heir = { 
 		name = "Federico"
 		monarch_name = "Federico II"
 		dynasty = "Gonzago"
@@ -131,12 +120,12 @@ capital = 109	# Mantova
 		mil = 3
 	}
 }
-
-1519.5.30 = { government = monarchy
-add_government_reform = autocracy_reform }
-
-1519.5.30 = {
-	monarch = {
+1519.5.30 = { 
+	government = monarchy
+	add_government_reform = autocracy_reform
+}
+1519.5.30 = { 
+	monarch = { 
 		name = "Federico II"
 		dynasty = "Gonzaga"
 		birth_date = 1500.5.17
@@ -145,9 +134,8 @@ add_government_reform = autocracy_reform }
 		mil = 3
 	}
 }
-
-1533.3.10 = {
-	heir = {
+1533.3.10 = { 
+	heir = { 
 		name = "Francesco"
 		monarch_name = "Francesco III"
 		dynasty = "Gonzaga"
@@ -159,9 +147,8 @@ add_government_reform = autocracy_reform }
 		mil = 1
 	}
 }
-
-1540.6.29 = {
-	monarch = {
+1540.6.29 = { 
+	monarch = { 
 		name = "Francesco III"
 		dynasty = "Gonzaga"
 		birth_date = 1533.3.10
@@ -170,9 +157,8 @@ add_government_reform = autocracy_reform }
 		mil = 1
 	}
 }
-
-1540.6.29 = {
-	heir = {
+1540.6.29 = { 
+	heir = { 
 		name = "Guglielmo"
 		monarch_name = "Guglielmo"
 		dynasty = "Gonzaga"
@@ -184,9 +170,8 @@ add_government_reform = autocracy_reform }
 		mil = 1
 	}
 }
-
-1550.2.21 = {
-	monarch = {
+1550.2.21 = { 
+	monarch = { 
 		name = "Guglielmo"
 		dynasty = "Gonzaga"
 		birth_date = 1538.4.24
@@ -195,9 +180,8 @@ add_government_reform = autocracy_reform }
 		mil = 1
 	}
 }
-
-1562.9.21 = {
-	heir = {
+1562.9.21 = { 
+	heir = { 
 		name = "Vincenzo"
 		monarch_name = "Vincenzo I"
 		dynasty = "Gonzaga"
@@ -209,9 +193,8 @@ add_government_reform = autocracy_reform }
 		mil = 1
 	}
 }
-
-1587.8.15 = {
-	monarch = {
+1587.8.15 = { 
+	monarch = { 
 		name = "Vincenzo I"
 		dynasty = "Gonzaga"
 		birth_date = 1562.9.21
@@ -220,9 +203,8 @@ add_government_reform = autocracy_reform }
 		mil = 1
 	}
 }
-
-1587.8.15 = {
-	heir = {
+1587.8.15 = { 
+	heir = { 
 		name = "Francesco"
 		monarch_name = "Francesco IV"
 		dynasty = "Gonzaga"
@@ -234,9 +216,8 @@ add_government_reform = autocracy_reform }
 		mil = 2
 	}
 }
-
-1612.2.17 = {
-	monarch = {
+1612.2.17 = { 
+	monarch = { 
 		name = "Francesco IV"
 		dynasty = "Gonzaga"
 		birth_date = 1586.5.7
@@ -245,9 +226,8 @@ add_government_reform = autocracy_reform }
 		mil = 2
 	}
 }
-
-1612.2.17 = {
-	heir = {
+1612.2.17 = { 
+	heir = { 
 		name = "Ferdinando"
 		monarch_name = "Ferdinando"
 		dynasty = "Gonzaga"
@@ -259,9 +239,8 @@ add_government_reform = autocracy_reform }
 		mil = 1
 	}
 }
-
-1612.12.23 = {
-	monarch = {
+1612.12.23 = { 
+	monarch = { 
 		name = "Ferdinando"
 		dynasty = "Gonzaga"
 		birth_date = 1587.4.26
@@ -270,9 +249,8 @@ add_government_reform = autocracy_reform }
 		mil = 1
 	}
 }
-
-1612.12.23 = {
-	heir = {
+1612.12.23 = { 
+	heir = { 
 		name = "Vincenzo"
 		monarch_name = "Vincenzo II"
 		dynasty = "Gonzaga"
@@ -284,9 +262,8 @@ add_government_reform = autocracy_reform }
 		mil = 2
 	}
 }
-
-1626.10.30 = {
-	monarch = {
+1626.10.30 = { 
+	monarch = { 
 		name = "Vincenzo II"
 		dynasty = "Gonzaga"
 		birth_date = 1594.1.7
@@ -295,9 +272,8 @@ add_government_reform = autocracy_reform }
 		mil = 2
 	}
 }
-
-1626.10.30 = {
-	heir = {
+1626.10.30 = { 
+	heir = { 
 		name = "Carlo"
 		monarch_name = "Carlo I"
 		dynasty = "Gonzaga"
@@ -309,12 +285,12 @@ add_government_reform = autocracy_reform }
 		mil = 1
 	}
 }
-
-1627.12.26 = { government = monarchy
-add_government_reform = autocracy_reform }
-
-1627.12.26 = {
-	monarch = {
+1627.12.26 = { 
+	government = monarchy
+	add_government_reform = autocracy_reform
+}
+1627.12.26 = { 
+	monarch = { 
 		name = "Carlo I"
 		dynasty = "Gonzaga"
 		birth_date = 1580.5.6
@@ -323,9 +299,8 @@ add_government_reform = autocracy_reform }
 		mil = 1
 	}
 }
-
-1629.10.3 = {
-	heir = {
+1629.10.3 = { 
+	heir = { 
 		name = "Carlo"
 		monarch_name = "Carlo II"
 		dynasty = "Gonzaga"
@@ -337,10 +312,8 @@ add_government_reform = autocracy_reform }
 		mil = 1
 	}
 }
-		
-
-1637.9.22 = {
-	monarch = {
+1637.9.22 = { 
+	monarch = { 
 		name = "Carlo II"
 		dynasty = "Gonzaga"
 		birth_date = 1629.10.3
@@ -349,9 +322,8 @@ add_government_reform = autocracy_reform }
 		mil = 1
 	}
 }
-
-1652.8.31 = {
-	heir = {
+1652.8.31 = { 
+	heir = { 
 		name = "Ferdinando Carlo"
 		monarch_name = "Ferdinando Carlo"
 		dynasty = "Gonzaga"
@@ -363,10 +335,8 @@ add_government_reform = autocracy_reform }
 		mil = 0
 	}
 }
-
-
-1665.8.15 = {
-	monarch = {
+1665.8.15 = { 
+	monarch = { 
 		name = "Ferdinando Carlo"
 		dynasty = "Gonzaga"
 		birth_date = 1652.8.31

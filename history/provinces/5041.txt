@@ -1,12 +1,8 @@
 add_core = MOR
-discovered_by = western
-discovered_by = eastern
-discovered_by = ottoman
-discovered_by = muslim
 owner = MOR
-base_tax = 1
+base_tax = 2
 base_manpower = 4
-base_production = 3
+base_production = 2
 culture = moroccan
 trade_goods = salt
 religion = catholic
@@ -15,3 +11,11 @@ is_city = yes
 latent_trade_goods = { 
 	coal 
 }
+discovered_by = arabic
+discovered_by = egyptian
+discovered_by = punic
+discovered_by = sub_saharan
+discovered_by = slavic
+discovered_by = latin
+discovered_by = persian
+discovered_by = germanic

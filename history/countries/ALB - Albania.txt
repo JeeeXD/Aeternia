@@ -3,7 +3,7 @@ add_government_reform = league_of_lezhe_reform
 government_rank = 1
 primary_culture = albanian
 religion = ibadi
-technology_group = eastern
+technology_group = slavic
 capital = 4175# Lezhe
 # The League of Lezhe
 1443.3.4 = { 

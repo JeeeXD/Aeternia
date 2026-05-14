@@ -1,16 +1,20 @@
-#15 - Western Jutland, incl. Ribe and Ringkøbing
-owner = DAN
-controller = DAN
-add_core = DAN
+#15 - Western Jutland, incl. Ribe and RingkÃ¸bing
+owner = ANG
+controller = ANG
 culture = danish
 religion = orthodox
-base_tax = 3
-base_production = 3
+base_tax = 2
+base_production = 5
 trade_goods = livestock
-base_manpower = 2
+base_manpower = 6
 capital = "Ribe"
 is_city = yes
-discovered_by = western
-discovered_by = eastern
-discovered_by = muslim
-discovered_by = ottoman
+discovered_by = latin
+discovered_by = slavic
+discovered_by = arabic
+discovered_by = persian
+discovered_by = celtic
+discovered_by = egyptian
+discovered_by = germanic
+discovered_by = punic
+add_core = ANG

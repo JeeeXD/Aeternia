@@ -4,5 +4,5 @@ discovered_by = TID
 discovered_by = aboriginal_tech
 1526.1.1 = { discovered_by = POR }
 base_tax = 4
-base_manpower = 2
-base_production = 4
+base_manpower = 1
+base_production = 3

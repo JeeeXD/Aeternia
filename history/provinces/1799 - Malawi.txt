@@ -1,7 +1,6 @@
 #1799 - Urgoma
-discovered_by = east_african
 discovered_by = central_african
 is_city = no
-base_tax = 4
-base_manpower = 5
-base_production = 3
+base_tax = 1
+base_manpower = 3
+base_production = 2

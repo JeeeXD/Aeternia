@@ -1,6 +1,6 @@
-base_tax = 5
-base_manpower = 3
-base_production = 3
+base_tax = 1
+base_manpower = 2
+base_production = 1
 add_core = MAL
 owner = MAL
 religion = shamanism
@@ -8,4 +8,5 @@ controller = MAL
 is_city = yes
 trade_goods = ivory
 culture = mali
+discovered_by = punic
 discovered_by = sub_saharan

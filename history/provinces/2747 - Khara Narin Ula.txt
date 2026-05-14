@@ -1,6 +1,6 @@
 #2405 - Khara Narin Ula
 capital = "Khara Narin Ula"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 2
+base_production = 5
+base_manpower = 5
 is_city = yes

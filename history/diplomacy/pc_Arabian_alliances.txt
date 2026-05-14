@@ -1,0 +1,56 @@
+dependency = {
+    subject_type = tributary_state
+	first = ARB
+	second = DAW
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}
+dependency = {
+    subject_type = tributary_state
+	first = ARB
+	second = MFL
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}
+dependency = {
+    subject_type = tributary_state
+	first = ARB
+	second = RAS
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}
+dependency = {
+    subject_type = tributary_state
+	first = ARB
+	second = NJR
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}
+dependency = {
+    subject_type = tributary_state
+	first = ARB
+	second = YEM
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}
+dependency = {
+    subject_type = tributary_state
+	first = ARB
+	second = ADE
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}
+dependency = {
+    subject_type = tributary_state
+	first = ARB
+	second = HDR
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}
+dependency = {
+    subject_type = tributary_state
+	first = ARB
+	second = MHR
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}

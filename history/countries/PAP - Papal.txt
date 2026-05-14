@@ -1,11 +1,11 @@
 government = theocracy
 add_government_reform = papacy_reform
 government_rank = 2
-primary_culture = tunisian
+primary_culture = carthaginian
 religion = catholic
-technology_group = western
+technology_group = punic
 capital = 341# Roma
-fixed_capital = 118# Cannot move capital away from this province & no power cost to move to it
+fixed_capital = 341# Cannot move capital away from this province & no power cost to move to it
 add_army_professionalism = 0.05
 change_estate_land_share = { 
 	estate = estate_church
@@ -47,8 +47,6 @@ change_estate_land_share = {
 		mil = 3
 	}
 }
-1408.1.1 = { capital = 114 } # Romagna
-1414.8.6 = { capital = 118 } # Roma
 1417.10.18 = { 
 	monarch = { 
 		name = "Martinus V"

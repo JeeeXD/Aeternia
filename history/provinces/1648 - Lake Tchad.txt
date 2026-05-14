@@ -1,4 +1,6 @@
+base_tax = 2
+base_manpower = 2
+base_production = 1
 discovered_by = sub_saharan
-base_tax = 4
-base_manpower = 4
-base_production = 3
+discovered_by = punic
+discovered_by = egyptian

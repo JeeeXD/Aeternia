@@ -1,5 +1,5 @@
 #1783 - Eastern Siberia
 is_city = no
-base_tax = 2
-base_manpower = 6
-base_production = 1
+base_tax = 4
+base_manpower = 4
+base_production = 4

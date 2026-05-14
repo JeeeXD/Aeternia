@@ -1,5 +1,6 @@
 discovered_by = north_american
 is_city = no
-base_tax = 5
-base_manpower = 5
-base_production = 5
+base_tax = 3
+base_manpower = 3
+base_production = 4
+religion = animism

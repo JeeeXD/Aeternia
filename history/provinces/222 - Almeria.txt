@@ -1,17 +1,20 @@
-#222 - Almería
+#222 - AlmerÃ­a
 owner = GRA#Mustapha Sa'd King of Granada
 controller = GRA
 add_core = GRA
 culture = andalucian
-religion = catholic
+religion = propyrian
 base_tax = 4
 base_production = 1
 trade_goods = grain
 base_manpower = 3
-capital = "Almería"
+capital = "AlmerÃ­a"
 is_city = yes
-discovered_by = western
-discovered_by = eastern
-discovered_by = muslim
-discovered_by = ottoman
+discovered_by = latin
+discovered_by = slavic
+discovered_by = arabic
+discovered_by = persian
 hre = yes
+discovered_by = egyptian
+discovered_by = germanic
+discovered_by = punic

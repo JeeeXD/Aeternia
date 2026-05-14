@@ -1,14 +1,13 @@
 #996 - Innu
-culture = innu
-religion = totemism
 capital = "Innu"
 trade_goods = unknown
 base_tax = 4
-base_production = 1
-base_manpower = 5
+base_production = 3
+base_manpower = 3
 native_size = 5
 native_ferocity = 2
 native_hostileness = 8
 tribal_owner = INN
 discovered_by = north_american
 is_city = no
+religion = animism

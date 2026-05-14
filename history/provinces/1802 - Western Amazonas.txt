@@ -1,6 +1,6 @@
-discovered_by = south_american
 discovered_by = andean
 is_city = no
-base_tax = 4
-base_manpower = 4
-base_production = 3
+base_tax = 3
+base_manpower = 3
+base_production = 1
+religion = animism

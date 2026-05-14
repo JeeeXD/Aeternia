@@ -1,6 +1,7 @@
 # Bagoe - Wasteland province
-discovered_by = sub_saharan
 is_city = no
-base_tax = 2
+base_tax = 3
 base_manpower = 1
-base_production = 5
+base_production = 3
+discovered_by = sub_saharan
+discovered_by = punic

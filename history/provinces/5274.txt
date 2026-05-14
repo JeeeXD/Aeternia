@@ -1,11 +1,12 @@
-base_tax = 5
-base_manpower = 3
-base_production = 5
+base_tax = 3
+base_manpower = 1
+base_production = 3
 add_core = MAL
 owner = MAL
-religion = shamanism
+religion = catholic
 controller = MAL
 is_city = yes
 trade_goods = naval_supplies
 culture = soninke
+discovered_by = punic
 discovered_by = sub_saharan

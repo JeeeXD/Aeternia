@@ -3,4 +3,4 @@ discovered_by = mesoamerican
 1516.1.23 = { discovered_by = SPA }
 base_tax = 4
 base_manpower = 4
-base_production = 2
+base_production = 1

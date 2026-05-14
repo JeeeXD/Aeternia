@@ -1,4 +1,4 @@
 1526.1.1 = { discovered_by = POR }
 base_tax = 5
-base_manpower = 5
-base_production = 3
+base_manpower = 3
+base_production = 4

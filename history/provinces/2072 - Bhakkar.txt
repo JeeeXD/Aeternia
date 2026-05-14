@@ -1,6 +1,6 @@
 #2072 - Bhakkar
 capital = "Bhakkar"
-base_tax = 1
+base_tax = 5
 base_production = 1
-base_manpower = 1
+base_manpower = 5
 is_city = yes

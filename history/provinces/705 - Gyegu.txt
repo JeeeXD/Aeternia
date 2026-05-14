@@ -1,6 +1,6 @@
 #705 - Dangla
 capital = "Gyegu"
-base_tax = 1
-base_production = 1
-base_manpower = 1
+base_tax = 4
+base_production = 2
+base_manpower = 3
 is_city = yes
