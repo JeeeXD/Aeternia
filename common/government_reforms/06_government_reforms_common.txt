@@ -3312,7 +3312,7 @@ manrent_reform = {
 	allow_normal_conversion = yes
 	potential = {
 		has_dlc = "Domination"
-		primary_culture = scottish
+		primary_culture = briganter
 	}
 	trigger = {
 		if = {

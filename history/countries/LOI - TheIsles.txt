@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = highland_scottish
+primary_culture = pictish
 religion = celtic_pagan
 technology_group = celtic
 capital = 4364# inner hebrides

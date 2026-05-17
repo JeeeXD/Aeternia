@@ -1,4 +1,19 @@
-graphical_culture = westerngfx
+graphical_culture = muslimgfx
 color = { 
 	246 85 112 
+}
+monarch_names = { 
+	Muhammad Ahmad Ali Hassan Omar Ibrahim Abdullah Mustafa Salah Nasir
+}
+leader_names = { 
+	Ayyub Saladin Qutuz Baybars Khalil Ashraf Nasir Faraj Jaqmaq Qaitbay
+}
+ship_names = { 
+	"Aleppo" "Al-Shahba" "Halab" "Al-Mansuri" "Fatah" "Baraka" "Kamal" "Nizar" "Rashid" "Aziz"
+}
+fleet_names = { 
+	"Armada Al-Sha'am" "Flotta di Aleppo" "Naviglio Siriano" "Armada Aleppo" "Flotta dei Mamelucchi" "Naviglio del Levante" "Armada Islamica" "Flotta Araba" "Naviglio Siriano" "Armada dell'Oriente"
+}
+army_names = { 
+	"Legione di Aleppo" "Esercito dello Sha'am" "Difensori di Aleppo" "Milizia Urbana" "Soldati della Repubblica" "Guardia Comunale" "Esercito Pubblico" "Difesa Civile" "Protettori della Patria" "Legione Siriana"
 }

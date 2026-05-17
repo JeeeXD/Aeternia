@@ -20,8 +20,8 @@ country_decisions = {
 			NOT = { tag = PAP }
 			NOT = { tag = GBR }
 			OR = {
-				primary_culture = scottish
-				primary_culture = highland_scottish
+				primary_culture = briganter
+				primary_culture = pictish
 			}
 			is_colonial_nation = no
 			OR = {

@@ -2,13 +2,19 @@ graphical_culture = westerngfx
 color = { 
 	238 171 32 
 }
+
 monarch_names = { 
+	Giovanni Marco Federico Sforza Medici Visconti Gonzaga Farnese Este Colonna
 }
 leader_names = { 
+	Alessandro Riccardo Girolamo Niccolò Bartolomeo Giustiniano Paolo Cesare Matteo Vincenzo
 }
 ship_names = { 
+	"Santa Ancona" "Il Mercante" "La Vittoria" "San Giorgio" "Madonna Del Mare" "Benedetto" "Pesaro" "Fidelissimo" "Libertà" "Fortuna"
 }
 fleet_names = { 
+	"L'Armata Adriatica" "La Flotta Pescarese" "Il Naviglio Piceno" "L'Armada Marchigiana" "La Squadra Veneta" "Il Naviglio Adriatico" "L'Armata Cristiana" "La Flotta Papalina" "Il Naviglio Tirreno" "L'Armada Anconetana"
 }
 army_names = { 
+	"La Legione Anconetana" "L'Esercito Marchigiano" "I Difensori della Costa" "La Milizia Urbana" "I Soldati della Repubblica" "La Guardia Comunale" "L'Armata Pubblica" "La Difesa Civile" "I Protettori della Patria" "La Legione Picena"
 }

@@ -2,3 +2,18 @@ graphical_culture = westerngfx
 color = { 
 	109 77 128 
 }
+monarch_names = { 
+	Hereric Theodoric Vitigis Witiges Atalaric Matasuntha Ostrogotho Theudiric Alaric Reccared
+}
+leader_names = { 
+	Theodoric Sueridus Guntharis Witiges Vitigis Gundaric Totila Teias Alaric Reccared
+}
+ship_names = { 
+	"Ostrogothia" "Visigoth" "Theodoric" "Alaric" "Reccared" "Vitiges" "Atalaric" "Matasuntha" "Guntharis" "Theudiric"
+}
+fleet_names = { 
+	"Gotische Flotte" "Ostrogothische Marine" "Theodorische Armada" "Alaric-Flotte" "Gotische Kriegsflotte" "Visigothische Seemacht" "Gotischer Naviglio" "Theodorische Seearmee" "Ostrogothische Armada" "Gotische Seestreitkraefte"
+}
+army_names = { 
+	"Gotische Armee" "Ostrogothische Legion" "Theodorische Streitmacht" "Alaric-Heer" "Visigothische Heere" "Gotische Kampftruppen" "Theodorische Armee" "Ostrogothisches Heer" "Gotische Krieger" "Visigothische Streitmacht"
+}

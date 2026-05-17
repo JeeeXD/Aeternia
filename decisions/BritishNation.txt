@@ -24,7 +24,7 @@ country_decisions = {
 			NOT = { has_country_flag = eng_took_ave_branch }
 			OR = {
 				culture_group = gaelic
-				primary_culture = highland_scottish
+				primary_culture = pictish
 			}
 			OR = {
 				ai = no

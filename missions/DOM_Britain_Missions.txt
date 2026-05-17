@@ -733,7 +733,7 @@ gbr_row_slot_2 = {
 		provinces_to_highlight = {
 			OR = {
 				culture_group = ROOT
-				culture = highland_scottish
+				culture = pictish
 				culture = irish
 			}
 			NOT = { owned_by = ROOT }
@@ -748,9 +748,9 @@ gbr_row_slot_2 = {
 						culture = irish
 						value = 10
 					}
-					accepted_culture = highland_scottish
+					accepted_culture = pictish
 					num_of_owned_provinces_with = {
-						culture = highland_scottish
+						culture = pictish
 						value = 5
 					}
 				}
@@ -776,7 +776,7 @@ gbr_row_slot_2 = {
 						}
 					}
 				}
-				accepted_culture = highland_scottish"
+				accepted_culture = pictish"
 				first_effect = "
 				if = {
 					limit = {
@@ -1270,7 +1270,7 @@ ave_row_slot_2_continuation = {
 						culture = english
 					}
 					employed_advisor = {
-						culture = scottish
+						culture = briganter
 					}
 					employed_advisor = {
 						culture = welsh

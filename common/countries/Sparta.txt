@@ -2,3 +2,18 @@ graphical_culture = westerngfx
 color = { 
 	174 9 54 
 }
+monarch_names = { 
+	Philip Alexander Antigonus Demetrius Lysimachus Pyrrhus Perseus Phillip Cassander Perdiccas
+}
+leader_names = { 
+	Parmenion Antigonus Cleitus Ptolemy Seleucus Lysimachus Philotas Perdiccas Eumenes Craterus
+}
+ship_names = { 
+	"Magnesia" "Hellenic" "Anatolia" "Alexander" "Thales" "Athens" "Thessaly" "Meander" "Hermes" "Nike"
+}
+fleet_names = { 
+	"Armada Magnesia" "Flotta Ellenica" "Naviglio Magnesio" "Armada Filippica" "Flotta Alessandrina" "Naviglio Greco" "Armada Cristiana" "Flotta Antica" "Naviglio dell'Egeo" "Armada Asiatica"
+}
+army_names = { 
+	"Legione Magnesio" "Esercito Ellenico" "Difensori della Magnesia" "Milizia Antica" "Soldati Greci" "Guardia Reale" "Esercito dei Coscritti" "Difesa dell'Anatolia" "Protettori della Valle" "Legione Ellenica"
+}

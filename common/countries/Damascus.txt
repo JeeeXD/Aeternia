@@ -2,3 +2,18 @@ graphical_culture = westerngfx
 color = { 
 	7 85 42 
 }
+monarch_names = { 
+	Muhammad Ahmad Ali Hassan Omar Ibrahim Abdullah Mustafa Salah Nasir
+}
+leader_names = { 
+	Malik Asad Saladin Qutuz Baybars Khalil Nasser Faraj Jihad Rashid
+}
+ship_names = { 
+	"Damascus" "Orontes" "Syria" "Halab" "Aleppo" "Palmyra" "Raqqa" "Latakia" "Sahil" "Khalij"
+}
+fleet_names = { 
+	"Usul Al-Sham" "Jaysh Al-Bahr" "Usul Suriyya" "Qafilat Dimashq" "Jaysh Orontes" "Usul Al-Khalij" "Qafilat Al-Islam" "Jaysh Al-Sahil" "Usul Al-Jazeera" "Qafilat Palmyra"
+}
+army_names = { 
+	"Jaysh Al-Sham" "Jund Suriyya" "Askar Dimashq" "Haras Al-Shaykh" "Askar Al-Ummah" "Wahid Al-Quwa" "Qanat Al-Difa" "Rihab Al-Watan" "Jiyush Al-Islam" "Haras Al-Jazeera"
+}

@@ -18240,11 +18240,11 @@ edinburgh_castle = {
 	build_trigger = {
 		OR = {
 			AND = {
-				culture = scottish
+				culture = briganter
 				province_is_or_accepts_culture = yes
 			}
 			AND = {
-				culture = highland_scottish
+				culture = pictish
 				province_is_or_accepts_culture = yes
 			}
 			AND = {
@@ -18274,7 +18274,7 @@ edinburgh_castle = {
 	can_use_modifiers_trigger = {
 		OR = {
 			AND = {
-				culture = scottish
+				culture = briganter
 				province_is_or_accepts_culture = yes
 			}
 			AND = {
@@ -18282,7 +18282,7 @@ edinburgh_castle = {
 				province_is_or_accepts_culture = yes
 			}
 			AND = {
-				culture = highland_scottish
+				culture = pictish
 				province_is_or_accepts_culture = yes
 			}
 			AND = {
@@ -18302,11 +18302,11 @@ edinburgh_castle = {
 	can_upgrade_trigger = {
 		OR = {
 			AND = {
-				culture = scottish
+				culture = briganter
 				province_is_or_accepts_culture = yes
 			}
 			AND = {
-				culture = highland_scottish
+				culture = pictish
 				province_is_or_accepts_culture = yes
 			}
 			AND = {

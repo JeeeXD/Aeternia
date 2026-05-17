@@ -2,3 +2,18 @@ graphical_culture = westerngfx
 color = { 
 	163 114 137 
 }
+monarch_names = { 
+	Giovanni Marco Federico Sforza Medici Visconti Gonzaga Farnese Este Colonna
+}
+leader_names = { 
+	Alessandro Riccardo Girolamo Niccolò Bartolomeo Giustiniano Paolo Cesare Matteo Vincenzo
+}
+ship_names = { 
+	"Santa Apulia" "Il Pugliese" "La Vittoria" "San Giorgio" "Madonna Del Mare" "Benedetto" "Taranto" "Fidelissimo" "Libertà" "Fortuna"
+}
+fleet_names = { 
+	"Armata Pugliese" "Flotta Adriatica" "Naviglio Ionico" "Armata dei Normanni" "Flotta Meridionale" "Naviglio del Mediterraneo" "Armata Cristiana" "Flotta Napoletana" "Naviglio dei Capetani" "Armata d'Italia"
+}
+army_names = { 
+	"Legione Pugliese" "Esercito Meridionale" "Difensori della Puglia" "Milizia Urbana" "Soldati della Repubblica" "Guardia Comunale" "Esercito Pubblico" "Difesa della Costa" "Protettori della Patria" "Legione Meridionale"
+}

@@ -2,3 +2,18 @@ graphical_culture = westerngfx
 color = { 
 	31 62 184 
 }
+monarch_names = { 
+	Ivan Dmitri Nikolai Alexander Peter Boris Sergei Mikhail Valentin Konstantin
+}
+leader_names = { 
+	Aleksandr Vasili Georgi Vladimir Igor Pavel Yuri Andrei Leonid Anatoly
+}
+ship_names = { 
+	"Donetsk" "Donskoy" "Stepnoy" "Kazak" "Cossack" "Stepp" "Moskva" "Volga" "Tsar" "Victory"
+}
+fleet_names = { 
+	"Russkiy Flot" "Tsarskoy Vmennykh" "Flotiliya Donetsk" "Flot Doneckiy" "Slavyanskiy Vmennykh" "Imperatorskiy Flot" "Kazakskiy Vmennykh" "Nevskiy Flot" "Russkaya Gvardiya" "Tsarskiy Vmennykh"
+}
+army_names = { 
+	"Russkaya Armiya" "Tsarskoy Voisko" "Defniteli Donca" "Militsiya Tsarya" "Soldaty Imperii" "Gvardiya Tsarskaya" "Armiya Narodnaya" "Zashchita Otechestva" "Zaschitniki Prestola" "Kazakskaya Legiya"
+}

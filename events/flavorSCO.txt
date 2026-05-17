@@ -158,7 +158,7 @@ country_event = {
 			type = theologian
 			name = "Cardinal Beaton"
 			religion = catholic
-			culture = scottish
+			culture = briganter
 			discount = yes
 			skill = 3
 		}
@@ -414,7 +414,7 @@ country_event = {
 		define_advisor = {
 			type = natural_scientist
 			name = "George Bruce"
-			culture = scottish
+			culture = briganter
 			discount = yes
 			skill = 3
 		}

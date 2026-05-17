@@ -2,3 +2,18 @@ graphical_culture = westerngfx
 color = { 
 	128 0 255 
 }
+monarch_names = { 
+	Hamilcar Hannibal Hasdrubal Barca Gisco Mago Adherbal Bomilcar Bostar Asdrubel
+}
+leader_names = { 
+	Carthalo Maharbal Himilco Giscon Amilcar Bodostorat Hanno Muttines Asdrubal Sophonisba
+}
+ship_names = { 
+	"Carthago" "Tanit" "Baal" "Moloch" "Astarte" "Dido" "Malchus" "Megara" "Byrsa" "Phoenician"
+}
+fleet_names = { 
+	"Usul Carthago" "Jaysh Al-Bahr" "Usul Phoenicia" "Qafilat Qart-Hadasht" "Jaysh Al-Thalassa" "Usul Al-Maghreb" "Qafilat Al-Tijarah" "Jaysh Al-Quwah" "Usul Libu" "Qafilat Al-Imbaratoriyya"
+}
+army_names = { 
+	"Jaysh Carthago" "Jund Qart-Hadasht" "Askar Al-Punic" "Haras Al-Malik" "Askar Al-Libico" "Wahid Al-Quwa" "Qanat Al-Difa" "Rihab Al-Imbaratoriyya" "Jiyush Al-Punic" "Haras Al-Maghreb"
+}

@@ -1682,22 +1682,22 @@ frloc_ruler_fem_vow_0098_irish_clan_monarchy_EMPRESS = { # "Impératrice"
 	AND = { government_rank = 3 government = monarchy primary_culture = irish }
 }
 frloc_ruler_masc_cons_0099_hebridean_monarchy_LORD = { # "Seigneur"
-	AND = { government_rank = 1 NOT = { OR = { government_rank = 2 government_rank = 3 } } government = monarchy primary_culture = highland_scottish }
+	AND = { government_rank = 1 NOT = { OR = { government_rank = 2 government_rank = 3 } } government = monarchy primary_culture = pictish }
 }
 frloc_ruler_masc_cons_0099_hebridean_monarchy_KING = { # "Roi"
-	AND = { government_rank = 2 NOT = { government_rank = 3 } government = monarchy primary_culture = highland_scottish }
+	AND = { government_rank = 2 NOT = { government_rank = 3 } government = monarchy primary_culture = pictish }
 }
 frloc_ruler_masc_vow_0099_hebridean_monarchy_EMPEROR = { # "Empereur"
-	AND = { government_rank = 3 government = monarchy primary_culture = highland_scottish }
+	AND = { government_rank = 3 government = monarchy primary_culture = pictish }
 }
 frloc_ruler_fem_cons_0099_hebridean_monarchy_LADY = { # "Dame"
-	AND = { government_rank = 1 NOT = { OR = { government_rank = 2 government_rank = 3 } } government = monarchy primary_culture = highland_scottish }
+	AND = { government_rank = 1 NOT = { OR = { government_rank = 2 government_rank = 3 } } government = monarchy primary_culture = pictish }
 }
 frloc_ruler_fem_cons_0099_hebridean_monarchy_QUEEN = { # "Reine"
-	AND = { government_rank = 2 NOT = { government_rank = 3 } government = monarchy primary_culture = highland_scottish }
+	AND = { government_rank = 2 NOT = { government_rank = 3 } government = monarchy primary_culture = pictish }
 }
 frloc_ruler_fem_vow_0099_hebridean_monarchy_EMPRESS = { # "Impératrice"
-	AND = { government_rank = 3 government = monarchy primary_culture = highland_scottish }
+	AND = { government_rank = 3 government = monarchy primary_culture = pictish }
 }
 frloc_ruler_masc_cons_0100_muscovite_monarchy_GREAT_KNIAZ = { # "Grand knèze"
 	AND = { OR = { government_rank = 1 government_rank = 2 } NOT = { government_rank = 3 } OR = { has_reform = principality has_reform = tsardom } tag = MOS }
@@ -3528,10 +3528,10 @@ frloc_heir_fem_vow_0098_irish_clan_monarchy_HEIR_fem = { # "Héritière"
 	AND = { OR = { government_rank = 1 government_rank = 2 government_rank = 3 } government = monarchy primary_culture = irish }
 }
 frloc_heir_masc_vow_0099_hebridean_monarchy_HEIR = { # "Héritier"
-	AND = { OR = { government_rank = 1 government_rank = 2 government_rank = 3 } government = monarchy primary_culture = highland_scottish }
+	AND = { OR = { government_rank = 1 government_rank = 2 government_rank = 3 } government = monarchy primary_culture = pictish }
 }
 frloc_heir_fem_vow_0099_hebridean_monarchy_HEIR_fem = { # "Héritière"
-	AND = { OR = { government_rank = 1 government_rank = 2 government_rank = 3 } government = monarchy primary_culture = highland_scottish }
+	AND = { OR = { government_rank = 1 government_rank = 2 government_rank = 3 } government = monarchy primary_culture = pictish }
 }
 frloc_heir_masc_cons_0100_muscovite_monarchy_KNIAZHICH = { # "Kniajitch"
 	AND = { OR = { government_rank = 1 government_rank = 2 } NOT = { government_rank = 3 } OR = { has_reform = principality has_reform = tsardom } tag = MOS }
@@ -5248,22 +5248,22 @@ frloc_consort_fem_vow_0098_irish_clan_monarchy_EMPRESS = { # "Impératrice"
 	AND = { government_rank = 3 government = monarchy primary_culture = irish }
 }
 frloc_consort_masc_cons_0099_hebridean_monarchy_LORD = { # "Seigneur"
-	AND = { government_rank = 1 NOT = { OR = { government_rank = 2 government_rank = 3 } } government = monarchy primary_culture = highland_scottish }
+	AND = { government_rank = 1 NOT = { OR = { government_rank = 2 government_rank = 3 } } government = monarchy primary_culture = pictish }
 }
 frloc_consort_masc_cons_0099_hebridean_monarchy_KING = { # "Roi"
-	AND = { government_rank = 2 NOT = { government_rank = 3 } government = monarchy primary_culture = highland_scottish }
+	AND = { government_rank = 2 NOT = { government_rank = 3 } government = monarchy primary_culture = pictish }
 }
 frloc_consort_masc_vow_0099_hebridean_monarchy_EMPEROR = { # "Empereur"
-	AND = { government_rank = 3 government = monarchy primary_culture = highland_scottish }
+	AND = { government_rank = 3 government = monarchy primary_culture = pictish }
 }
 frloc_consort_fem_cons_0099_hebridean_monarchy_LADY = { # "Dame"
-	AND = { government_rank = 1 NOT = { OR = { government_rank = 2 government_rank = 3 } } government = monarchy primary_culture = highland_scottish }
+	AND = { government_rank = 1 NOT = { OR = { government_rank = 2 government_rank = 3 } } government = monarchy primary_culture = pictish }
 }
 frloc_consort_fem_cons_0099_hebridean_monarchy_QUEEN = { # "Reine"
-	AND = { government_rank = 2 NOT = { government_rank = 3 } government = monarchy primary_culture = highland_scottish }
+	AND = { government_rank = 2 NOT = { government_rank = 3 } government = monarchy primary_culture = pictish }
 }
 frloc_consort_fem_vow_0099_hebridean_monarchy_EMPRESS = { # "Impératrice"
-	AND = { government_rank = 3 government = monarchy primary_culture = highland_scottish }
+	AND = { government_rank = 3 government = monarchy primary_culture = pictish }
 }
 frloc_consort_masc_cons_0100_muscovite_monarchy_GREAT_KNIAZ = { # "Grand knèze"
 	AND = { OR = { government_rank = 1 government_rank = 2 } NOT = { government_rank = 3 } OR = { has_reform = principality has_reform = tsardom } tag = MOS }

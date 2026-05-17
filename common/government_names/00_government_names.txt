@@ -5136,7 +5136,7 @@ hebridean_monarchy = {
 	}
 
 	trigger = {
-		primary_culture = highland_scottish
+		primary_culture = pictish
 		government = monarchy
 	}
 }

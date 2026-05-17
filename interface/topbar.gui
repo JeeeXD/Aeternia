@@ -556,7 +556,7 @@ guiTypes = {
 		name = "celtic_clans_bubble_entry"
 		scripted = yes
 		backGround=""
-		position = { x=0 y=-50 }	
+		position = { x = -692 y = -18 }	
 		size = { x=50 y=50 }
 		moveable = 0
 		dontRender = ""
@@ -572,25 +572,25 @@ guiTypes = {
 			scripted = yes
 		}
 				
-		instantTextBoxType = {
-			name = "celtic_clans_frontend_number"
-			#position = { x = -364 y = -18 }
-			position = { x= -319 y = -46 }
-			font = "vic_18"
-			borderSize = {x = 0 y = 0}
-			text = "100"	
-			maxWidth = 50
-			maxHeight = 32
-			format = centre
-			scripted = yes
-		}
+		#instantTextBoxType = {
+		#	name = "celtic_clans_frontend_number"
+		#	#position = { x = -364 y = -18 }
+		#	position = { x= -319 y = -46 }
+		#	font = "vic_18"
+		#	borderSize = {x = 0 y = 0}
+		#	text = "100"	
+		#	maxWidth = 50
+		#	maxHeight = 32
+		#	format = centre
+		#	scripted = yes
+		#}
 		
 		guiButtonType = {
 			name = "celtic_clans_frontend_open_button"
 			scripted = yes
 			position = { x = -344 y = -57 }
 			quadTextureSprite = "GFX_menubar_floating_strip"
-			frame = 11
+			frame = 13
 			shortcut = "Shift+F1"
 		}
 	}

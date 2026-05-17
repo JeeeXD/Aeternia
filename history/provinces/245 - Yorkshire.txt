@@ -1,7 +1,7 @@
 #245 - Yorkshire - West Riding
 owner = EBR
 controller = EBR
-culture = scottish
+culture = briganter
 religion = celtic_pagan
 base_tax = 5
 base_production = 5

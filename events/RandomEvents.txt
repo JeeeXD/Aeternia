@@ -10172,7 +10172,7 @@ country_event = {
 			any_owned_province = {
 				continent = north_america
 				OR = {
-					culture = scottish
+					culture = briganter
 					culture = english
 					culture = welsh
 				}
@@ -10297,7 +10297,7 @@ country_event = {
 				any_owned_province = {
 					continent = north_america
 					OR = {
-						culture = scottish
+						culture = briganter
 						culture = english
 						culture = welsh
 					}
@@ -10403,7 +10403,7 @@ country_event = {
 					any_owned_province = {
 						continent = north_america
 						OR = {
-							culture = scottish
+							culture = briganter
 							culture = english
 							culture = welsh
 						}
@@ -10413,7 +10413,7 @@ country_event = {
 					limit = {
 						continent = north_america
 						OR = {
-							culture = scottish
+							culture = briganter
 							culture = english
 							culture = welsh
 						}
@@ -10604,7 +10604,7 @@ country_event = {
 				limit = {
 					owned_by = ROOT
 					OR = {
-						culture = scottish
+						culture = briganter
 						culture = english
 						culture = welsh
 					}

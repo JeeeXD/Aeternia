@@ -1,7 +1,7 @@
 #251 - Aberdeen
 owner = SCO
 controller = SCO
-culture = highland_scottish#Mix of Highland and Lowland Scotts 
+culture = pictish#Mix of Highland and Lowland Scotts 
 religion = celtic_pagan
 base_tax = 1
 base_production = 4

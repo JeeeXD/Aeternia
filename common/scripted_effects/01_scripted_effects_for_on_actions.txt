@@ -2670,7 +2670,7 @@ on_culture_demoted_effect = {
 			has_country_modifier = gbr_unified_british_isles_culture
 			OR = {
 				NOT = { accepted_culture = irish }
-				NOT = { accepted_culture = highland_scottish }
+				NOT = { accepted_culture = pictish }
 			}
 		}
 		remove_country_modifier = gbr_unified_british_isles_culture

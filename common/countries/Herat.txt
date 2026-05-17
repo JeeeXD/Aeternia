@@ -3,12 +3,17 @@ color = {
 	202 14 241 
 }
 monarch_names = { 
+	Shahrukh Timur Husayn Bayazid Ismail Abbas Ahmad Mohammad Jahan Sultan
 }
 leader_names = { 
+	Yadigarzadeh Qazi Khavari Taher Amanullah Dost Gulistan Farrokh Rustam Jahandar
 }
 ship_names = { 
+	"Herat" "Hari" "Khorasan" "Shahrukh" "Timurid" "Kabul" "Balkh" "Badghis" "Farah" "Harirud"
 }
 fleet_names = { 
+	"Usul Herat" "Jaysh Al-Bahr" "Usul Khorasan" "Qafilat Shahrukh" "Jaysh Hari" "Usul Afghan" "Qafilat Timurid" "Jaysh Al-Khalij" "Usul Turk" "Qafilat Persiya"
 }
 army_names = { 
+	"Jaysh Herat" "Jund Khorasan" "Askar Shahrukh" "Haras Al-Malik" "Askar Timurid" "Wahid Al-Quwa" "Qanat Al-Difa" "Rihab Watan" "Jiyush Afghan" "Haras Persiya"
 }

@@ -2,3 +2,18 @@ graphical_culture = westerngfx
 color = { 
 	3 125 0 
 }
+monarch_names = { 
+	Joao Manuel Pedro Antonio Carlos Luis Fernando Nuno Afonso Duarte
+}
+leader_names = { 
+	Bartolomeu Estevao Diogo Gomes Vasco Fernao Goncalo Pero Simao Lourenco
+}
+ship_names = { 
+	"Beira" "Lusitania" "Portuguesa" "Santa Maria" "Nau Real" "Caravel" "Infante" "Navegador" "Oceano" "Fortuna"
+}
+fleet_names = { 
+	"Armada Portuguesa" "Frota de Beira" "Naveglio Lusitano" "Armada Africana" "Frota do Oceano" "Naveglio Mocambicano" "Armada Cristiana" "Frota Real" "Naveglio do Atlântico" "Armada do Império"
+}
+army_names = { 
+	"Legiao Portuguesa" "Exercito de Beira" "Defensores de Mocambique" "Milicia Real" "Soldados da Patria" "Guarda Lusitana" "Exercito Publico" "Defesa da Colonia" "Protetores do Reino" "Legiao Africana"
+}

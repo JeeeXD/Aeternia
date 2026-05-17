@@ -2,3 +2,18 @@ graphical_culture = westerngfx
 color = { 
 	18 171 188 
 }
+monarch_names = { 
+	Paynos Anoup Gergis Philopator Sixi Paulos Theodoros Kosmos Yohanes Epiphanios
+}
+leader_names = { 
+	Makarios Kyriakos Epiphanios Philemon Shenoute Pisentius Serapion Basileios Pachomios Athanasios
+}
+ship_names = { 
+	"Peshai" "Anoupion" "Gergis" "Kyristos" "Pigon" "Epiphaneia" "Sahne" "Christos" "Agiasma" "Hor-em-heb"
+}
+fleet_names = { 
+	"Peshai Aigyptos" "Stromata Kyriakou" "Ploion Epiphanios" "Peshai Christou" "Aigyptos Orthodoxos" "Stromata Agiou" "Ploion Theodoros" "Peshai Kyriakos" "Aigyptos Koptos" "Stromata Basileos"
+}
+army_names = { 
+	"Stratiotai Gergis" "Pleres Kyristos" "Monachoi Polemioi" "Stratios Epiphanios" "Lexis Agiou" "Strateuma Theodoros" "Machimoi Koptos" "Stratigos Aigyptos" "Taxis Peshai" "Legios Christou"
+}

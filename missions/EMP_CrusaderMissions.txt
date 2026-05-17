@@ -904,7 +904,7 @@ EMP_crusader_5 = {
 		effect = {
 			create_conquistador = {
 				tradition = 100
-				culture = scottish
+				culture = briganter
 			}
 		}
 	}

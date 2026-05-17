@@ -1,7 +1,7 @@
 #4364 - Inner Hebrides
 owner = LOI
 controller = LOI
-culture = highland_scottish
+culture = pictish
 religion = celtic_pagan
 base_tax = 2
 base_production = 3

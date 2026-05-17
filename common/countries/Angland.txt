@@ -2,3 +2,18 @@ graphical_culture = westerngfx
 color = { 
 	28 132 130 
 }
+monarch_names = { 
+	Christian Frederik Magnus Harald Niels Soren Johannes Oluf Valdemar Jens
+}
+leader_names = { 
+	Axel Flemming Gjedde Eriksen Poul Christen Knut Ivar Ragnar Soren
+}
+ship_names = { 
+	"Dannebrog" "Søkrigeren" "Den Danske" "Ravn" "Delfinen" "Vikingen" "Tordenskjold" "Nordstjernen" "Sølowen" "Barkentinen"
+}
+fleet_names = { 
+	"Den Danske Flaade" "Soværnet" "Nordfladen" "Baltikum" "Nordstranden" "Vikingfladen" "Tordenskjolds Flaade" "Danebrog" "Ostersoen" "Kattegat"
+}
+army_names = { 
+	"Den Danske Haer" "Kongens Garde" "Nordmaendenes Legion" "Hirden" "Dannebrughaeren" "Borgerkrighaeren" "Kronens Forsvar" "Nordsoons Vaern" "Valdemar-Legionen" "TordenskjoldsArmee"
+}

@@ -1,7 +1,7 @@
 #4110 - Sutherland
 owner = SCO
 controller = SCO
-culture = highland_scottish
+culture = pictish
 religion = celtic_pagan
 base_tax = 6
 base_production = 5

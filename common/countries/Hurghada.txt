@@ -2,3 +2,18 @@ graphical_culture = westerngfx
 color = { 
 	124 97 143 
 }
+monarch_names = { 
+	Thutmose Amenhotep Ramesses Khafre Khufu Akhenaten Seti Mycerinus Djoser Pepi
+}
+leader_names = { 
+	Amenhotep Khufu Khenti Imhotep Menkaure Sekhmet Ptah Anubis Osiris Horus
+}
+ship_names = { 
+	"Nile" "Khenti-Amentiu" "The Papyrus" "Horus" "The Sphinx" "Amun-Ra" "The Pharaoh" "Thoth" "The Scarab" "Anubis"
+}
+fleet_names = { 
+	"Peshai Nile" "Stromata Khenti" "Ploion Amun" "Peshai Osiris" "Aigyptos Pharaoh" "Stromata Horus" "Ploion Ptah" "Peshai Ra" "Aigyptos Khenti" "Stromata Sekhmet"
+}
+army_names = { 
+	"Stratiotai Ptah" "Pleres Horus" "Monachoi Osiris" "Stratios Amun" "Lexis Pharaoh" "Strateuma Ra" "Machimoi Khenti" "Stratigos Sekhmet" "Taxis Anubis" "Legios Khufu"
+}

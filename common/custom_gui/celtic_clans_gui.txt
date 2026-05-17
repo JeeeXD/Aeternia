@@ -76,7 +76,7 @@ custom_shield = {
 	trigger = {
 		#has_saved_global_event_target = imperial_chaplain
 	}
-    #effect = { }
+    effect = { }
     tooltip = caliphate_ui_caliph_flag_tooltip
     open_country = yes
 }

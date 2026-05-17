@@ -1197,14 +1197,14 @@ monastic_breweries_reform = {
 		OR = {
 			religion = catholic
 			culture_group = gaelic
-			primary_culture = scottish
+			primary_culture = briganter
 		}
 	}
 	trigger = {
 		OR = {
 			religion = catholic
 			culture_group = gaelic
-			primary_culture = scottish
+			primary_culture = briganter
 		}
 		any_owned_province = {
 			OR = {

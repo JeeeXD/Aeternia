@@ -5,3 +5,5 @@ tags={
 name="Vae Victus"
 supported_version="v1.37.5.0"
 replace_path="gfx/loadingscreens"
+replace_path="history/diplomacy"
+replace_path="history/wars"

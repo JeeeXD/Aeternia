@@ -2,3 +2,18 @@ graphical_culture = westerngfx
 color = { 
 	237 243 152 
 }
+monarch_names = { 
+	Ivan Dmitri Nikolai Alexander Peter Boris Sergei Mikhail Valentin Konstantin
+}
+leader_names = { 
+	Aleksandr Vasili Georgi Vladimir Igor Pavel Yuri Andrei Leonid Anatoly
+}
+ship_names = { 
+	"Moskva" "Neva" "Volga" "Caspian" "Tsar" "Victory" "Slavic" "Russian" "Motherland" "Imperial"
+}
+fleet_names = { 
+	"Russkiy Flot" "Tsarskoy Vmennykh" "Flotiliya Volga" "Kaspiiskiy Flot" "Slavyanskiy Vmennykh" "Imperatorskiy Flot" "Moskovskiy Vmennykh" "Nevskiy Flot" "Russkaya Gvardiya" "Tsarskiy Vmennykh"
+}
+army_names = { 
+	"Russkaya Armiya" "Tsarskoy Voisko" "Defniteli Rossii" "Militsiya Tsarya" "Soldaty Imperii" "Gvardiya Tsarskaya" "Armiya Narodnaya" "Zashchita Otechestva" "Zaschitniki Prestola" "Slavyanskaya Legiya"
+}

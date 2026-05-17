@@ -5,7 +5,7 @@ latent_trade_goods = {
 }
 owner = NOL
 controller = NOL
-culture = scottish
+culture = briganter
 religion = celtic_pagan
 base_tax = 2
 base_production = 1

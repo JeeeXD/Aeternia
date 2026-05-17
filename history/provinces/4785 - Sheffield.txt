@@ -1,7 +1,7 @@
 #4785 - Yorkshire - South Riding
 owner = EBR
 controller = EBR
-culture = scottish
+culture = briganter
 religion = celtic_pagan
 base_tax = 3
 base_production = 2

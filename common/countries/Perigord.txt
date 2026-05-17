@@ -3,12 +3,17 @@ color = {
 	69 114 61 
 }
 monarch_names = { 
+	Gaston Bernard Arnaud Bertrand Guillaume Henri Jean Pierre Raymond Dieudo
 }
 leader_names = { 
+	Arnaud Gaspar Sanche Bertrand Guillaume Alain Ferran Joan Mateu Viscount
 }
 ship_names = { 
+	"Aquitania" "Gasconha" "Garonne" "La Gasconne" "Dordogne" "Sainte-Foy" "Perigord" "Armagnac" "Bearn" "Comminges"
 }
 fleet_names = { 
+	"Armada Gasconha" "Flotta d'Aquitania" "Naviglio Gascon" "Armada de Gascogne" "Flotta della Garonna" "Naviglio Aquitano" "Armada Cristiana" "Flotta del Ducato" "Naviglio dell'Occidente" "Armada dei Gascons"
 }
 army_names = { 
+	"Legione Gasconha" "Esercito Aquitano" "Difensori della Gascogna" "Milizia Urbana" "Soldati della Repubblica" "Guardia Ducale" "Esercito dei Coscritti" "Difesa dell'Aquitania" "Protettori della Patria" "Legione Occitana"
 }

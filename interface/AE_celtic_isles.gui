@@ -155,7 +155,7 @@ guiTypes = {
 		}
 
 		listboxType =  {
-			name ="tributary_shield_box"
+			name ="celtic_subjects_box"
 			position = { x = 423 y = 136 }
 			backGround=""
 			size = { x = 210 y = 172 }
@@ -218,7 +218,7 @@ guiTypes = {
 
 	guiButtonType =
 	{
-		name ="tributary_shield"
+		name ="celtic_subjects"
 		quadTextureSprite = "GFX_shield_small"
 		position = { x= 6 y = -16 }
 		tooltip = ""
@@ -228,7 +228,7 @@ guiTypes = {
 	}
 
 	positionType = {
-			name = "tributary_shield_offset"
+			name = "celtic_subjects_offset"
 			position = { x = 26 y = 42 }
 		}
 

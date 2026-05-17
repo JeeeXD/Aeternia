@@ -3,12 +3,17 @@ color = {
 	54 99 216 
 }
 monarch_names = { 
+	Philip Alexander Antigonus Demetrius Lysimachus Pyrrhus Perseus Phillip Cassander Perdiccas
 }
 leader_names = { 
+	Parmenion Antigonus Cleitus Ptolemy Seleucus Lysimachus Philotas Perdiccas Eumenes Craterus
 }
 ship_names = { 
+	"Macedonia" "Hellenic" "Macedon" "Alexander" "Philip" "Athens" "Olympus" "Thermaikos" "Haliacmon" "Axios"
 }
 fleet_names = { 
+	"Armada Makedonia" "Flotta Ellenica" "Naviglio Macedone" "Armada Filippo" "Flotta Alessandrina" "Naviglio Greco" "Armada Cristiana" "Flotta Antica" "Naviglio dell'Egeo" "Armada Macedonica"
 }
 army_names = { 
+	"Legione Macedone" "Esercito Ellenico" "Difensori della Macedonia" "Milizia Antica" "Soldati di Filippo" "Guardia Reale" "Esercito dei Coscritti" "Difesa dell'Ellade" "Protettori del Trono" "Legione Ellenica"
 }

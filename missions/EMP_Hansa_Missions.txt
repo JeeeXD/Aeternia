@@ -866,8 +866,8 @@ hanseatic_britain_tree = {
 				every_owned_province = {
 					limit = { 
 						OR = {
-							culture = highland_scottish
-							culture = scottish
+							culture = pictish
+							culture = briganter
 						}
 					}
 					add_nationalism = -5

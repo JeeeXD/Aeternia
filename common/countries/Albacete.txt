@@ -2,3 +2,18 @@ graphical_culture = westerngfx
 color = { 
 	17 111 33 
 }
+monarch_names = { 
+	Alfonso Enrique Sancho Pedro Juan Diego Fernando Carlos Rodrigo Gabriel
+}
+leader_names = { 
+	Alonso Bartolomé Cristóbal Estéban Feliciano Gaspar Hernando Ignacio Javier Lorenço
+}
+ship_names = { 
+	"Santa Albacete" "La Esperanza" "El Conquiste" "La Fortuna" "San Fernando" "Santa María" "La Prudencia" "El Viajero" "Nuestra Señora" "Santa Cruz"
+}
+fleet_names = { 
+	"La Armada Albaceteña" "La Flota de Castilla" "El Naveglio Español" "La Escuadra Manchega" "La Armada de España" "El Naveglio Ibérico" "La Flota Cristiana" "La Escuadra Real" "El Naveglio Castellano" "La Armada Peninsular"
+}
+army_names = { 
+	"La Legión Albaceteña" "El Ejército Manchego" "Los Defensores de Castilla" "La Milicia Urbana" "Los Soldados de la República" "La Guardia Comunal" "El Ejército Público" "La Defensa Civil" "Los Protectores de la Patria" "La Legión Castellana"
+}

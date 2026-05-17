@@ -2,3 +2,18 @@ graphical_culture = westerngfx
 color = { 
 	45 45 100 
 }
+monarch_names = { 
+	Fergus Niall Aedh Cormac Liam Declan Ruaidri Eochaid Conn Muircheartach
+}
+leader_names = { 
+	Cuchulainn Balor Fionn Oisin Setanta Medb Diarmait Cairbre Tuathal Finnegan
+}
+ship_names = { 
+	"Hibernia" "Celtica" "Albion" "Britannia" "Gaelic" "Celtic" "Tir na nOg" "Avalon" "Camelot" "Erin"
+}
+fleet_names = { 
+	"Armada Celtica" "Catha Mor" "Sluagh Mara" "Longphort" "Clasach Ghaelach" "Armada Ghaelic" "Flota Cheilteach" "Sluagh Fhiarraighe" "Catha an Ifrinn" "Armada Albain"
+}
+army_names = { 
+	"Sluagh Celtica" "Fian Ghaelach" "Daor-Oidhreachd" "Tuatha Ghaelach" "Saighdiuir an Cheilteach" "Garda Ceannachta" "Saighdiuir Fhearainn" "Cosaint an Bhreithimh" "Daoine Cathartha" "Fian Albain"
+}

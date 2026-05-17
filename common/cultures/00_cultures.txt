@@ -645,7 +645,7 @@ gaelic	= {
 			Uallach Uasal �na Una Mona �ua
 		}
 	}
-	highland_scottish = {
+	pictish = {
 		primary = SCO
 
 		male_names = {
@@ -959,7 +959,7 @@ gaelic	= {
 			Rosenwyn Senara Sowena Sowenna Splanna Steren Talwyn Tamsyn Tegen Tregereth Tressa Trueth Wenna Ysella
 		}
 	}
-	scottish = {
+	briganter = {
 		primary = NOL
 		dynasty_names = { 
 			Stuart Stewart Campbell Lennox Murray Graham Gordon Erskine Leslie

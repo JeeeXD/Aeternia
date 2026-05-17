@@ -73,8 +73,8 @@ country_event = {
 			event_target:patriotic_mercs = {
 				home_province = {
 					OR = {
-						culture = highland_scottish
-						culture = scottish
+						culture = pictish
+						culture = briganter
 					}
 				}
 			}

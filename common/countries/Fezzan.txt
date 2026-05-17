@@ -72,6 +72,8 @@ ship_names = {
 	Jabbar Aziz Muhaymin Mu'min Salam Quddus Malik Rahim Rahman 
 }
 fleet_names = { 
+	"Usul Carthago" "Jaysh Al-Bahr" "Usul Phoenicia" "Qafilat Qart-Hadasht" "Jaysh Al-Thalassa" "Usul Al-Maghreb" "Qafilat Al-Tijarah" "Jaysh Al-Quwah" "Usul Libu" "Qafilat Al-Imbaratoriyya"
 }
 army_names = { 
+	"Jaysh Carthago" "Jund Qart-Hadasht" "Askar Al-Punic" "Haras Al-Malik" "Askar Al-Libico" "Wahid Al-Quwa" "Qanat Al-Difa" "Rihab Al-Imbaratoriyya" "Jiyush Al-Punic" "Haras Al-Maghreb"
 }

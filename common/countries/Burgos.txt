@@ -2,3 +2,18 @@ graphical_culture = westerngfx
 color = { 
 	237 52 191 
 }
+monarch_names = { 
+	Alfonso Enrique Sancho Pedro Juan Diego Fernando Carlos Rodrigo Gabriel
+}
+leader_names = { 
+	Alonso Bartolomé Cristóbal Estéban Feliciano Gaspar Hernando Ignacio Javier Lorenço
+}
+ship_names = { 
+	"Santa Burgos" "La Esperanza" "El Conquiste" "La Fortuna" "San Fernando" "Santa María" "La Prudencia" "El Viajero" "Nuestra Señora" "Santa Cruz"
+}
+fleet_names = { 
+	"Armada Burgalesa" "Flota de Castilla" "Naveglio Español" "Escuadra Castellana" "Armada de España" "Naveglio Ibérico" "Armada Cristiana" "Flota Regia" "Naveglio del Duero" "Armada Peninsular"
+}
+army_names = { 
+	"Legión Burgalesa" "Ejército Castellano" "Defensores de Burgos" "Milicia Urbana" "Soldados de la República" "Guardia Comunal" "Ejército Público" "Defensa Civil" "Protectores de la Patria" "Legión Castellana"
+}

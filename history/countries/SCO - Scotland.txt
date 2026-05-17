@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = scottish_monarchy_reform
-primary_culture = scottish
-add_accepted_culture = highland_scottish
+primary_culture = briganter
+add_accepted_culture = pictish
 religion = catholic
 technology_group = latin
 capital = 248 # Edinburgh

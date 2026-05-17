@@ -419,10 +419,10 @@ abolish_manrent_reform = {
 	icon = manrent
 	allow_normal_conversion = yes
 	potential = {
-		primary_culture = scottish
+		primary_culture = briganter
 	}
 	trigger = {
-		primary_culture = scottish
+		primary_culture = briganter
 	}
 	modifiers = {
 		land_morale = 0.10

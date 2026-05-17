@@ -2,3 +2,18 @@ graphical_culture = westerngfx
 color = { 
 	196 9 79 
 }
+monarch_names = { 
+	Alfonso Enrique Sancho Pedro Juan Diego Fernando Carlos Rodrigo Gabriel
+}
+leader_names = { 
+	Alonso Bartolomé Cristóbal Estéban Feliciano Gaspar Hernando Ignacio Javier Lorenço
+}
+ship_names = { 
+	"Santa Ibiza" "La Esperanza" "El Conquiste" "La Fortuna" "San Fernando" "Santa María" "La Prudencia" "El Viajero" "Nuestra Señora" "Santa Cruz"
+}
+fleet_names = { 
+	"Armada Ibicenca" "Flota Mediterranea" "Naveglio Balear" "Escuadra Insular" "Armada de España" "Naveglio Ibérico" "Armada Cristiana" "Flota Regia" "Naveglio del Mediterraneo" "Armada Peninsular"
+}
+army_names = { 
+	"Legión Ibicenca" "Ejército Insular" "Defensores de Ibiza" "Milicia Urbana" "Soldados de la República" "Guardia Comunal" "Ejército Público" "Defensa de la Isla" "Protectores de la Patria" "Legión Balear"
+}

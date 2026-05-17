@@ -1,7 +1,7 @@
 #4362 - West March (Dumfriesshire+Kircudbrightshire)
 owner = NOL
 controller = NOL
-culture = scottish
+culture = briganter
 religion = celtic_pagan
 base_tax = 3
 base_production = 4

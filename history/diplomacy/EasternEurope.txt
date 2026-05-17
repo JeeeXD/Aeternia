@@ -27,3 +27,19 @@ union = {
 	start_date = 1409.1.1
 	end_date = 1526.8.30
 }
+
+# Polish vassal
+vassal = {
+	first = POL
+	second = MAZ
+	start_date = 1444.1.1
+	end_date = 1526.3.9
+}
+
+dependency = {
+    subject_type = march
+	first = TRA
+	second = MRS
+	start_date = 1444.1.1
+	end_date = 1503.11.30
+}
