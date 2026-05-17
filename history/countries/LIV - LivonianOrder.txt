@@ -2,13 +2,13 @@ government = theocracy
 add_government_reform = monastic_order_reform
 government_rank = 1
 technology_group = latin
-primary_culture = baltic_german
+primary_culture = giselian
 add_accepted_culture = latvian
 add_accepted_culture = estonian
-religion = romuva_pagan
+religion = orthodox
 historical_friend = TEU
 historical_friend = RIG
-capital = 37# Livland
+capital = 6535# Livland
 add_army_professionalism = 0.1
 #Livonian Confederation
 set_estate_privilege = estate_church_lands_of_riga

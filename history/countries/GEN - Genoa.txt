@@ -4,7 +4,6 @@ government_rank = 1
 mercantilism = 25
 primary_culture = ligurian
 add_accepted_culture = pontic_greek
-add_accepted_culture = greek
 religion = propyrian
 technology_group = latin
 capital = 101# Genova

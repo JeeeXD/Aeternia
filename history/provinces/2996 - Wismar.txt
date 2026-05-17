@@ -2,7 +2,7 @@
 owner = MKL
 controller = MKL
 add_core = MKL
-culture = pommeranian
+culture = lower_saxon
 religion = orthodox
 base_tax = 4
 base_production = 5

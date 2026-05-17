@@ -6640,7 +6640,7 @@ adopt_technology_group_from_target = {
 	if = { limit = { $target$ = { technology_group = latin } } 			change_technology_group = latin			change_unit_type = latin }
 	if = { limit = { $target$ = { technology_group = slavic } }			change_technology_group = slavic			change_unit_type = slavic }				
 	if = { limit = { $target$ = { technology_group = persian } }			change_technology_group = persian			change_unit_type = persian }				
-	if = { limit = { $target$ = { technology_group = arabic } }				change_technology_group = muslim			change_unit_type = muslim }				
+	if = { limit = { $target$ = { technology_group = arabic } }				change_technology_group = arabic			change_unit_type = muslim }				
 	if = { limit = { $target$ = { technology_group = indian } }				change_technology_group = indian			change_unit_type = indian }				
 	if = { limit = { $target$ = { technology_group = east_african } }		change_technology_group = east_african		change_unit_type = east_african }							
 	if = { limit = { $target$ = { technology_group = central_african } }	change_technology_group = central_african	change_unit_type = central_african }								

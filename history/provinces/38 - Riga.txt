@@ -2,7 +2,7 @@
 owner = LTG
 controller = LTG
 culture = latvian
-religion = orthodox
+religion = romuva_pagan
 base_tax = 4
 base_production = 3
 trade_goods = naval_supplies

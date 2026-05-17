@@ -1,7 +1,7 @@
 #4175 - Lezhe, Scuttari, Northern Albania
-owner = ALB
-controller = ALB
-culture = albanian
+owner = SER
+controller = SER
+culture = serbian
 religion = ibadi
 capital = "Lezhë"
 trade_goods = wool
@@ -9,7 +9,6 @@ base_tax = 3
 base_production = 5
 base_manpower = 4
 is_city = yes
-add_core = ALB
 discovered_by = arabic
 discovered_by = persian
 discovered_by = slavic
@@ -18,3 +17,4 @@ discovered_by = punic
 discovered_by = germanic
 discovered_by = egyptian
 discovered_by = nomad_group
+add_core = SER

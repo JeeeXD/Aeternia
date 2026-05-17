@@ -12,7 +12,6 @@ discovered_by = slavic
 discovered_by = arabic
 discovered_by = persian
 culture = schlesian
-add_core = SOR
 discovered_by = egyptian
 discovered_by = germanic
 discovered_by = punic

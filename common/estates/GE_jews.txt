@@ -1,25 +1,32 @@
 estate_jews = {
-	icon = 7
+	icon = 16
 	
 	# If true, country will get estate
 	trigger = {
 		OR = {
 			has_government_attribute = enables_jewish_estate
 			has_country_flag = country_has_jews_yes
+			any_owned_province = {
+				religion = jewish
+			}
+			num_of_estate_privileges = {
+				estate = estate_jews
+				value = 1
+			}
 		}
 	}
 
 	country_modifier_happy = {
-		interest = 1
+		interest = -0.5
 		tolerance_heathen = 1
 	}
 	country_modifier_neutral = {
-		global_unrest = 2
-		interest = 0.5
+		interest = -0.25
 	}
 	country_modifier_angry = {
-		global_unrest = 4
+		global_unrest = 2
 		tolerance_heathen = -1
+		interest = 1
 	}
 	land_ownership_modifier = {
 	}

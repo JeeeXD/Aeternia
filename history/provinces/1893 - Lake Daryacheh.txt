@@ -1,9 +1,6 @@
 base_tax = 2
 base_manpower = 3
 base_production = 3
-add_core = ARL
-owner = ARL
-controller = ARL
 discovered_by = egyptian
 discovered_by = arabic
 discovered_by = slavic

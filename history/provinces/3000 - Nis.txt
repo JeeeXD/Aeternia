@@ -1,7 +1,7 @@
 # - Nis
-owner = SER
-controller = SER
-culture = serbian
+owner = GTH
+controller = GTH
+culture = goths
 religion = sunni
 capital = "Nis"
 trade_goods = livestock
@@ -9,7 +9,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 3
 is_city = yes
-add_core = SER
 discovered_by = latin
 discovered_by = slavic
 discovered_by = arabic
@@ -18,3 +17,4 @@ discovered_by = punic
 discovered_by = germanic
 discovered_by = egyptian
 discovered_by = nomad_group
+add_core = GTH

@@ -1,6 +1,6 @@
 #Aviero
-owner = POR
-controller = POR
+owner = GAL
+controller = GAL
 culture = galician
 religion = propyrian
 capital = "Aveiro"
@@ -10,7 +10,6 @@ base_tax = 4
 base_production = 4
 base_manpower = 4
 is_city = yes
-add_core = POR
 discovered_by = latin
 discovered_by = arabic
 discovered_by = persian
@@ -20,3 +19,4 @@ discovered_by = celtic
 discovered_by = egyptian
 discovered_by = germanic
 discovered_by = punic
+add_core = GAL

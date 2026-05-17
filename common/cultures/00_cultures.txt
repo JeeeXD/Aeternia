@@ -646,7 +646,7 @@ gaelic	= {
 		}
 	}
 	highland_scottish = {
-		primary = HSC
+		primary = SCO
 
 		male_names = {
 			Aonghas Alasdair Ailbeart Adhamh Ailean Anndra Arailt Artair Aaron Amhlaidh Ailpein
@@ -960,7 +960,7 @@ gaelic	= {
 		}
 	}
 	scottish = {
-		primary = SCO
+		primary = NOL
 		dynasty_names = { 
 			Stuart Stewart Campbell Lennox Murray Graham Gordon Erskine Leslie
 			Scott Douglas Hamilton Lindsay Ker Hay Sinclair Dunbar Kennedy
@@ -1777,6 +1777,43 @@ finno_ugric = { #Ugric
 south_slavic = {
 	graphical_culture = easterngfx
 
+	goths = {
+		primary = GTH
+		dynasty_names = { 
+			"of Gothia"
+		}
+		male_names = {
+			Alexios Ioannes Manuel David Basileios Skantarios Andronikos Michael Georgios Aineias 
+			Aristoteles Bartholomaios Chrysanthos Diogenes Dionysos Eirenaios Elpidios Gregorios Hektor 
+			Iason Iosephos Kastor Kreon Matthaios Nestor Nikolaos Nikomedes Orestes Palaemon Pavlos 
+			Pelagios Alexandros
+			Philemon Philippos Prokopios Stefanos Theodoros Timotheos Ambrosios Petros Herakles Hermes 
+			Hippolytos Hypatios Iakobos Jacob Ignatios Ignatius Innokentios Ioannes John Ioannikios 
+			Iordanes Ioseph Joseph Isaakios Isaias Isidoros Ioulianos Julian Ioustinianos Justinian 
+			Ioustinos Justin Kaisarios Caesar
+			Kallinikos Kallistos Komitas Konstantinos Constantine Konstantios Constantius Konstas Constans 
+			Kosmas Cosmas Kyriakos Kyrillos Cyril Kyros Laurentios Laurence Lazaros Leon Leo Leontios 
+			Leontius Loukas Makarios Manuel Markos Marcus
+			Matthaios Matthew Maurikios Maximos Maximus Megistos Magnus Meletios Methodios Michael Michael 
+			Narses Neophytos Nikephoros Niketas Nikodemos Nikolaos Nicholas Niphon Orestes Pamphilios 
+			Pankratios Pantoleon Paschalis
+			Pavlos Paul Pelagios Pelagius Petros Peter Philaretos Philippos Philip Philotheos Phokas 
+			Photios Polykarpos Porphyrios Prokopios Procopius Pyrros Raphail Romanos Roman Sabas Samuel 
+			Samuel Serapion Sebastianos Sebastian Sergios Sergius Stephanos Stephen
+			Staurakios Symeon Simon Symmachos Symmachus Theocharistos Theodoros Theodore Theodosios 
+			Theodosios Theodotos Theodat Theodoulos Theoktistos Theophanes Theophilos Theophylaktos Thomas 
+			Thomas Tiberios Tiberius Traianos Trajan
+			Timotheos Tryphon Valerios Valerius Zacharias Zenobios Zenon
+		}
+		female_names = {
+			Agape Photine Sotiria Leontia Margarita Margaret Maria Maria Markia Marcia Martha Martha Melissa Melisende Nikarete 
+			Nikoletta Nonna Parthena Pavlina Paulina Pelagia Petronia Petronia Philippa Philippa Phyllis 
+			Pulcheria Pulcheria Rhodanthe Romane Romylia Sergia Sergia Sibylla Sibylla
+			Simonis Sophia Sophia Stephania Stephania Thekla Theochariste Theodora Theodora Theodosia 
+			Theodosia Theognosia Theoktiste Theophano Thomais Valeria Valeria Viviana Viviana Xene Zenobia 
+		}
+	}
+
 	croatian = {
 		primary = CRO
 		male_names = {
@@ -2433,7 +2470,7 @@ east_slavic = {
 		}
 	}
 	zavolzhan = {
-		primary = KIE
+		primary = ZLY
 		male_names = {
 			Ivan Dmitriy Yuriy Andrei Semen Boris Fyodor Oleg Afanasiy Akim Aleksandr Alexei Anatoliy Arkadiy 
 			Dorofey Feodosiy Feofilakt Gavriil Innokentiy Iosif Lavrentiy Makariy Matveiy Mikhail Nazariy 
@@ -2446,7 +2483,7 @@ east_slavic = {
 		}
 	}
 	itilian = {
-		primary = KIE
+		primary = STV
 		male_names = {
 			Ivan Dmitriy Yuriy Andrei Semen Boris Fyodor Oleg Afanasiy Akim Aleksandr Alexei Anatoliy Arkadiy 
 			Dorofey Feodosiy Feofilakt Gavriil Innokentiy Iosif Lavrentiy Makariy Matveiy Mikhail Nazariy 
@@ -3068,6 +3105,7 @@ greek = {
 		}
 	}
 	thracian = {
+		primary = OPS
 		male_names = {
 			Adrianos Akakios Alexandros Alexios Anastasios Anatolios 
 			Andreas Andronikos Anthemios Anthimos Antiokhos Antonios Apollonios 
@@ -3418,42 +3456,7 @@ greek = {
 			"Apsimaros" "Artemios"
 		}
 	}
-	goths = {
-		primary = FEO
-		dynasty_names = { 
-			"of Gothia"
-		}
-		male_names = {
-			Alexios Ioannes Manuel David Basileios Skantarios Andronikos Michael Georgios Aineias 
-			Aristoteles Bartholomaios Chrysanthos Diogenes Dionysos Eirenaios Elpidios Gregorios Hektor 
-			Iason Iosephos Kastor Kreon Matthaios Nestor Nikolaos Nikomedes Orestes Palaemon Pavlos 
-			Pelagios Alexandros
-			Philemon Philippos Prokopios Stefanos Theodoros Timotheos Ambrosios Petros Herakles Hermes 
-			Hippolytos Hypatios Iakobos Jacob Ignatios Ignatius Innokentios Ioannes John Ioannikios 
-			Iordanes Ioseph Joseph Isaakios Isaias Isidoros Ioulianos Julian Ioustinianos Justinian 
-			Ioustinos Justin Kaisarios Caesar
-			Kallinikos Kallistos Komitas Konstantinos Constantine Konstantios Constantius Konstas Constans 
-			Kosmas Cosmas Kyriakos Kyrillos Cyril Kyros Laurentios Laurence Lazaros Leon Leo Leontios 
-			Leontius Loukas Makarios Manuel Markos Marcus
-			Matthaios Matthew Maurikios Maximos Maximus Megistos Magnus Meletios Methodios Michael Michael 
-			Narses Neophytos Nikephoros Niketas Nikodemos Nikolaos Nicholas Niphon Orestes Pamphilios 
-			Pankratios Pantoleon Paschalis
-			Pavlos Paul Pelagios Pelagius Petros Peter Philaretos Philippos Philip Philotheos Phokas 
-			Photios Polykarpos Porphyrios Prokopios Procopius Pyrros Raphail Romanos Roman Sabas Samuel 
-			Samuel Serapion Sebastianos Sebastian Sergios Sergius Stephanos Stephen
-			Staurakios Symeon Simon Symmachos Symmachus Theocharistos Theodoros Theodore Theodosios 
-			Theodosios Theodotos Theodat Theodoulos Theoktistos Theophanes Theophilos Theophylaktos Thomas 
-			Thomas Tiberios Tiberius Traianos Trajan
-			Timotheos Tryphon Valerios Valerius Zacharias Zenobios Zenon
-		}
-		female_names = {
-			Agape Photine Sotiria Leontia Margarita Margaret Maria Maria Markia Marcia Martha Martha Melissa Melisende Nikarete 
-			Nikoletta Nonna Parthena Pavlina Paulina Pelagia Petronia Petronia Philippa Philippa Phyllis 
-			Pulcheria Pulcheria Rhodanthe Romane Romylia Sergia Sergia Sibylla Sibylla
-			Simonis Sophia Sophia Stephania Stephania Thekla Theochariste Theodora Theodora Theodosia 
-			Theodosia Theognosia Theoktiste Theophano Thomais Valeria Valeria Viviana Viviana Xene Zenobia 
-		}
-	}
+	
 	griko = {
 		male_names = {
 			Adrianos Adrian Akakios Alexandros Alexander Alexios Alexis Anastasios Anastasius Anatolios 
@@ -6765,8 +6768,10 @@ egyptian = {
 		primary = ALX
 	}
 	lower_egyptian = {
+		primary = LGY
 	}
 	upper_egyptian = {
+		primary = UGY
 	}
 	acholi = {
 	}

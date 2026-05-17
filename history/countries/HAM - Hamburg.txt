@@ -1,5 +1,5 @@
 government = republic
-add_government_reform = plutocracy_reform
+add_government_reform = noble_republic
 government_rank = 1
 mercantilism = 25
 technology_group = germanic
@@ -21,4 +21,4 @@ historical_friend = RIG#Riga
 }
 1529.1.1 = { religion = protestant }
 1529.1.1 = { set_legacy_government = administrative_republic }
-add_government_reform = plutocracy_reform
+add_government_reform = noble_republic

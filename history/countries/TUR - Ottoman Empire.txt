@@ -2,7 +2,6 @@ government = monarchy
 add_government_reform = ottoman_government
 primary_culture = turkish
 add_accepted_culture = bulgarian
-add_accepted_culture = greek
 religion = sunni
 technology_group = persian
 historical_rival = MAM

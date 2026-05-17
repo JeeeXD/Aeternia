@@ -1,6 +1,6 @@
 #232 - Bragança
-owner = POR
-controller = POR
+owner = LON
+controller = LON
 culture = galician
 religion = propyrian
 capital = "Bragança"
@@ -10,7 +10,6 @@ base_tax = 3
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = POR
 discovered_by = latin
 discovered_by = arabic
 discovered_by = persian
@@ -19,3 +18,4 @@ discovered_by = celtic
 discovered_by = egyptian
 discovered_by = germanic
 discovered_by = punic
+add_core = LON

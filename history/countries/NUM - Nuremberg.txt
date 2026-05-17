@@ -1,5 +1,5 @@
 government = republic
-add_government_reform = plutocracy_reform
+add_government_reform = noble_republic
 government_rank = 1
 mercantilism = 25
 technology_group = germanic
@@ -16,5 +16,5 @@ fixed_capital = 67#Ruled by a council of Patricians
 		regent = yes
 	}
 }
-add_government_reform = plutocracy_reform
-add_government_reform = plutocracy_reform
+add_government_reform = noble_republic
+add_government_reform = noble_republic

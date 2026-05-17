@@ -1,6 +1,6 @@
 #Halland, contains Halmstad, Varberg.
-owner = SWE
-controller = SWE
+owner = KNI
+controller = KNI
 culture = danish
 religion = orthodox
 base_tax = 2
@@ -18,3 +18,4 @@ discovered_by = egyptian
 discovered_by = germanic
 discovered_by = punic
 add_core = SWE
+add_core = KNI

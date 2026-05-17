@@ -8,7 +8,6 @@ base_tax = 4
 base_production = 3
 trade_goods = livestock
 base_manpower = 3
-add_core = SOR
 add_core = BOH
 discovered_by = slavic
 discovered_by = latin

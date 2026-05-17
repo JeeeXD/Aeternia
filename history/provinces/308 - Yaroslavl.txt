@@ -2,7 +2,7 @@
 owner = YAR
 controller = YAR
 culture = russian
-religion = sunni
+religion = slavic_pagan
 base_tax = 1
 base_production = 1
 trade_goods = livestock

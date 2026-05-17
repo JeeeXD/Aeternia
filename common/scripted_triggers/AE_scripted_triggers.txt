@@ -1,0 +1,8 @@
+is_celtic_chief = {
+	custom_trigger_tooltip = {
+		tooltip = has_mil_advisor_tooltip
+		OR = {
+			tag = CEE
+		}
+	}
+}

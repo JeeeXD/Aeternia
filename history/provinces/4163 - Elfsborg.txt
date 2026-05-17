@@ -1,7 +1,7 @@
 #Elfsborgs Län
 add_core = SWE
-owner = SWE
-controller = SWE
+owner = KNI
+controller = KNI
 culture = swedish
 religion = norse_pagan_reformed
 base_tax = 2
@@ -20,4 +20,5 @@ discovered_by = celtic
 discovered_by = egyptian
 discovered_by = germanic
 discovered_by = punic
+add_core = KNI
 fort_15th = yes

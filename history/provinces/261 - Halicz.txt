@@ -1,6 +1,6 @@
 #261 - Halicz
-owner = VOL
-controller = VOL
+owner = TEU
+controller = TEU
 capital = "Halicz"
 culture = ruthenian
 religion = sunni
@@ -18,3 +18,4 @@ discovered_by = punic
 discovered_by = germanic
 discovered_by = egyptian
 discovered_by = nomad_group
+add_core = TEU

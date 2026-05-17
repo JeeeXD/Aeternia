@@ -4,4 +4,4 @@ tags={
 }
 name="Vae Victus"
 supported_version="v1.37.5.0"
-replace_path = "common"
+replace_path="gfx/loadingscreens"

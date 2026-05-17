@@ -2,7 +2,7 @@
 owner = LIT
 controller = LIT
 culture = polish
-religion = orthodox
+religion = romuva_pagan
 trade_goods = livestock
 base_tax = 3
 base_production = 4

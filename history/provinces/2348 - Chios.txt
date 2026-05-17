@@ -2,7 +2,7 @@
 owner = GEN
 controller = GEN
 culture = thracian
-religion = propyrian
+religion = hellenic_pagan
 capital = "Chio"
 trade_goods = wine
 base_tax = 6

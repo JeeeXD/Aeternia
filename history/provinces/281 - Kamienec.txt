@@ -1,6 +1,6 @@
 #281 - Podolia
-owner = VOL
-controller = VOL
+owner = TEU
+controller = TEU
 culture = ruthenian
 religion = sunni
 base_tax = 3
@@ -9,7 +9,6 @@ trade_goods = livestock
 base_manpower = 2
 capital = "Kamieniec"
 is_city = yes
-add_core = VOL
 discovered_by = latin
 discovered_by = slavic
 discovered_by = arabic
@@ -18,4 +17,6 @@ discovered_by = punic
 discovered_by = germanic
 discovered_by = egyptian
 discovered_by = nomad_group
+add_core = TEU
+add_core = KIE
 fort_15th = yes

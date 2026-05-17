@@ -1,7 +1,7 @@
 #Eastern and Northern Småland - Includes parts under Östgötalag
 add_core = SWE
-owner = SWE
-controller = SWE
+owner = KNI
+controller = KNI
 culture = swedish
 religion = orthodox
 base_tax = 1
@@ -17,4 +17,5 @@ discovered_by = persian
 discovered_by = egyptian
 discovered_by = germanic
 discovered_by = punic
+add_core = KNI
 fort_15th = yes

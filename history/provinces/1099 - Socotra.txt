@@ -2,7 +2,7 @@
 owner = MHR
 controller = MHR
 culture = mahri_culture
-religion = coptic
+religion = sunni
 capital = "Suqutra"
 trade_goods = fish
 base_tax = 3

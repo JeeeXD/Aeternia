@@ -1,7 +1,7 @@
 #270 Troki
 owner = LIT
 controller = LIT
-religion = "orthodox"
+religion = "romuva_pagan"
 culture = lithuanian
 capital = "Trakai"
 trade_goods = livestock

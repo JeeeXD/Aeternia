@@ -2,7 +2,7 @@
 owner = VLD
 controller = VLD
 culture = russian
-religion = sunni
+religion = slavic_pagan
 base_tax = 2
 base_production = 1
 trade_goods = salt

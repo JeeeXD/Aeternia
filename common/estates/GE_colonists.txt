@@ -1,0 +1,76 @@
+estate_colonists = {
+	icon = 19
+
+	trigger = {
+		OR = {
+			num_of_colonists = 1
+			any_subject_country = {
+				is_colonial_nation = yes
+			}
+		}
+	}
+
+	country_modifier_happy = {
+		global_colonial_growth = 25
+		colonist_placement_chance = 0.1
+		treasure_fleet_income = 0.2
+	}
+	country_modifier_neutral = {
+		global_colonial_growth = 1
+	}	
+	country_modifier_angry = {
+		global_colonial_growth = -25
+		colonist_placement_chance = -0.1
+		treasure_fleet_income = -0.2
+	}
+	land_ownership_modifier = {
+		colonists_loyalty_modifier = 0.2
+
+	}
+
+	province_independence_weight = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			culture_group = owner
+			religion_group = owner
+		}
+		modifier = {
+			factor = 1.5
+			base_manpower = 5
+		}
+		modifier = {
+			factor = 0.75
+			development = 20
+		}
+		modifier = {
+			factor = 0.5
+			NOT = { is_state_core = owner }
+		}
+	}
+	
+	# Influence modifiers
+	base_influence = 10
+	
+	
+	# Influence modifiers from Events:
+	
+	# Loyalty modifiers
+	
+	
+	#Alternative naming of estates
+
+	# Does the AI want to give any extra territory beyond the minimum?
+
+	# For province assignment
+
+	color = { 255 149 84 }
+	
+	privileges = {
+	}
+
+	agendas = {
+	}
+	
+	influence_from_dev_modifier = 1.0
+}

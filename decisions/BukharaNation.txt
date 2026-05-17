@@ -87,7 +87,7 @@ country_decisions = {
 				limit = { is_revolutionary = no }
 				add_government_reform = iqta
 			}
-			change_technology_group = muslim
+			change_technology_group = arabic
 			change_unit_type = muslim
 			set_global_flag = bukhara_formed
 			if = {

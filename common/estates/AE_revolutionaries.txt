@@ -1,0 +1,72 @@
+estate_revolutionaries = {
+	icon = 17
+
+	trigger = {
+		OR = {
+			has_government_attribute = enables_revolutionary_estate
+			is_revolutionary = yes
+		}
+	}
+
+	country_modifier_happy = {
+		max_revolutionary_zeal = 25
+		yearly_revolutionary_zeal  = 1
+	}
+	country_modifier_neutral = {
+		yearly_revolutionary_zeal  = 0.5
+	}	
+	country_modifier_angry = {
+		max_revolutionary_zeal = -25
+		yearly_revolutionary_zeal  = -1
+		global_unrest = 4
+	}
+	land_ownership_modifier = {
+		revolutionaries_loyalty_modifier = 0.2
+	}
+
+	province_independence_weight = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			culture_group = owner
+			religion_group = owner
+		}
+		modifier = {
+			factor = 1.5
+			base_manpower = 5
+		}
+		modifier = {
+			factor = 0.75
+			development = 20
+		}
+		modifier = {
+			factor = 0.5
+			NOT = { is_state_core = owner }
+		}
+	}
+	
+	# Influence modifiers
+	base_influence = 20
+	
+	
+	# Influence modifiers from Events:
+	
+	# Loyalty modifiers
+	
+	
+	#Alternative naming of estates
+
+	# Does the AI want to give any extra territory beyond the minimum?
+
+	# For province assignment
+
+	color = { 183 0 0  }
+	
+	privileges = {
+	}
+
+	agendas = {
+	}
+	
+	influence_from_dev_modifier = 1.0
+}

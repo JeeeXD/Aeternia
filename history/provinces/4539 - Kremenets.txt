@@ -1,8 +1,8 @@
 #4539 - Kremenets
-owner = LIT
-controller = LIT
+owner = TEU
+controller = TEU
 culture = ruthenian
-religion = sunni
+religion = orthodox
 base_tax = 3
 base_production = 4
 trade_goods = livestock
@@ -10,7 +10,6 @@ base_manpower = 3
 capital = "Kremenets"
 is_city = yes
 add_core = VOL
-add_core = LIT
 discovered_by = latin
 discovered_by = slavic
 discovered_by = arabic
@@ -19,3 +18,5 @@ discovered_by = punic
 discovered_by = germanic
 discovered_by = egyptian
 discovered_by = nomad_group
+add_core = TEU
+add_core = KIE

@@ -2,7 +2,7 @@
 owner = GEN
 controller = GEN
 culture = thracian
-religion = propyrian
+religion = hellenic_pagan
 capital = "Mytilene"
 trade_goods = fish
 base_tax = 4

@@ -2,7 +2,7 @@
 owner = LIT
 controller = LIT
 culture = byelorussian
-religion = orthodox
+religion = romuva_pagan
 base_tax = 1
 base_production = 4
 trade_goods = livestock

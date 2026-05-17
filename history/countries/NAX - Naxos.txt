@@ -2,7 +2,6 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 primary_culture = venetian
-add_accepted_culture = greek
 religion = hellenic_pagan
 technology_group = latin
 capital = 164# Naxos

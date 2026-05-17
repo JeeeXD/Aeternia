@@ -4,4 +4,5 @@ primary_culture = castillian
 religion = hussite
 technology_group = latin
 capital = 207#Asturias
-government_rank = 1
+government_rank = 2
+elector = yes

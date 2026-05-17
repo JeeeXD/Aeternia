@@ -2,16 +2,15 @@ base_tax = 2
 base_manpower = 2
 base_production = 2
 is_city = yes
-owner = BUL
+owner = GTH
 trade_goods = grain
 religion = sunni
-controller = BUL
+controller = GTH
 discovered_by = latin
 discovered_by = slavic
 discovered_by = arabic
 discovered_by = persian
-culture = bulgarian
-add_core = BUL
+culture = goths
 latent_trade_goods = { 
 	coal 
 }
@@ -19,3 +18,4 @@ discovered_by = punic
 discovered_by = germanic
 discovered_by = egyptian
 discovered_by = nomad_group
+add_core = GTH

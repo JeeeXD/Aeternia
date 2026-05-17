@@ -2,7 +2,7 @@
 owner = TVE
 controller = TVE
 culture = russian
-religion = orthodox
+religion = slavic_pagan
 base_tax = 1
 base_production = 4
 trade_goods = grain

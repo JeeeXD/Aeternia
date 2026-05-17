@@ -5066,8 +5066,10 @@ province;red;green;blue;x;x
 5158;92;171;249;Meru;x
 5159;230;98;63;Kitui;x
 5160;182;232;204;Nyeri;x
+5161;109;212;43;russianprov;x
 5162;136;208;44;Naivasha;x
 5163;196;86;163;Nakuru;x
+5164;165;178;21;Nakuru;x
 5165;128;14;184;Moyale;x
 5166;233;128;53;Luuq;x
 5167;4;18;50;Dadaab;x
@@ -5085,6 +5087,7 @@ province;red;green;blue;x;x
 5179;83;21;93;Kuany Lual;x
 5180;43;177;100;Abyei;x
 5181;172;3;173;Gambela;x
+5182;34;146;98;Gambela;x
 5183;14;172;172;Lodwar;x
 5184;5;121;24;Bor;x
 5185;207;225;8;Juba;x
@@ -5557,6 +5560,7 @@ province;red;green;blue;x;x
 5652;116;31;220;Wonsan;x
 5653;189;161;16;Syktyvkar;x
 5654;174;111;151;Otradny;x
+5655;68;21;46;Otradny;x
 5656;230;39;117;Kungur;x
 5657;220;20;69;Nyagan;x
 5658;190;239;113;Uvat;x
@@ -5677,6 +5681,7 @@ province;red;green;blue;x;x
 5773;126;85;129;Sumir;x
 5774;220;8;147;Kuwait;x
 5775;165;223;81;Ramshir;x
+5776;121;235;198;Ramshir;x
 5777;8;220;27;Balakovo;x
 5778;117;106;182;Kuznets;x
 5779;136;121;241;Tolyatti;x
@@ -5684,6 +5689,7 @@ province;red;green;blue;x;x
 5781;100;80;187;Lower-Tagil;x
 5782;86;11;98;Berezniki;x
 5783;169;31;2;Mari-Ei;x
+5784;117;231;56;Mari-Ei;x
 5785;174;255;156;Nay'In;x
 5786;25;205;77;Ghaemshahr;x
 5787;121;31;213;Rasht;x
@@ -5795,6 +5801,8 @@ province;red;green;blue;x;x
 5893;122;61;98;Quilpie;x
 5894;13;17;170;Jundah;x
 5895;55;223;26;Birdsvile;x
+5896;54;223;26;Birdsvile2;x
+5897;54;134;26;Birdsvile3;x
 5898;148;165;231;Ghan;x
 5899;243;220;14;Mutteburra;x
 5900;248;126;101;Boulia;x

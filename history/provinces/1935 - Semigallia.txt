@@ -2,7 +2,7 @@
 owner = KUR
 controller = KUR
 culture = latvian
-religion = orthodox
+religion = romuva_pagan
 base_tax = 4
 base_production = 4
 trade_goods = naval_supplies

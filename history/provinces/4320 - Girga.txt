@@ -2,7 +2,7 @@
 owner = UGY
 controller = UGY
 culture = upper_egyptian
-religion = egyptian_pagan
+religion = coptic
 capital = "Girga"
 trade_goods = grain
 base_tax = 3

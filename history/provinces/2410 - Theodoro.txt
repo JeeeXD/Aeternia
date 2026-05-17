@@ -1,7 +1,7 @@
 #2410 - Theodoro
 owner = CRI
 controller = CRI
-culture = goths
+culture = pontic_greek
 religion = ibadi
 base_tax = 5
 base_production = 6

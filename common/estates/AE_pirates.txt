@@ -1,0 +1,72 @@
+estate_pirates = {
+	icon = 18
+
+	trigger = {
+		OR = {
+			has_government_attribute = enables_pirates_estate
+			has_reform = pirate_republic_reform
+		}
+	}
+
+	country_modifier_happy = {
+		privateer_efficiency = 0.25
+		naval_forcelimit_modifier = 0.15
+	}
+	country_modifier_neutral = {
+		privateer_efficiency = 0.1
+	}	
+	country_modifier_angry = {
+		privateer_efficiency = -0.25
+		global_trade_power = -0.15
+	}
+	land_ownership_modifier = {
+		pirates_loyalty_modifier = 0.2
+
+	}
+
+	province_independence_weight = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			culture_group = owner
+			religion_group = owner
+		}
+		modifier = {
+			factor = 1.5
+			base_manpower = 5
+		}
+		modifier = {
+			factor = 0.75
+			development = 20
+		}
+		modifier = {
+			factor = 0.5
+			NOT = { is_state_core = owner }
+		}
+	}
+	
+	# Influence modifiers
+	base_influence = 10
+	
+	
+	# Influence modifiers from Events:
+	
+	# Loyalty modifiers
+	
+	
+	#Alternative naming of estates
+
+	# Does the AI want to give any extra territory beyond the minimum?
+
+	# For province assignment
+
+	color = { 64 64 64 }
+	
+	privileges = {
+	}
+
+	agendas = {
+	}
+	
+	influence_from_dev_modifier = 1.0
+}

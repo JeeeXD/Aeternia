@@ -1,7 +1,7 @@
 #Western Småland - Tiohärads Lagsaga, ie: Värend, Finnveden och Njudung
 add_core = SWE
-owner = SWE
-controller = SWE
+owner = KNI
+controller = KNI
 culture = swedish
 religion = orthodox
 base_tax = 2
@@ -18,3 +18,4 @@ discovered_by = celtic
 discovered_by = egyptian
 discovered_by = germanic
 discovered_by = punic
+add_core = KNI

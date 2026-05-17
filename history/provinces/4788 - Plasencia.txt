@@ -1,7 +1,6 @@
 #4788 - Plasencia
-owner = LON#Enrique III of Castille
-controller = LON
-add_core = LON
+owner = ERA#Enrique III of Castille
+controller = ERA
 culture = leonese
 religion = propyrian
 base_tax = 5
@@ -18,3 +17,4 @@ hre = yes
 discovered_by = egyptian
 discovered_by = germanic
 discovered_by = punic
+add_core = ERA

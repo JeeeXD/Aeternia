@@ -1,7 +1,6 @@
 #1763 - Niederlausitz
 owner = BOH
 controller = BOH
-add_core = SOR
 add_core = BOH
 capital = "Chotebuz"
 culture = schlesian

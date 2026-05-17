@@ -15,3 +15,4 @@ culture = sorbian
 discovered_by = egyptian
 discovered_by = germanic
 discovered_by = punic
+add_core = SOR

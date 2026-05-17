@@ -2,7 +2,7 @@
 owner = LIT
 controller = LIT
 culture = lithuanian
-religion = orthodox
+religion = romuva_pagan
 capital = "Upyte"
 trade_goods = livestock
 base_tax = 1

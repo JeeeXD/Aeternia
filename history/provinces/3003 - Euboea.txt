@@ -2,7 +2,7 @@
 owner = VEN
 controller = VEN
 culture = athenian
-religion = propyrian
+religion = hellenic_pagan
 capital = "Negroponte"
 trade_goods = fish
 base_tax = 5
