@@ -1,8 +1,6 @@
 # A province can only belong to one region!
 # random_new_world_region is used for RNW. Must be first in this list.
 random_new_world_region = { 
-	areas = { 
-	}
 }
 ########################################
 # EUROPE                               #
@@ -370,7 +368,7 @@ south_china_region = {
 }
 xinan_region = { 
 	areas = { 
-		#云南
+		#云块
 		yun_gui_area yun_gui_borderland_area HengDuan_Mountains YeLang_area East_GuiZhou ChongQing_area chuannan_area chuanbei_area sichuan_area 
 	}
 }

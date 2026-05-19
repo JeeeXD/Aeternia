@@ -1,4 +1,3 @@
-1421.1.1 = { discovered_by = MNG }
 1453.1.1 = { discovered_by = latin }
 1488.1.1 = { discovered_by = POR }
 base_tax = 3
