@@ -8,7 +8,7 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_government_rank_strip"
 		texturefile = "gfx/interface/government_rank_strip.dds"
-		noOfFrames = 3
+		noOfFrames = 5
 	}
 
 	spriteType = {

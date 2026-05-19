@@ -2799,7 +2799,7 @@ mughal_government = {
 			effect = { hidden_effect = { change_variable = { which = cultures_assimilated value = 1 } } }
 			removed_effect = { hidden_effect = { subtract_variable = { which = cultures_assimilated value = 1 } } }
 		}
-		celtic = {
+		gaelic = {
 			ship_durability = 0.05
 			effect = { hidden_effect = { change_variable = { which = cultures_assimilated value = 1 } } }
 			removed_effect = { hidden_effect = { subtract_variable = { which = cultures_assimilated value = 1 } } }
@@ -3809,10 +3809,6 @@ lithuanian_grand_empire = {
 				have_had_reform = lithuanian_grand_empire
 			}
 			has_reform = lithuanian_grand_empire
-			AND = {
-				mission_completed = sca_mission_lit_polish_union
-				total_development = 1000 
-			}
 		}
 	}
 	legacy_equivalent = despotic_monarchy

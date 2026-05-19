@@ -3,7 +3,16 @@ color = {
 	235 35 111 
 }
 monarch_names = { 
-	Gaston Bernard Arnaud Bertrand Guillaume Henri Jean Pierre Raymond Dieudo
+	"Gaston #0" = 0
+	"Bernard #0" = 0
+	"Arnaud #0" = 0
+	"Bertrand #0" = 0
+	"Guillaume #0" = 0
+	"Henri #0" = 0
+	"Jean #0" = 0
+	"Pierre #0" = 0
+	"Raymond #0" = 0
+	"Dieudo #0" = 0
 }
 leader_names = { 
 	Arnaud Gaspar Sanche Bertrand Guillaume Alain Ferran Joan Mateu Viscount

@@ -31,7 +31,7 @@ Affected in-game screens
 - peace terms dialog, various icons smaller, repositioned
 - peace terms dialog, various list length
 - peace terms dialog, switch location "gold"/"peace offer value"
-- war overview dialog, combatants ("us" vs. "them") list length
+- war overview dialog, combatants "us" vs. "them" list length
 - war overview dialog, battles list length
 - war overview dialog, strength of armies repositioned
 - war overview dialog, warscore bar repositioned

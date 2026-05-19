@@ -21,7 +21,7 @@ country_decisions = {
 		
 		effect = {
 			151 = {
-				change_culture = greek
+				change_culture = ROOT
 				change_religion = orthodox
 				rename_capital = Constantinople
 			}

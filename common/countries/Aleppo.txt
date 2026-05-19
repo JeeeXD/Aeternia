@@ -3,7 +3,16 @@ color = {
 	246 85 112 
 }
 monarch_names = { 
-	Muhammad Ahmad Ali Hassan Omar Ibrahim Abdullah Mustafa Salah Nasir
+	"Muhammad #0" = 0
+	"Ahmad #0" = 0
+	"Ali #0" = 0
+	"Hassan #0" = 0
+	"Omar #0" = 0
+	"Ibrahim #0" = 0
+	"Abdullah #0" = 0
+	"Mustafa #0" = 0
+	"Salah #0" = 0
+	"Nasir #0" = 0
 }
 leader_names = { 
 	Ayyub Saladin Qutuz Baybars Khalil Ashraf Nasir Faraj Jaqmaq Qaitbay

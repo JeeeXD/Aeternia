@@ -3,7 +3,16 @@ color = {
 	149 183 47 
 }
 monarch_names = { 
-	Giovanni Marco Federico Sforza Medici Visconti Gonzaga Farnese Este Colonna
+	"Giovanni #0" = 0
+	"Marco #0" = 0
+	"Federico #0" = 0
+	"Sforza #0" = 0
+	"Medici #0" = 0
+	"Visconti #0" = 0
+	"Gonzaga #0" = 0
+	"Farnese #0" = 0
+	"Este #0" = 0
+	"Colonna #0" = 0
 }
 leader_names = { 
 	Alessandro Riccardo Girolamo Niccolò Bartolomeo Giustiniano Paolo Cesare Matteo Vincenzo

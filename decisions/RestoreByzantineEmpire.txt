@@ -85,9 +85,9 @@ country_decisions = {
 			if = {
 				limit = {
 					NOT = { culture_group = greek}
-					NOT = { accepted_culture = greek }
+					NOT = { accepted_culture = athenian }
 				}
-				add_accepted_culture = greek
+				add_accepted_culture = athenian
 			}
 			swap_non_generic_missions = yes
 			on_change_tag_effect = yes
@@ -102,11 +102,11 @@ country_decisions = {
 			give_province_claims = { id = 2410 tag = BYZ }
 			give_province_claims = { id = 285 tag = BYZ }
 			random_owned_province = {
-				limit = { culture = greek }
+				limit = { culture_group = greek }
 				add_base_tax = 1
 			}
 			random_owned_province = {
-				limit = { culture = greek }
+				limit = { culture_group = greek }
 				add_base_tax = 1
 			}
 			add_country_modifier = {

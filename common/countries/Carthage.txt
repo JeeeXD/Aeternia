@@ -3,7 +3,16 @@ color = {
 	128 0 255 
 }
 monarch_names = { 
-	Hamilcar Hannibal Hasdrubal Barca Gisco Mago Adherbal Bomilcar Bostar Asdrubel
+	"Hamilcar #0" = 0
+	"Hannibal #0" = 0
+	"Hasdrubal #0" = 0
+	"Barca #0" = 0
+	"Gisco #0" = 0
+	"Mago #0" = 0
+	"Adherbal #0" = 0
+	"Bomilcar #0" = 0
+	"Bostar #0" = 0
+	"Asdrubel #0" = 0
 }
 leader_names = { 
 	Carthalo Maharbal Himilco Giscon Amilcar Bodostorat Hanno Muttines Asdrubal Sophonisba

@@ -3,7 +3,16 @@ color = {
 	109 77 128 
 }
 monarch_names = { 
-	Hereric Theodoric Vitigis Witiges Atalaric Matasuntha Ostrogotho Theudiric Alaric Reccared
+	"Hereric #0" = 0
+	"Theodoric #0" = 0
+	"Vitigis #0" = 0
+	"Witiges #0" = 0
+	"Atalaric #0" = 0
+	"Matasuntha #0" = 0
+	"Ostrogotho #0" = 0
+	"Theudiric #0" = 0
+	"Alaric #0" = 0
+	"Reccared #0" = 0
 }
 leader_names = { 
 	Theodoric Sueridus Guntharis Witiges Vitigis Gundaric Totila Teias Alaric Reccared

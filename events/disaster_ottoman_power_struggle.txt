@@ -2681,7 +2681,7 @@ country_event = {
 	is_triggered_only = yes
 	trigger = {
 		any_owned_province = {
-			culture = greek
+			culture_group = greek
 			is_overseas = no
 			is_capital = no
 			is_island = no
@@ -2694,7 +2694,7 @@ country_event = {
 		hidden_effect = {
 			random_owned_province = {
 				limit = {
-					culture = greek
+					culture_group = greek
 					is_overseas = no
 					is_capital = no
 					is_island = no
@@ -2711,7 +2711,7 @@ country_event = {
 			spawn_rebels = {
 				win = yes
 				type = nationalist_rebels
-				culture = greek
+				culture = spartan
 				size = 3
 			}
 		}

@@ -701,26 +701,7 @@ tower_of_london = {
 		on_upgraded = {
 		}
 		
-		conditional_modifier = {
-			trigger = {
-				owner = { 
-					OR = { 
-						tag = FRA 
-						was_tag = FRA 
-						overlord = {
-							OR = { 
-								tag = FRA 
-								was_tag = FRA 
-							}
-						}
-					}
-				}
-				FRA = { mission_completed = fra_london }
-			}
-			modifier = {
-				max_absolutism = 5
-			}
-		}	
+		
 	}
 
 	tier_2 = {
@@ -753,27 +734,6 @@ tower_of_london = {
 		on_upgraded = {
 		}
 		
-		conditional_modifier = {
-			trigger = {
-				owner = { 
-					OR = { 
-						tag = FRA 
-						was_tag = FRA 
-						overlord = {
-							OR = { 
-								tag = FRA 
-								was_tag = FRA 
-							}
-						}
-					}
-				}
-				FRA = { mission_completed = fra_london }
-			}
-			modifier = {
-				max_absolutism = 10
-				max_revolutionary_zeal = 5
-			}
-		}	
 	}
 
 	tier_3 = {
@@ -805,28 +765,7 @@ tower_of_london = {
 		#what effects happen when this tier is achieved
 		on_upgraded = {
 		}
-		
-		conditional_modifier = {
-			trigger = {
-				owner = { 
-					OR = { 
-						tag = FRA 
-						was_tag = FRA 
-						overlord = {
-							OR = { 
-								tag = FRA 
-								was_tag = FRA 
-							}
-						}
-					}
-				}
-				FRA = { mission_completed = fra_london }
-			}
-			modifier = {
-				max_absolutism = 10
-				max_revolutionary_zeal = 10
-			}
-		}	
+			
 	}
 }
 
@@ -5056,16 +4995,6 @@ alhambra = {
 			diplomatic_reputation = 1
 		}
 		
-		conditional_modifier = {
-			trigger = {
-				owner = {
-					mission_completed = ARB_across_the_strait
-				}
-			}
-			modifier = {
-				diplomatic_annexation_cost = -0.05
-			}
-		}
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {	

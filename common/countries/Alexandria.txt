@@ -3,7 +3,16 @@ color = {
 	18 171 188 
 }
 monarch_names = { 
-	Paynos Anoup Gergis Philopator Sixi Paulos Theodoros Kosmos Yohanes Epiphanios
+	"Paynos #0" = 0
+	"Anoup #0" = 0
+	"Gergis #0" = 0
+	"Philopator #0" = 0
+	"Sixi #0" = 0
+	"Paulos #0" = 0
+	"Theodoros #0" = 0
+	"Kosmos #0" = 0
+	"Yohanes #0" = 0
+	"Epiphanios #0" = 0
 }
 leader_names = { 
 	Makarios Kyriakos Epiphanios Philemon Shenoute Pisentius Serapion Basileios Pachomios Athanasios

@@ -3,7 +3,16 @@ color = {
 	124 97 143 
 }
 monarch_names = { 
-	Thutmose Amenhotep Ramesses Khafre Khufu Akhenaten Seti Mycerinus Djoser Pepi
+	"Thutmose #0" = 0
+	"Amenhotep #0" = 0
+	"Ramesses #0" = 0
+	"Khafre #0" = 0
+	"Khufu #0" = 0
+	"Akhenaten #0" = 0
+	"Seti #0" = 0
+	"Mycerinus #0" = 0
+	"Djoser #0" = 0
+	"Pepi #0" = 0
 }
 leader_names = { 
 	Amenhotep Khufu Khenti Imhotep Menkaure Sekhmet Ptah Anubis Osiris Horus

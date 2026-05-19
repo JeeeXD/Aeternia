@@ -3,7 +3,16 @@ color = {
 	3 125 0 
 }
 monarch_names = { 
-	Joao Manuel Pedro Antonio Carlos Luis Fernando Nuno Afonso Duarte
+	"Joao #0" = 0
+	"Manuel #0" = 0
+	"Pedro #0" = 0
+	"Antonio #0" = 0
+	"Carlos #0" = 0
+	"Luis #0" = 0
+	"Fernando #0" = 0
+	"Nuno #0" = 0
+	"Afonso #0" = 0
+	"Duarte #0" = 0
 }
 leader_names = { 
 	Bartolomeu Estevao Diogo Gomes Vasco Fernao Goncalo Pero Simao Lourenco

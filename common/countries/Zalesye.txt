@@ -3,7 +3,16 @@ color = {
 	12 152 19 
 }
 monarch_names = { 
-	Ivan Dmitri Nikolai Alexander Peter Boris Sergei Mikhail Valentin Konstantin
+	"Ivan #0" = 0
+	"Dmitri #0" = 0
+	"Nikolai #0" = 0
+	"Alexander #0" = 0
+	"Peter #0" = 0
+	"Boris #0" = 0
+	"Sergei #0" = 0
+	"Mikhail #0" = 0
+	"Valentin #0" = 0
+	"Konstantin #0" = 0
 }
 leader_names = { 
 	Aleksandr Vasili Georgi Vladimir Igor Pavel Yuri Andrei Leonid Anatoly

@@ -562,7 +562,7 @@ BYZ_convert_to_greek_culture = { #It's here in case I want to add anatolian-them
 		change_culture = cappadocian_greek
 	}
 	else = {
-		change_culture = greek
+		change_culture = athenian
 	}
 }
 

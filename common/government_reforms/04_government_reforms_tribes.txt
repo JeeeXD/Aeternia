@@ -674,7 +674,7 @@ tribe_becomes_monarchy_reform = {
 				}
 			}
 			change_technology_group = arabic
-			change_unit_type = muslim
+			change_unit_type = arabic
 		}
 		if = {
 			limit = {

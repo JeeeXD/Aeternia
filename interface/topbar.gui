@@ -565,12 +565,12 @@ guiTypes = {
 		fullScreen = no
 		orientation = "LOWER_RIGHT"
 	
-		iconType = {
-			name ="celtic_clans_frontend_open_bg"
-			spriteType = "GFX_menubar_floating_bg_sideways"
-			position = { x= -320 y = -61 }
-			scripted = yes
-		}
+		#iconType = {
+		#	name ="celtic_clans_frontend_open_bg"
+		#	spriteType = "GFX_menubar_floating_bg_sideways"
+		#	position = { x= -320 y = -61 }
+		#	scripted = yes
+		#}
 				
 		#instantTextBoxType = {
 		#	name = "celtic_clans_frontend_number"

@@ -3110,7 +3110,7 @@ country_event = {
 		name = new_flavour_hun.3.A
 
 		151 = {
-			change_culture = greek
+			change_culture = thracian
 			change_religion = orthodox
 		}
 

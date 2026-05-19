@@ -47,7 +47,7 @@ country_event = {
 			}
 			every_province = {
 				limit = {
-					culture = greek
+					culture_group = greek
 					NOT = {
 						owned_by = ROOT
 					}

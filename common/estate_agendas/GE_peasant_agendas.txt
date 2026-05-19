@@ -410,7 +410,7 @@ estate_peasants_expand_lebensraum = {
 		}
 	}
 	selection_weight = {
-		factor = 0.5
+		factor = 1
 		modifier = {
 			factor = 2
 			army_size_percentage = 0.75

@@ -1,1 +1,1 @@
-technology_group = latin
+technology_group = western

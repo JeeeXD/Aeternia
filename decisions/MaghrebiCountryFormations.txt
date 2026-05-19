@@ -164,7 +164,7 @@ country_decisions = {
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
 			OR = {
-				primary_culture = algerian
+				primary_culture = yiqsemi
 				AND = {
 					primary_culture = berber
 					capital_scope = { area = algiers_area }
@@ -249,7 +249,7 @@ country_decisions = {
 				}
 				set_government_rank = 2
 			}
-			change_primary_culture = algerian
+			change_primary_culture = yiqsemi
 			algiers_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
@@ -322,7 +322,7 @@ country_decisions = {
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
 			OR = {
-				primary_culture = tunisian
+				primary_culture = carthaginian
 				primary_culture = berber
 			}
 			OR = {
@@ -389,7 +389,7 @@ country_decisions = {
 				}
 				set_government_rank = 2
 			}
-			change_primary_culture = tunisian
+			change_primary_culture = carthaginian
 			tunisia_area = {
 				limit = {
 					NOT = { owned_by = ROOT }
@@ -441,7 +441,7 @@ country_decisions = {
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
 			OR = {
-				primary_culture = tunisian
+				primary_culture = carthaginian
 				primary_culture = berber
 			}
 			capital_scope = {
@@ -505,7 +505,6 @@ country_decisions = {
 				}
 				set_government_rank = 2
 			}
-			change_primary_culture = tunisian
 			tripolitania_area = {
 				limit = {
 					NOT = { owned_by = ROOT }

@@ -3,7 +3,16 @@ color = {
 	202 14 241 
 }
 monarch_names = { 
-	Shahrukh Timur Husayn Bayazid Ismail Abbas Ahmad Mohammad Jahan Sultan
+	"Shahrukh #0" = 0
+	"Timur #0" = 0
+	"Husayn #0" = 0
+	"Bayazid #0" = 0
+	"Ismail #0" = 0
+	"Abbas #0" = 0
+	"Ahmad #0" = 0
+	"Mohammad #0" = 0
+	"Jahan #0" = 0
+	"Sultan #0" = 0
 }
 leader_names = { 
 	Yadigarzadeh Qazi Khavari Taher Amanullah Dost Gulistan Farrokh Rustam Jahandar

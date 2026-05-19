@@ -3,7 +3,16 @@ color = {
 	17 111 33 
 }
 monarch_names = { 
-	Alfonso Enrique Sancho Pedro Juan Diego Fernando Carlos Rodrigo Gabriel
+	"Alfonso #0" = 0
+	"Enrique #0" = 0
+	"Sancho #0" = 0
+	"Pedro #0" = 0
+	"Juan #0" = 0
+	"Diego #0" = 0
+	"Fernando #0" = 0
+	"Carlos #0" = 0
+	"Rodrigo #0" = 0
+	"Gabriel #0" = 0
 }
 leader_names = { 
 	Alonso Bartolomé Cristóbal Estéban Feliciano Gaspar Hernando Ignacio Javier Lorenço

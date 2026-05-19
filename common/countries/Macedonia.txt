@@ -3,7 +3,16 @@ color = {
 	54 99 216 
 }
 monarch_names = { 
-	Philip Alexander Antigonus Demetrius Lysimachus Pyrrhus Perseus Phillip Cassander Perdiccas
+	"Philip #0" = 0
+	"Alexander #0" = 0
+	"Antigonus #0" = 0
+	"Demetrius #0" = 0
+	"Lysimachus #0" = 0
+	"Pyrrhus #0" = 0
+	"Perseus #0" = 0
+	"Phillip #0" = 0
+	"Cassander #0" = 0
+	"Perdiccas #0" = 0
 }
 leader_names = { 
 	Parmenion Antigonus Cleitus Ptolemy Seleucus Lysimachus Philotas Perdiccas Eumenes Craterus

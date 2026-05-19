@@ -3,7 +3,16 @@ color = {
 	45 45 100 
 }
 monarch_names = { 
-	Fergus Niall Aedh Cormac Liam Declan Ruaidri Eochaid Conn Muircheartach
+	"Fergus #0" = 0
+	"Niall #0" = 0
+	"Aedh #0" = 0
+	"Cormac #0" = 0
+	"Liam #0" = 0
+	"Declan #0" = 0
+	"Ruaidri #0" = 0
+	"Eochaid #0" = 0
+	"Conn #0" = 0
+	"Muircheartach #0" = 0
 }
 leader_names = { 
 	Cuchulainn Balor Fionn Oisin Setanta Medb Diarmait Cairbre Tuathal Finnegan
