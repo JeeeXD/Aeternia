@@ -1,7 +1,6 @@
 government = theocracy
 add_government_reform = leading_clergy_reform
 technology_group = germanic
-elector = yes
 religion = orthodox
 primary_culture = hessian
 capital = 80# Trier

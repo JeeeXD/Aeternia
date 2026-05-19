@@ -59,25 +59,3 @@ custom_button = {
 		}
     }
 }
-
-
-
-
-
-
-
-
-
-custom_shield = {
-	name = chief_shield
-    potential = {
-		tag = ENG
-		#NOT = { has_global_flag = caliph_held_by_infidels }
-	}
-	trigger = {
-		#has_saved_global_event_target = imperial_chaplain
-	}
-    effect = { }
-    tooltip = caliphate_ui_caliph_flag_tooltip
-    open_country = yes
-}
