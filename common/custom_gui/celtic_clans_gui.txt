@@ -20,17 +20,30 @@ custom_window = {
 	}
 }
 
+custom_icon = {
+	name = celtic_clans_floating_bg
+    potential = {
+	}
+}
+
 custom_button = {
-	name = celtic_clans_frontend_open_button
+	name = celtic_clans_floating_open_button
 	trigger = {
-		always = yes
 	}
 	potential = {
 	}
 	effect = {
-		set_country_flag = celtic_clans_window_shown	
+		if = {
+			limit = {
+				has_country_flag = celtic_clans_window_shown
+			}
+			clr_country_flag = celtic_clans_window_shown
+		}
+		else = {
+			set_country_flag = celtic_clans_window_shown
+		}
 	}
-	tooltip = "[Root.GetEEBubble1TT]"
+	tooltip = "Celtic Clans"
 	frame = {
         number = 11
         trigger = { 
@@ -43,18 +56,6 @@ custom_button = {
 				    }
 			    }
 		    }
-		}
-    }
-	frame = {
-        number = 12
-        trigger = { 
-			always = yes
-		}
-    }
-	frame = {
-        number = 13
-        trigger = { 
-			always = yes
 		}
     }
 }

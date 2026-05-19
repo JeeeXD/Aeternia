@@ -846,7 +846,7 @@ spriteTypes = {
 		texturefile = "gfx//interface//menubar_floating_strip.tga"
 		effectFile = "gfx/FX/buttonstate.lua"
 		clicksound = click
-		noOfFrames = 10
+		noOfFrames = 11
 	}
 	spriteType = {
 		name = "GFX_mailbox_icon"

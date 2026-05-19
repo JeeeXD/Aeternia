@@ -3,3 +3,4 @@ capital = 314
 technology_group = slavic
 primary_culture = russian
 government_rank = 1
+government = monarchy

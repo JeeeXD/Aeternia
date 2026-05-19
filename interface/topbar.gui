@@ -565,12 +565,12 @@ guiTypes = {
 		fullScreen = no
 		orientation = "LOWER_RIGHT"
 	
-		#iconType = {
-		#	name ="celtic_clans_frontend_open_bg"
-		#	spriteType = "GFX_menubar_floating_bg_sideways"
-		#	position = { x= -320 y = -61 }
-		#	scripted = yes
-		#}
+		iconType = {
+			name ="celtic_clans_floating_bg"
+			spriteType = "GFX_menubar_floating_bg"
+			position = { x= -320 y = -24 }
+			scripted = yes
+		}
 				
 		#instantTextBoxType = {
 		#	name = "celtic_clans_frontend_number"
@@ -586,11 +586,11 @@ guiTypes = {
 		#}
 		
 		guiButtonType = {
-			name = "celtic_clans_frontend_open_button"
+			name = "celtic_clans_floating_open_button"
 			scripted = yes
-			position = { x = -344 y = -57 }
+			position = { x = -344 y = -20 }
 			quadTextureSprite = "GFX_menubar_floating_strip"
-			frame = 13
+			frame = 11
 			shortcut = "Shift+F1"
 		}
 	}

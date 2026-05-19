@@ -3,3 +3,4 @@ capital = 4280
 technology_group = arabic
 primary_culture = yemeni_culture
 government_rank = 1
+government = monarchy
