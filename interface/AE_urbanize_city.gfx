@@ -1,0 +1,14 @@
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_urbanise_city_icon"
+		texturefile = "gfx//interface//urbanise_city_icon.dds"
+		loadType = "INGAME"
+		legacy_lazy_load=no 
+	}
+	spriteType = {
+		name = "GFX_upgraded_city_icon"
+		texturefile = "gfx//interface//upgraded_city_icon.dds"
+		loadType = "INGAME"
+		legacy_lazy_load=no 
+	}
+}

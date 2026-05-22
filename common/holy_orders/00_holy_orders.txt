@@ -4,7 +4,7 @@ benedictines = {
     	OR = { 
 			AND = { 
 				culture_group = iberian
-				religion = catholic
+				religion = propyrian
 			}
 			has_country_flag = enable_holy_orders_flag 
 		}
@@ -41,7 +41,7 @@ carthusians = {
     	OR = { 
 			AND = { 
 				culture_group = iberian
-				religion = catholic
+				religion = propyrian
 			}
 			has_country_flag = enable_holy_orders_flag 
 		}
@@ -78,7 +78,7 @@ hieronymites = {
     	OR = { 
 			AND = { 
 				culture_group = iberian
-				religion = catholic
+				religion = propyrian
 			}
 			has_country_flag = enable_holy_orders_flag 
 		}
@@ -115,7 +115,7 @@ jesuit_order = {
     	OR = { 
 			AND = { 
 				culture_group = iberian
-				religion = catholic
+				religion = propyrian
 			}
 			has_country_flag = enable_holy_orders_flag 
 			#has_country_flag = enable_jesuit_order_flag
@@ -156,7 +156,7 @@ augustinians = {
     	OR = { 
 			AND = { 
 				culture_group = iberian
-				religion = catholic
+				religion = propyrian
 			}
 			has_country_flag = enable_holy_orders_flag 
 		}
@@ -193,7 +193,7 @@ carmelites = {
     	OR = { 
 			AND = { 
 				culture_group = iberian
-				religion = catholic
+				religion = propyrian
 			}
 			has_country_flag = enable_holy_orders_flag 
 		}
@@ -230,7 +230,7 @@ dominican_order = {
 		OR = { 
 			AND = { 
 				culture_group = iberian
-				religion = catholic
+				religion = propyrian
 			}
 			has_country_flag = enable_holy_orders_flag 
 		}
@@ -287,7 +287,7 @@ franciscan_order = {
         OR = { 
 			AND = { 
 				culture_group = iberian
-				religion = catholic
+				religion = propyrian
 			}
 			has_country_flag = enable_holy_orders_flag 
 		}
@@ -895,10 +895,7 @@ du_si = {
 kashifs = {
     icon = GFX_holy_order_kashifs
     trigger = {
-		custom_trigger_tooltip = {
-			tooltip = mam_has_access_to_kashifs_tt
-			has_country_flag = mam_enable_kashifs_local_organizations_flag
-		} 
+		tag = HUN
     }
     color = { 240 255 10 }
     cost = 50
@@ -927,12 +924,7 @@ kashifs = {
 savafid_order = {
     icon = GFX_holy_order_savafid_order  
     trigger = {
-        OR = {
-            has_government_attribute = unlock_persia_holy_orders
-            unlocked_holy_order = { type = savafid_order }
-            is_or_was_tag = { tag = ARL }
-        }
-        religion = shiite
+       tag = HUN
     }
     color = { 68 110 35 }
     cost = 100
@@ -966,11 +958,7 @@ savafid_order = {
 zahediyeh_order = {
     icon = GFX_holy_order_zahediyeh_order  
     trigger = {
-        OR = {
-            has_government_attribute = unlock_persia_holy_orders
-            unlocked_holy_order = { type = zahediyeh_order }
-        }
-        religion_group = muslim
+        tag = HUN
     }
     color = { 217 144 88 }
     cost = 100
@@ -1032,10 +1020,7 @@ order_of_the_dragon_order = {
     icon = GFX_holy_order_dragon_order
     trigger = {
         OR = {
-            has_government_attribute = order_of_the_dragon_unlocked
-            unlocked_holy_order = { type = order_of_the_dragon }
-			has_country_flag = boh_unlocked_order_of_the_dragon
-			has_country_flag = hun_keep_order_of_the_dragon
+            tag = HUN
 		}
     }
     color = { 220 40 30 }

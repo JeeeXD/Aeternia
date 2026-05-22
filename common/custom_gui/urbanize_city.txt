@@ -1,0 +1,25 @@
+custom_button = {
+	name = urbanise_city_button
+	trigger = {
+		NOT = { has_province_flag = urbanized_city }
+	}
+	potential = {
+	}
+	effect = {
+		set_province_flag = urbanized_city
+	}
+	tooltip = ""
+}
+
+custom_button = {
+	name = downgrade_city_button
+	trigger = {
+		has_province_flag = urbanized_city
+	}
+	potential = {
+	}
+	effect = {
+		clr_province_flag = urbanized_city
+	}
+	tooltip = ""
+}
