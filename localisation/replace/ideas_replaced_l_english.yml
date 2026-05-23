@@ -25,3 +25,9 @@
  expansion_ideas: "Expansion"
  infrastructure_ideas: "Infrastructure"
  administrative_ideas: "§JDecentralization§!"
+
+RANK_1: "County"
+RANK_2: "Duchy"
+RANK_3: "Grand Duchy"
+RANK_4: "Kingdom"
+RANK_5: "Empire"

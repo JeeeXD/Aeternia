@@ -1,0 +1,131 @@
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_embassy"
+		texturefile = "gfx//interface//latin_embassy.tga"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_bank"
+		texturefile = "gfx//interface//latin_customs_house.tga"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_palace"
+		texturefile = "gfx//interface//.tga"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_charter_hall"
+		texturefile = "gfx//interface//latin_treasury.tga"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_feudal_court"
+		texturefile = "gfx//interface//.tga"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_war_college"
+		texturefile = "gfx//interface//latin_spy_agency.tga"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_royal_academy"
+		texturefile = "gfx//interface//latin_war_college.tga"
+		loadType = "INGAME"
+	}
+
+
+	spriteType = {
+		name = "GFX_basilica"
+		texturefile = "gfx//interface//latin_admiralty.tga"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_forge"
+		texturefile = "gfx//interface//latin_post_office.tga"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_military_academy"
+		texturefile = "gfx//interface//latin_armory.tga"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_banner_hall"
+		texturefile = "gfx//interface//latin_arsenal.tga"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_lighthouse"
+		texturefile = "gfx//interface//.tga"
+		loadType = "INGAME"
+	}
+
+
+	spriteType = {
+		name = "GFX_fountains"
+		texturefile = "gfx//interface//.tga"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_bathhouse"
+		texturefile = "gfx//interface//.tga"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_theatre"
+		texturefile = "gfx//interface//.tga"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_opera_house"
+		texturefile = "gfx//interface//.tga"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_inn"
+		texturefile = "gfx//interface//.tga"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_brothel"
+		texturefile = "gfx//interface//.tga"
+		loadType = "INGAME"
+	}
+
+
+	spriteType = {
+		name = "GFX_mineshaft"
+		texturefile = "gfx//interface//.tga"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_smeltery"
+		texturefile = "gfx//interface//.tga"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_foundry"
+		texturefile = "gfx//interface//.tga"
+		loadType = "INGAME"
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+	spriteType = {
+		name = "GFX_banner_right_4"
+		texturefile = "gfx//interface//banner_right_4.dds"
+		loadType = "INGAME"
+	}
+}

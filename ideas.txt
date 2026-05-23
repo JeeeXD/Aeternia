@@ -1,6 +1,6 @@
 dutch crusaders into england
 4th mana type obtained by chancellor: double building slot like center of trade used for global buildings
-
+have all river provinces defined as rivers so you can have them grant modifiers be built bridges
 
 
 
