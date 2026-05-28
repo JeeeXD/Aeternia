@@ -922,6 +922,69 @@ guiTypes = {
 			spriteType = "GFX_building_upgrade_icon"
 		}
 
+
+		## FORCELIMIT ##
+
+		checkboxType = {
+			name = "build_regimental_camp"
+			position = { x = 9 y = 400 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" #Placeholder, real sprite is decided by game (based on button name).
+		}
+		
+		instantTextBoxType={
+			name = "regimental_camp_cost"
+			position = {x = 9 y = 450 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}	
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"	
+		}
+		
+		checkboxType = {
+			name = "build_conscription_center"
+			position = { x = 61 y = 400 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" #Placeholder, real sprite is decided by game (based on button name).
+		}
+		
+		instantTextBoxType={
+			name = "conscription_center_cost"
+			position = {x = 61 y = 450 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}	
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"	
+		}
+		
+		iconType = {
+			name = "regimental_camp_to_conscription_center_arrow"
+			position = { x = 53 y = 409 }
+			spriteType = "GFX_building_upgrade_icon"
+		}			
+		
+		checkboxType = {
+			name = "build_banner_hall"
+			position = { x = 113 y = 400 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" #Placeholder, real sprite is decided by game (based on button name).
+		}
+		
+		instantTextBoxType={
+			name = "banner_hall_cost"
+			position = {x = 113 y = 450 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}	
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"	
+		}
+
+		iconType = {
+			name = "conscription_center_to_banner_hall_arrow"
+			position = { x = 105 y = 409 }
+			spriteType = "GFX_building_upgrade_icon"
+		}
+
 		
 		
 
@@ -1010,13 +1073,13 @@ guiTypes = {
 
 		iconType = {
 			name = "naval_defense_banner"
-			position = { x = 240 y = 291 }
-			spriteType = "GFX_banner_right_2"
+			position = { x = 240 y = 194 }
+			spriteType = "GFX_banner_right_3"
 		}
 
 		instantTextBoxType={
 			name = "title_naval_defense"
-			position = {x = 284 y = 300 }
+			position = {x = 284 y = 203 }
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
 			maxWidth = 160
@@ -1027,19 +1090,19 @@ guiTypes = {
 		iconType ={
 			name ="naval_defense_icon"
 			spriteType = "GFX_macro_buildings_category_strip"
-			position = { x = 255 y = 294}
+			position = { x = 255 y = 197}
 			frame = 9
 		}
 
 		checkboxType = {
 			name = "build_coastal_defence"
-			position = { x = 268 y = 322 }
+			position = { x = 264 y = 226 }
 			quadTextureSprite = "GFX_courthouse_muslimgfx" #Placeholder, real sprite is decided by game (based on button name).
 		}
 
 		instantTextBoxType={
 			name = "coastal_defence_cost"
-			position = {x = 268 y = 372 }
+			position = {x = 264 y = 276 }
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
 			maxWidth = 128
@@ -1049,13 +1112,13 @@ guiTypes = {
 
 		checkboxType = {
 			name = "build_naval_battery"
-			position = { x = 320 y = 322 }
+			position = { x = 316 y = 226 }
 			quadTextureSprite = "GFX_courthouse_muslimgfx" #Placeholder, real sprite is decided by game (based on button name).
 		}
 
 		instantTextBoxType={
 			name = "naval_battery_cost"
-			position = {x = 320 y = 372 }
+			position = {x = 316 y = 276 }
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
 			maxWidth = 128
@@ -1065,8 +1128,47 @@ guiTypes = {
 
 		iconType = {
 			name = "coastal_defence_to_naval_battery_arrow"
-			position = { x = 312 y = 332 }
+			position = { x = 308 y = 235 }
 			spriteType = "GFX_building_upgrade_icon"
+		}
+
+		checkboxType = {
+			name = "build_lighthouse"
+			position = { x = 368 y = 226 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" #Placeholder, real sprite is decided by game (based on button name).
+		}
+		
+		instantTextBoxType={
+			name = "lighthouse_cost"
+			position = {x = 368 y = 276 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}	
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"	
+		}
+
+		iconType = {
+			name = "roads_banner"
+			position = { x = 240 y = 291 }
+			spriteType = "GFX_banner_right_3"
+		}
+		
+		instantTextBoxType={
+			name = "title_roads"
+			position = {x = 284 y = 300 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}	
+			maxWidth = 160
+			maxHeight = 18
+			text = "BUILDING_CATEGORY_2"	
+		}
+		
+		iconType ={
+			name ="roads_icon"
+			spriteType = "GFX_macro_buildings_category_strip"
+			position = { x = 255 y = 294}
+			frame = 5
 		}
 		
 
